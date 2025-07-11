@@ -1,0 +1,2 @@
+vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.17.213.241:443?path=%2F&security=tls&encryption=none&host=ad.oldcloud.online&fp=chrome&type=ws&sni=ad.oldcloud.online#RELAY🚩 | ad.oldcloud.online-443 | 109.76ms
+vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.17.221.248:443?security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F&fp=chrome#🇦🇩[openproxylist.com] vless-AD

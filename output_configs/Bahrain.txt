@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.105.32:443#BH%F0%9F%87%A7%F0%9F%87%AD+%7C+15.185.105.32-443+%7C+247.48ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A7%F0%9F%87%ADBahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A7%F0%9F%87%ADBahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A7%F0%9F%87%ADBahrain
+vless://89d8f551-1647-4a48-b52f-e2d725f8196d@16.24.214.116:443?security=reality&encryption=none&pbk=QN6ynSrvsJcBnL_jK7WVZkuPKcuwEHAoDimch_nqog0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=jetbrains.com&sid=c8#REALITY|BH🇧🇭 | 16.24.214.116-443 | 187.16ms
+vless://c48d54b2-c560-5f86-904f-b4ecf4a3b4ad@s1.saitsazs.ir:30000?sni=refersion.com&sid=31e7200536a1ad45&mode=gun&security=reality&encryption=none&fp=chrome&authority=mci.ir&type=grpc&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134#🇧🇭 • Bahrain 🪻
