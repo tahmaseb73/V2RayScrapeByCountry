@@ -189,6 +189,7 @@ trojan://23d58330-ceb8-11ef-af55-1239d0255272@51.210.182.170:443?security=tls&sn
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=/6b777a91#🔒
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@15.168.35.88:443?security=tls&sni=my01.trojanyyds.xyz&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:262.31ms
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@20.2.156.164:443?security=tls&sni=hk03.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@20.2.156.164:443?security=tls&sni=in01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@20.2.156.164:443?security=tls&sni=sg01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
@@ -249,7 +250,6 @@ trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobs
 trojan://2e43cca9-38a4-47c5-b03a-f51bd625d47e@ie2.trojvpn.site:443?host=ie2.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD21%2027.6KB%2Fs
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0405🤯
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0337
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?type=tcp&security=tls&sni=rc6.freeguard.org#US🇺🇸
 trojan://2f31805a-b9e0-4b7b-808f-c7971332d068@20.2.156.167:443?security=tls&sni=kh.mjt001.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
