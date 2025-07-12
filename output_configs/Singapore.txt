@@ -1,6 +1,5 @@
 ss://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?encryption=none&security=none&type=ws&path=%2F00026cc2#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Downtown%20Core%29%F0%9F%85%BF%EF%B8%8Fping%3A248.54ms
 ss://2315ac02-c7fb-424d-80c5-1dceb1be0c53@104.248.151.5:81?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Pioneer%29%F0%9F%85%BF%EF%B8%8Fping%3A198.93ms
-ss://37ad654f-4d3b-4593-8b1b-7a5b3fcc5b84@free.server.techsonic.cloud:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore
 ss://48205185-fd48-47fb-afdb-04e6188c5d9d@free-sg.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#SG🇸🇬
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&security=none&type=tcp&headerType=none#SG🇸🇬
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=&encryption=none&headerType=&type=tcp#SG🇸🇬
@@ -124,7 +123,6 @@ trojan://installshield@38.180.249.177:8443?security=tls&headerType=none&type=tcp
 trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?encryption=none&security=none&type=ws&path=%2F00026cc2#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Downtown%20Core%29%F0%9F%85%BF%EF%B8%8Fping%3A248.54ms
 vless://2315ac02-c7fb-424d-80c5-1dceb1be0c53@104.248.151.5:81?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Pioneer%29%F0%9F%85%BF%EF%B8%8Fping%3A198.93ms
-vless://37ad654f-4d3b-4593-8b1b-7a5b3fcc5b84@free.server.techsonic.cloud:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore
 vless://48205185-fd48-47fb-afdb-04e6188c5d9d@free-sg.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#SG🇸🇬
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&security=none&type=tcp&headerType=none#SG🇸🇬
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=&encryption=none&headerType=&type=tcp#SG🇸🇬
