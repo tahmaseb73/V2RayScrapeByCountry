@@ -3,6 +3,7 @@ ss://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=&encrypti
 ss://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?encryption=none&security=none&type=tcp&headerType=none#UA🇺🇦
 ss://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
 ss://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?encryption=none&security=tls&sni=005188006073.sec1org.com&alpn=h2%2Chttp%5C1.1&type=tcp&headerType=none#UA-%3EUA-%3ERTL-%3E%40Sezar_Sec
+ss://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kharkiv
 ss://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllOWJhNy1kM2MyLTQxNWUtYmUxNC1lYTRkYWM4OTdhMmQ=@freea.glyphara.com:36611#15%7C31%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0%7C%E5%AE%98%E7%BD%91%EF%BC%9A%E8%93%9D%E8%89%B2%E6%B5%B7%E6%B4%8B.xyz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDQ4NWNhZS1jNjE0LTRlNmItOGVkMy1iYjUyZTUyOGNkNzY=@freem.vidalith.com:31611#2%7C33%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0%7C%E5%AE%98%E7%BD%91%EF%BC%9Amikasacloud.site
@@ -22,6 +23,7 @@ vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=&encry
 vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?encryption=none&security=none&type=tcp&headerType=none#UA🇺🇦
 vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
 vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?encryption=none&security=tls&sni=005188006073.sec1org.com&alpn=h2%2Chttp%5C1.1&type=tcp&headerType=none#UA-%3EUA-%3ERTL-%3E%40Sezar_Sec
+vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kharkiv
 vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
 vless://ce43596d-c8f0-4600-b909-4390881ab5e7@193.238.153.91:35755?encryption=none&security=none&type=tcp&headerType=none#UA🇺🇦
 vless://ce43596d-c8f0-4600-b909-4390881ab5e7@193.238.153.91:35755?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
