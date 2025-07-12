@@ -6,7 +6,7 @@ ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=&encrypti
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&encryption=none#SG🇸🇬
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&encryption=none&flow=#SG🇸🇬
-ss://4d32482c-1061-43cb-b05e-1a897383931b@free-sg.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:263.64ms
+ss://4d32482c-1061-43cb-b05e-1a897383931b@free-sg.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:255.24ms
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Geylang%29%F0%9F%85%BF%EF%B8%8Fping%3A8.62ms
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Geylang%29%F0%9F%85%BF%EF%B8%8Fping%3A8.4ms
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%F0%9F%85%BF%EF%B8%8Fping%3A8.46ms
@@ -64,7 +64,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:810#%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:812#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0199
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTbmJRV01LcERxTGk1RDlnZ1FCc1Y4@174.138.17.254:52252#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+174.138.17.254-52252+%7C+168.77ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQnZ4NGRpWmxTclB6bDloUExUMlFV@167.172.85.14:21964#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+167.172.85.14-21964+%7C+206.49ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQnZ4NGRpWmxTclB6bDloUExUMlFV@167.172.85.14:21964#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM3@45.76.180.205:31298#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+45.76.180.205-31298+%7C+169.29ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM=@45.76.180.205:31298#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+45.76.180.205-31298+%7C+169.12ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM=@45.76.180.205:31298#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+45.76.180.205-31298+%7C+203.71ms
@@ -130,7 +129,7 @@ vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=&encry
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&encryption=none#SG🇸🇬
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&encryption=none&flow=#SG🇸🇬
-vless://4d32482c-1061-43cb-b05e-1a897383931b@free-sg.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:263.64ms
+vless://4d32482c-1061-43cb-b05e-1a897383931b@free-sg.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:255.24ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Geylang%29%F0%9F%85%BF%EF%B8%8Fping%3A8.62ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Geylang%29%F0%9F%85%BF%EF%B8%8Fping%3A8.4ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%F0%9F%85%BF%EF%B8%8Fping%3A8.46ms
