@@ -4,8 +4,6 @@ hy2://aVJxAd6WSF@77.90.135.64:33530?obfs=salamander&obfs-password=bluecrystal&in
 hy2://vhVIcW6R3E@77.90.135.64:33530?obfs=salamander&obfs-password=bluecrystal&insecure=1#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20-%20Istanbul%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
 ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#1%7C%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
-ss://4bf4303c-906a-4499-9491-df13f5e604c0@31.58.144.130:1013?security=reality&encryption=none&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&headerType=none&fp=firefox&spx=%2FPOST&type=tcp&sni=The-Ashegh.org#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:26.95ms
-ss://4bf4303c-906a-4499-9491-df13f5e604c0@31.58.144.130:1013?security=reality&encryption=none&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&headerType=none&fp=firefox&spx=%2FPOST&type=tcp&sni=The-Ashegh.org#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:27.67ms
 ss://55494ea9-dcea-416a-b2cb-82e6a7cb71fa@log.twixspace.com:443?mode=gun&security=reality&encryption=none&pbk=dUCso1FAr-zors9NhEC__IqYI3fEjyfLvRqksj9lmxw&fp=chrome&type=grpc&sni=wordpress.org&sid=f99c4b933314ec6d#REALITY|TR🇹🇷
 ss://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#TR🇹🇷
 ss://69e67252-c0c2-4c16-a811-40864cb5c87a@ir01.oghabvps.com:2096?path=%2F&security=none&encryption=none&type=ws#TR🇹🇷
@@ -218,8 +216,6 @@ trojan://your_password@51.112.147.185:443?security=tls&sni=aws-uae-1.f1rocketnod
 trojan://your_password@52.56.183.187:443?security=tls&sni=aws-uk-london-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#1%7C%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
-vless://4bf4303c-906a-4499-9491-df13f5e604c0@31.58.144.130:1013?security=reality&encryption=none&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&headerType=none&fp=firefox&spx=%2FPOST&type=tcp&sni=The-Ashegh.org#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:26.95ms
-vless://4bf4303c-906a-4499-9491-df13f5e604c0@31.58.144.130:1013?security=reality&encryption=none&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&headerType=none&fp=firefox&spx=%2FPOST&type=tcp&sni=The-Ashegh.org#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:27.67ms
 vless://55494ea9-dcea-416a-b2cb-82e6a7cb71fa@log.twixspace.com:443?mode=gun&security=reality&encryption=none&pbk=dUCso1FAr-zors9NhEC__IqYI3fEjyfLvRqksj9lmxw&fp=chrome&type=grpc&sni=wordpress.org&sid=f99c4b933314ec6d#REALITY|TR🇹🇷
 vless://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#TR🇹🇷
 vless://69e67252-c0c2-4c16-a811-40864cb5c87a@ir01.oghabvps.com:2096?path=%2F&security=none&encryption=none&type=ws#TR🇹🇷
