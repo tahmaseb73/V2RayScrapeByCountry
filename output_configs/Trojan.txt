@@ -314,6 +314,7 @@ trojan://3763495894587285504@adapting-macaw.goat627.mom:443?allowInsecure=1&sni=
 trojan://3763495894587285504@composed-anemone.goat627.mom:443?allowInsecure=1&sni=composed-anemone.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@electric-sunbird.goat627.mom:443?allowInsecure=1&sni=electric-sunbird.goat627.mom#DE🇩🇪
 trojan://3763495982449565696@relaxed-jaybird.treefrog761.one:443?allowInsecure=1&sni=relaxed-jaybird.treefrog761.one#DE🇩🇪
+trojan://3763495982449565696@sensible-crow.goat627.mom:443?allowInsecure=0&sni=sensible-crow.goat627.mom#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Cologne
 trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#DE🇩🇪
 trojan://37b04b50-1234-11f0-b5f0-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://3828095943467868160@194.62.99.56:443?sni=main-bee.dolphin109.quest#🔒
@@ -821,7 +822,6 @@ trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.191.251:443?security=tls&sn
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.191.251:443?security=tls&type=ws&sni=BoStoN01.890614.GGff.neT&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=boston01.890614.ggff.net#%E6%9C%AA%E7%9F%A558
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?security=tls&sni=45.32.28.232&type=tcp#🔒
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?security=tls&type=tcp&sni=45.32.28.232#%E6%9C%AA%E7%9F%A5141
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@de01a.kbservice.club:443/?type=tcp&security=tls&sni=45.32.28.232&allowInsecure=1تعداد#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt
 trojan://6e73f720-f389-11ef-9fc3-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://6e93a800-df39-11ef-ae10-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://6gUCk7hlRJ@104.17.27.198:8443?security=tls&sni=MIKasA.drAgoNAllEy.iR.&type=ws&host=MIKasA.drAgoNAllEy.iR.&path=/#🔒
@@ -1947,6 +1947,7 @@ trojan://Aimer@172.64.33.128:443?sni=epccz.ambercc.filegear-sg.me&allowInsecure=
 trojan://Aimer@172.64.33.128:443?sni=epme.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.64.33.144:443?sni=epma.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.64.33.201:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
+trojan://Aimer@172.64.33.73:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.3ms
 trojan://Aimer@172.64.33.73:2096?sni=epcch.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.64.34.52:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@172.64.35.127:443?sni=epccv.ambercc.filegear-sg.me#🔒
@@ -2120,6 +2121,7 @@ trojan://Aimer@188.164.159.74:8443?security=tls&sni=epmw.ambercc.filegear-sg.me&
 trojan://Aimer@188.164.159.91:2083?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒
 trojan://Aimer@188.164.159.98:2083?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@188.166.162.201:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒
+trojan://Aimer@192.0.54.221:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://Aimer@192.0.54.221:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@192.0.54.7:443?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@192.0.54.7:443?sni=epccn.ambercc.filegear-sg.me#🔒
@@ -2313,6 +2315,7 @@ trojan://Aimer@46.254.93.251:2087?security=tls&sni=ageph.ambercc.filegear-sg.me&
 trojan://Aimer@46.254.93.37:8443?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@46.254.93.52:8443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@46.254.93.52:8443?security=tls&type=tcp&sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
+trojan://Aimer@46.32.184.187:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇱🇻®️Latvia©️Riga🅿️ping:17.09ms
 trojan://Aimer@47.245.105.192:443?sni=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@47.245.95.160:1443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@47.79.84.167:443?sni=epccc.ambercc.filegear-sg.me#🔒
