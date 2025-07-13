@@ -19,9 +19,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.209.147.198:989#premium-in
 ss://d3270903-0d5f-4ab6-92a1-3dbb34de7f18@in-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=in-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=in-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-119%20-%20IN%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://df190411-7310-4cd6-bc22-546d7f584f35@148.113.46.244:2052?security=none&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20India%20-%20Mumbai%20%F0%9F%8C%8F%20VL-GRPC-NONE%204%E2%83%A3
 ss://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@139.84.151.57:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#REALITY|IN🇮🇳
-trojan://Aimer@108.165.152.130:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Jaipur
-trojan://Aimer@108.165.152.55:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Jaipur
-trojan://Aimer@108.165.152.58:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Jaipur
 trojan://your_password@43.205.109.9:443?security=tls&sni=aws-in-mumbai-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%20-%20Mumbai%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#New%20Link%20in%20%40AzadNet%20Pin%20Post
 vless://3713d7f3-4bc2-4a87-8cfc-98f4f721b4ee@148.113.46.244:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=148.113.46.244&encryption=none#Rayan%20-%20GSS%20-%20WSDR-111%20-%20IN%20-%20I%20-%20%F0%9F%9F%A2%20t.me/Rayan_Config
