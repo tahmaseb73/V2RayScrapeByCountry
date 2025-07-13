@@ -37,7 +37,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.136-8080+%7C+101.3ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#%F0%9F%87%AB%F0%9F%87%B7%20FR-45.158.171.141:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.141-0246
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.141-0245
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.150:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.150-8080+%7C+98.85ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
@@ -55,7 +55,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.141:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.141:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.141-8080+%7C+151.12ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.146-0285
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.146-0248
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.146-8080+%7C+101.19ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.146-8080+%7C+151.03ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.151:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
@@ -65,9 +65,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.141-8080+%7C+151.89ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.21:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.21-8080+%7C+151.03ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.132-0273
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.132-0251
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.132-8080+%7C+151.16ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.136-4964
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.136-0301
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.136-8080+%7C+98.69ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%F0%9F%87%AB%F0%9F%87%B7%20FR-45.158.171.141%3A8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
@@ -83,7 +83,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYngxRnc3bUVOQ2Q3dlpNdm9yUVo1@45.158.171.132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnUHJ2OTY0SDJ5OHlkVnhHMkxtaEpt@77.110.106.74:31465#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTWk3aWdxWG1LSHY0M0ZYN1J5TlJ6@77.110.106.74:31465#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.110-0238
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.110-0259
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.110-8080+%7C+151.27ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%F0%9F%87%AB%F0%9F%87%B7%20FR-45.158.171.60:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
@@ -92,23 +92,23 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.60-8080+%7C+151.17ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.60-8080+%7C+151.47ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.66-0240
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.66-0390
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.70-0233
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.70-0385
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7%20FR-51.195.119.47%3A1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7%20FR-51.195.119.47:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0326
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0357
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+51.195.119.47-1080+%7C+105.29ms
 ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT03@51.91.210.89:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+51.91.210.89-8080+%7C+109.43ms
 ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+51.91.210.89-8080+%7C+106.49ms
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.54.209:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0251
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0253
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+195.154.169.198-989+%7C+106.44ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0250
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0252
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+195.154.185.174-989+%7C+106.44ms
 ss://YWVzLTI1Ni1nY206NWJkYTI3MzYtODFlNy00M2I0LTg2ZmMtMjg2ZjhmOGU2NTc4@51.195.103.227:8443#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+51.195.103.227-8443+%7C+107.75ms
-ss://YWVzLTI1Ni1nY206NWJkYTI3MzYtODFlNy00M2I0LTg2ZmMtMjg2ZjhmOGU2NTc4@de-freevmess.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.103.227-0299
+ss://YWVzLTI1Ni1nY206NWJkYTI3MzYtODFlNy00M2I0LTg2ZmMtMjg2ZjhmOGU2NTc4@de-freevmess.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.103.227-0260
 ss://a466735d-eb6a-4e6d-bdea-2b8a5c4ef4ad@zula.ir:8443?security=tls&sni=fr-1-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=fr-1-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-116%20-%20FR%20-%20I%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
 ss://ac452e59-6585-4f6f-d1e4-ee8e1b12f0bd@91.134.88.205:443?security=tls&encryption=none&headerType=none&type=tcp&sni=france.linceed.se#FR🇫🇷
 ss://b6e29d04-ad64-45ca-bfaa-c04b9ad664fd@fr-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=fr-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=fr-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-129%20-%20FR%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -149,7 +149,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?encryption=none&secu
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&authority=%2Fv2rayNplus&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:45.54ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&mode=gun&security=none#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A53.17ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&security=none&type=grpc#FR🇫🇷
@@ -168,6 +167,7 @@ ss://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.fn.ir.systemgamingirani.ir:
 ss://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.fn.ir.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#REALITY|FR🇫🇷
 ss://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.fn.ir.systemgamingirani.ir:443?type=tcp&channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=tgju.org&fp=chrome&security=reality&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#REALITY|FR🇫🇷
 ss://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.fr.ir.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#REALITY|FR🇫🇷
+ss://f0ab68c4-2391-4968-9cf2-dd8630e8cbb1@62.60.156.102:80?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&sni=digikala.com#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:32.22ms
 ss://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#FR-%3EDE-%3EMTN-%3E%40Sezar_Sec
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.214:8880?encryption=none&security=none&type=ws&host=yd.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3EFR-%3EMCI-%3E%40Sezar_Sec
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.31:8880?encryption=none&security=none&type=ws&host=yd.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3EFR-%3EMCI-%3E%40Sezar_Sec
@@ -213,7 +213,6 @@ trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni
 trojan://9a358480-2132-11f0-bf3f-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9d98f590-d294-11ef-b412-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9eabd870-29cc-11f0-b0a3-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://Aimer@141.11.203.191:8443?sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -250,6 +249,8 @@ trojan://telegram-id-directvpn@15.237.157.80:22222?security=tls&sni=trojan.burge
 trojan://telegram-id-directvpn@15.237.241.92:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://telegram-id-directvpn@35.180.154.84:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7France
 trojan://telegram-id-privatevpns@13.36.79.206:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7France
+trojan://telegram-id-privatevpns@35.181.182.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.33ms
+trojan://telegram-id-privatevpns@51.44.58.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.44ms
 trojan://telegram-id-v2rayvpnchannel@15.237.241.92:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://telegram-id-vlessconfig@15.237.241.92:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -321,7 +322,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?encryption=none&s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&authority=%2Fv2rayNplus&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:45.54ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&mode=gun&security=none#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A53.17ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&security=none&type=grpc#FR🇫🇷
@@ -337,6 +337,7 @@ vless://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.fn.ir.systemgamingirani.
 vless://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.fn.ir.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#REALITY|FR🇫🇷
 vless://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.fn.ir.systemgamingirani.ir:443?type=tcp&channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=tgju.org&fp=chrome&security=reality&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#REALITY|FR🇫🇷
 vless://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.fr.ir.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#REALITY|FR🇫🇷
+vless://f0ab68c4-2391-4968-9cf2-dd8630e8cbb1@62.60.156.102:80?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&sni=digikala.com#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:32.22ms
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#FR-%3EDE-%3EMTN-%3E%40Sezar_Sec
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.214:8880?encryption=none&security=none&type=ws&host=yd.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3EFR-%3EMCI-%3E%40Sezar_Sec
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.31:8880?encryption=none&security=none&type=ws&host=yd.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3EFR-%3EMCI-%3E%40Sezar_Sec
@@ -374,7 +375,6 @@ vmess://eyJhZGQiOiIxMDQuMjEuMTUuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJGUlx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyB8IDEzNS4xMjUuMTgyLjc0LTI4MjEzIHwgMTU0LjU3bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNTYuMjQ5LjE4LjEwNyIsInYiOjIsInBzIjoi8J+Hq/Cfh7dfRlJf5rOV5Zu9XzQiLCJwb3J0IjoiNDEwMDAiLCJpZCI6ImY5ZmEzYTljLWY3ZDUtNDE0Zi04OGU2LTY5NzA1ODVkOTk0OSIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvcGF0aC8zNDIxMjEyMzA4MTgifQ==
 vmess://eyJhZGQiOiIxNjMuNS4xNTkuMjMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+Ht0ZSLTE2My41LjE1OS4yMzEtNTI1NCIsInNjeSI6ImF1dG8iLCJzbmkiOiJpcnZpZGVvLmNmZCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsImFpZCI6MCwiaG9zdCI6IjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIiwiaWQiOiI1ZjcyNmZlMy1kODJlLTRkYTUtYTcxMS04YWYwY2JiMmI2ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2F6dW1hc2UucmVuIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtRlIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIn0=
 vmess://eyJhZGQiOiJ1ay12MnJheS5mcmVldm1lc3MuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwXC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQ2N2QzZTMyLTY5ODgtNGIxMy05NzRkLTI5NzUxZGM1OTU1NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA4MyIsInBzIjoiRlJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjcgfCB1ay12MnJheS5mcmVldm1lc3MuY29tLTIwODMgfCAxMzYuNzdtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1ay12MnJheS5mcmVldm1lc3MuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ1ay12MnJheS5mcmVldm1lc3MuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwXC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImQ2N2QzZTMyLTY5ODgtNGIxMy05NzRkLTI5NzUxZGM1OTU1NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA4MyIsInBzIjoiRlJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjcgfCB1ay12MnJheS5mcmVldm1lc3MuY29tLTIwODMgfCAxMjkuNTdtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ3d3cuaGRtb2xpLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnIuZnJlZXl5ZHMuZHBkbnMub3JnIiwiaWQiOiIyZjM4Zjg0OC1hODk5LTRjODctOTgwNy0yMDdhNDE2MTVlM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JvbmdzZXZlbj9lZD0yMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJSRUxBWVx1ZDgzZFx1ZGVhOSB8IGZyLmZyZWV5eWRzLmRwZG5zLm9yZy04MCB8IDQxNTMuOTNtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
