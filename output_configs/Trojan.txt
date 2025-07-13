@@ -8,8 +8,6 @@ trojan://%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vp
 trojan://---@104.21.69.44:443?#🔒
 trojan://---@172.67.204.84:443?#🔒
 trojan://0000000@18.238.109.41:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒
-trojan://0000000@52.84.18.108:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#US🇺🇸
-trojan://0000000@52.84.18.5:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#US🇺🇸
 trojan://0000000@52.85.132.106:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#US🇺🇸
 trojan://008a7900-34de-11f0-9f02-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
 trojan://010bd080-2133-11f0-a064-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -329,37 +327,29 @@ trojan://3723507166611775488@195.133.93.135:443?security=tls&sni=pleased-airedal
 trojan://3723507166611775488@35.155.4.93:443?security=tls&headerType=none&type=tcp&sni=usable-toad.treefrog761.one#DE🇩🇪
 trojan://3763495894587285504@13.114.43.56:443?sni=composed-anemone.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@13.41.168.115:443?sni=clever-chimp.goat627.mom&allowInsecure=1#DE🇩🇪
-trojan://3763495894587285504@13.43.156.128:443?allowInsecure=0&sni=useful-honeybee.treefrog761.one#DE🇩🇪
-trojan://3763495894587285504@13.61.68.140:443?allowInsecure=0&sni=harmless-mite.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@13.61.68.140:443?security=tls&sni=harmless-mite.goat627.mom&type=tcp#DE🇩🇪
 trojan://3763495894587285504@18.180.126.191:443?allowInsecure=0&sni=top-aphid.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@18.180.126.191:443?security=tls&sni=top-aphid.goat627.mom&type=tcp#DE🇩🇪
-trojan://3763495894587285504@18.196.232.185:443?allowInsecure=0&sni=able-mollusk.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@18.196.232.185:443?security=tls&sni=able-mollusk.goat627.mom&type=tcp#DE🇩🇪
-trojan://3763495894587285504@18.196.232.185:443?sni=able-mollusk.goat627.mom&allowInsecure=0#DE🇩🇪
 trojan://3763495894587285504@185.67.125.147:443?sni=optimal-owl.goat627.mom&allowInsecure=0#DE🇩🇪
 trojan://3763495894587285504@216.238.77.127:443?sni=climbing-racer.treefrog761.one&allowInsecure=1#DE🇩🇪
 trojan://3763495894587285504@3.34.53.0:443?security=tls&sni=ace-alien.goat627.mom&type=tcp#DE🇩🇪
+trojan://3763495894587285504@3.34.53.0:443?sni=ace-alien.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat627.mom&type=tcp#DE🇩🇪
 trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat627.mom&type=tcp#telegram
 trojan://3763495894587285504@35.181.173.20:443?sni=artistic-vulture.goat627.mom&allowInsecure=0#DE🇩🇪
-trojan://3763495894587285504@5.8.93.173:443?security=tls&sni=open-baboon.goat627.mom&type=tcp#DE🇩🇪
 trojan://3763495894587285504@51.20.156.114:443?security=tls&sni=faithful-chicken.treefrog761.one&type=tcp#DE🇩🇪
 trojan://3763495894587285504@51.21.55.43:443?security=tls&sni=refined-vervet.goat627.mom&type=tcp#DE🇩🇪
-trojan://3763495894587285504@52.194.247.45:443?allowInsecure=0&sni=adapting-macaw.goat627.mom#DE🇩🇪
-trojan://3763495894587285504@52.77.5.246:443?allowInsecure=0&sni=saved-caribou.treefrog761.one#DE🇩🇪
 trojan://3763495894587285504@52.77.5.246:443?sni=saved-caribou.treefrog761.one#@Hope_Net-join-us-on-Telegram⚠️
-trojan://3763495894587285504@62.112.221.46:443?allowInsecure=0&sni=enabling-cat.goat627.mom#DE🇩🇪
-trojan://3763495894587285504@able-mollusk.goat627.mom:443?allowInsecure=0&sni=able-mollusk.goat627.mom#DE🇩🇪
+trojan://3763495894587285504@ace-alien.goat627.mom:443?allowInsecure=0&sni=ace-alien.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@artistic-vulture.goat627.mom:443?allowInsecure=0&sni=artistic-vulture.goat627.mom#@Hope_Net-join-us-on-Telegram
 trojan://3763495894587285504@artistic-vulture.goat627.mom:443?allowInsecure=0&sni=artistic-vulture.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@choice-condor.treefrog761.one:443?allowInsecure=0&sni=choice-condor.treefrog761.one#@Hope_Net-join-us-on-Telegram⚠️
-trojan://3763495894587285504@climbing-racer.treefrog761.one:443?allowInsecure=0&sni=climbing-racer.treefrog761.one#DE🇩🇪
-trojan://3763495894587285504@enabling-cat.goat627.mom:443?allowInsecure=0&sni=enabling-cat.goat627.mom#DE🇩🇪
+trojan://3763495894587285504@composed-anemone.goat627.mom:443?allowInsecure=0&sni=composed-anemone.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@enormous-puma.goat627.mom:443?allowInsecure=0&sni=enormous-puma.goat627.mom#DE🇩🇪
+trojan://3763495894587285504@eternal-tapir.goat627.mom:443?allowInsecure=0&sni=eternal-tapir.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@exact-chicken.goat627.mom:443?allowInsecure=0&sni=exact-chicken.goat627.mom#DE🇩🇪
 trojan://3763495894587285504@magnetic-chicken.treefrog761.one:443?allowInsecure=0&sni=magnetic-chicken.treefrog761.one#DE🇩🇪
-trojan://3763495894587285504@maximum-ant.treefrog761.one:443?allowInsecure=0&sni=maximum-ant.treefrog761.one#DE🇩🇪
 trojan://3763495894587285504@open-baboon.goat627.mom:443?allowInsecure=0&sni=open-baboon.goat627.mom#@Hope_Net-join-us-on-Telegram⚠️
 trojan://3763495894587285504@pet-bulldog.goat627.mom:443?allowInsecure=0&sni=pet-bulldog.goat627.mom#@Hope_Net-join-us-on-Telegram
 trojan://3763495894587285504@saved-caribou.treefrog761.one:443?allowInsecure=0&sni=saved-caribou.treefrog761.one#@Hope_Net-join-us-on-Telegram⚠️
@@ -369,7 +359,6 @@ trojan://3763495982449565696@77.73.70.64:443?allowInsecure=0&sni=relaxed-jaybird
 trojan://3763495982449565696@87.120.204.100:443?sni=closing-phoenix.goat627.mom&allowInsecure=0#DE🇩🇪
 trojan://3763495982449565696@closing-phoenix.goat627.mom:443?allowInsecure=0&sni=closing-phoenix.goat627.mom#DE🇩🇪
 trojan://3763495982449565696@topical-gibbon.goat627.mom:443?allowInsecure=0&sni=topical-gibbon.goat627.mom#@Hope_Net-join-us-on-Telegram
-trojan://3763495982449565696@topical-gibbon.goat627.mom:443?allowInsecure=0&sni=topical-gibbon.goat627.mom#DE🇩🇪
 trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#DE🇩🇪
 trojan://37b04b50-1234-11f0-b5f0-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://3828095943467868160@194.62.99.56:443?sni=main-bee.dolphin109.quest#🔒
@@ -522,8 +511,6 @@ trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.ple
 trojan://5e861ad0-df39-11ef-a02e-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://5eaad1a0-c85d-11ef-98d5-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://5f5fe3c0-066f-11f0-ba3c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443?allowInsecure=0&sni=cmc1.5gsieuvip.vn#VN🇻🇳
-trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@cmc1.5gsieuvip.vn:443?allowInsecure=0#VN🇻🇳
 trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@cmc5.5gsieuvip.vn:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://6067e620-f389-11ef-9640-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://607d365e-7ea1-11ee-95e9-f23c913c8d2b@c5d812aa-sx4v40-sx7hbg-1mmbp.cu.plebai.net:15229?allowInsecure=0&sni=c5d812aa-sx4v40-sx7hbg-1mmbp.cu.plebai.net#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -880,9 +867,9 @@ trojan://6gUCk7hlRJ@172.67.193.157:8443?security=tls&sni=MIKasA.drAgoNAllEy.iR.&
 trojan://6gUCk7hlRJ@172.67.193.157:8443?security=tls&sni=MIKasA.drAgoNAllEy.iR.&type=ws&host=MIKasA.drAgoNAllEy.iR.&path=/#🔒
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#%40lrnbymaa
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#DE🇩🇪
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&fp=chrome&type=tcp&headerType=none#DE🇩🇪
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&type=tcp&headerType=none#%40Golestan_VPN%20-%20JOIN
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&type=tcp&headerType=none#DE🇩🇪
 trojan://70017490-2132-11f0-bdf2-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://70017490-2132-11f0-bdf2-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%F0%9F%92%9E
 trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?security=tls&sni=Xxs345rf.857856.xYZ&alpn=http%2F1.1&type=ws&host=xxs345rf.857856.xyz&path=%2F71M8Ov1I5Gk9247fHC0XGZG6#t.me%2Fpeterjest
@@ -989,7 +976,6 @@ trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@172.67.204.75:443?security=tls&typ
 trojan://89d019c0-f389-11ef-9c51-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#%40NoForcedHeaven@NoForcedHeaven
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#REALITY|US🇺🇸
-trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&host=%2FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&headerType=none&fp=random&spx=%2FyethePcHjaf%2FBIA_CHANEL%40JOKERRVPN&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#REALITY|US🇺🇸
 trojan://8QOe%29%26jIP%5E%5Dl%7BP.1@172.66.44.182:443?security=tls&sni=JoInMAHdisErVER-78D.PaGEs.DEV&type=ws&host=joinmahdiserver-78d.pages.dev#🔒
 trojan://8QOe%29%26jIP%5E%5Dl%7BP.1@172.66.47.74:443?security=tls&sni=JoInMAHdisErVER-78D.PaGEs.DEV&type=ws&host=joinmahdiserver-78d.pages.dev#🔒
 trojan://8aa7e179-739d-4195-bceb-d3e3fddf3df9@104.26.12.54:443?security=tls&sni=digitaloceanusargo.lzj520hxw.dpdns.org&type=tcp&allowInsecure=1#🔒
