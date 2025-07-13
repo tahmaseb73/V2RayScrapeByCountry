@@ -100,6 +100,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443?securi
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&host=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq#🔒
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&type=ws&host=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq#🔒
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&type=ws&sni=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq&host=series-v1.samanehha.co#%E6%9C%AA%E7%9F%A592
+trojan://0b9c9261-7209-4dcc-b268-2fa74f6cd536@q1.46322416.xyz:20220?allowInsecure=1&sni=cdn.alibaba.com#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Guangzhou🅿️ping:256.96ms
 trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.75.75:443?security=tls&sni=Xs2ws.857856.xYz&alpn=http%2F1.1&type=ws&host=xs2ws.857856.xyz&path=%2FxJXdWGMbbZovkcaL2SsGTGxE#t.me%2Fpeterjest
 trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.75.75:443?security=tls&sni=Xs2ws.857856.xYz&type=ws&host=xs2ws.857856.xyz&path=%2FxJXdWGMbbZovkcaL2SsGTGxE&fp=chrome&alpn=http%2F1.1#🔒
 trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.77.44:443?security=tls&sni=x4444.890603.xyz&alpn=http%2F1.1&type=ws&host=x4444.890603.xyz&path=%2FxJXdWGMbbZovkcaL2SsGTGxE#t.me%2Fpeterjest
@@ -141,7 +142,6 @@ trojan://12345678@198.62.62.4:443?security=tls&sni=7bdfb97a.ikl.pages.dev&type=w
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#Bya%20To%20%40Iran_V2ray1
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#RELAY🚩
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#⚡Telegram
-trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.32ms
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#RELAY🚩
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
@@ -182,6 +182,7 @@ trojan://15c33952@152.67.228.132:443?security=tls&sni=152.67.228.132&allowInsecu
 trojan://15c33952@152.67.228.132:443?security=tls&sni=sj.5216818.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Jose%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://15c33952@152.67.228.132:443?security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Jose%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#🔒
+trojan://1957909a-4f2a-4d9c-99ad-119d45f052c1@v01.gutingting.com:30002?security=tls&sni=v2tw01.fuqiangren.com#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443?security=tls&sni=CVFgTrE4.222560.XyZ&alpn=http%2F1.1&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID#t.me%2Fpeterjest
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443?security=tls&sni=CVFgTrE4.222560.XyZ&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com]
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443?security=tls&sni=CVFgTrE4.222560.XyZ&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&fp=chrome&alpn=http%2F1.1#🔒
@@ -2448,6 +2449,7 @@ trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸
 trojan://IQYD1kSiuYJW@172.67.142.21:2087?security=tls&sni=leader.andishehnegariran.ir&type=httpupgrade&host=leader.andishehnegariran.ir&path=/рЯЖФ@M3HDIO1#🔒
 trojan://IRoTiZfh4J@iran.farsonline24.ir:2053?security=tls&type=ws&host=iran.farsonline24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://K7N8flfyok@www.chatgameone.ir:36557?security=none&host=zula.ir%2F%3FJOKERRVPN_JOKERRVPN_JOKERRVPN&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:110.3ms
 trojan://KW7FfNUocjGWmVO6HOp5tA@142.93.166.50:2051?type=tcp&headerType=http&host=fararu.com#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping%3A25.5ms
 trojan://Km8Vr6QzLf@154.205.148.199:443?security=tls&sni=z-v2-089607.kailib.com&type=tcp#🔒
 trojan://KsMF5kLudbU3@104.21.44.185:2087?security=tls&sni=econews.onetwothree123.ir&type=ws&host=econews.onetwothree123.ir&path=/рЯЖФ@M3HDIO1#🔒
@@ -3251,7 +3253,6 @@ trojan://rXzh%3B%3FnW1GGKB%28K8@104.21.18.192:443?security=tls&sni=sAiKOXpUbGm.Z
 trojan://redfree8@104.17.148.22:443?security=tls&sni=ipsychO.SUEx12.Ir&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ipsycho.suex12.ir&path=%2Ftrre5IzbZ9IZZMddtw%3Fed%3D2560#%40Golestan_VPN%20-%20JOIN
 trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
 trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#RELAY🚩
-trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.43ms
 trojan://redfree8@104.17.148.22:80?security=none&type=ws&host=redfree8-p1.pooriashop.ir&path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560#🔒
 trojan://redfree8@104.17.148.22:80?security=tls&type=ws&host=redfree8-p1.pooriashop.ir&path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560#RELAY🚩
 trojan://redfree8@www.speedtest.net:443?path=%2Ftrre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#ipsycho
