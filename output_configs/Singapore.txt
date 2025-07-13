@@ -1,4 +1,5 @@
 ss://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?encryption=none&security=none&type=ws&path=%2F00026cc2#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Downtown%20Core%29%F0%9F%85%BF%EF%B8%8Fping%3A248.54ms
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.143:443?security=tls&sni=vs.bgm2024.us.kg&type=ws&host=vs.bgm2024.us.kg&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:7.97ms
 ss://2315ac02-c7fb-424d-80c5-1dceb1be0c53@104.248.151.5:81?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Pioneer%29%F0%9F%85%BF%EF%B8%8Fping%3A198.93ms
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&security=none&type=tcp&headerType=none#SG🇸🇬
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
@@ -102,6 +103,7 @@ trojan://dQUWbcwECl@20.191.138.47:443?security=tls&sni=automq4-proxy.automq-sg.c
 trojan://installshield@38.180.249.177:8443?security=tls&headerType=none&type=tcp&sni=38.180.249.177#Singapore%20M247
 trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?encryption=none&security=none&type=ws&path=%2F00026cc2#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Downtown%20Core%29%F0%9F%85%BF%EF%B8%8Fping%3A248.54ms
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.143:443?security=tls&sni=vs.bgm2024.us.kg&type=ws&host=vs.bgm2024.us.kg&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:7.97ms
 vless://2315ac02-c7fb-424d-80c5-1dceb1be0c53@104.248.151.5:81?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Pioneer%29%F0%9F%85%BF%EF%B8%8Fping%3A198.93ms
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&security=none&type=tcp&headerType=none#SG🇸🇬
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
