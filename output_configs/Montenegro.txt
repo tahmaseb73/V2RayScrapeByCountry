@@ -258,7 +258,6 @@ ss://eb19e160-51f8-40d3-966b-9fa5de336924@104.24.177.129:80?encryption=none&secu
 ss://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:80?encryption=none&security=none&type=ws&host=zaq11000d.b835a8094d.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://ec7c8aad-3caf-5c2b-a281-baadd1d3245c@194.147.35.250:443?security=tls&sni=194.147.35.250&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.147.35.250&encryption=none#Rayan%20-%20SSM%20-%20WSDR-120%20-%20UK%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://ec7c8aad-3caf-5c2b-a281-baadd1d3245c@www.speedtest.net:443?security=tls&sni=uk-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-120%20-%20UK%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-ss://ede36de8-4f92-403d-8873-6bc1a0052d19@mdi.xmeti.ir:23854?security=none&encryption=none&host=w3.com&headerType=http&type=tcp#https%3A%2F%2Ft.me%2Fuyatnwam
 ss://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#t.me%2Fpeterjest
 ss://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?encryption=none&security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://faa47bdc-8581-4e47-a557-35caa72681bd@104.16.173.114:80?encryption=none&security=none&type=ws&host=delicate-feather-dc36-ppal03.shah-beck.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
@@ -750,7 +749,6 @@ vless://eb19e160-51f8-40d3-966b-9fa5de336924@104.24.177.129:80?encryption=none&s
 vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:80?encryption=none&security=none&type=ws&host=zaq11000d.b835a8094d.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://ec7c8aad-3caf-5c2b-a281-baadd1d3245c@194.147.35.250:443?security=tls&sni=194.147.35.250&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.147.35.250&encryption=none#Rayan%20-%20SSM%20-%20WSDR-120%20-%20UK%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://ec7c8aad-3caf-5c2b-a281-baadd1d3245c@www.speedtest.net:443?security=tls&sni=uk-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-120%20-%20UK%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-vless://ede36de8-4f92-403d-8873-6bc1a0052d19@mdi.xmeti.ir:23854?security=none&encryption=none&host=w3.com&headerType=http&type=tcp#https%3A%2F%2Ft.me%2Fuyatnwam
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#t.me%2Fpeterjest
 vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?encryption=none&security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://faa47bdc-8581-4e47-a557-35caa72681bd@104.16.173.114:80?encryption=none&security=none&type=ws&host=delicate-feather-dc36-ppal03.shah-beck.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
