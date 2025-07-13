@@ -4,7 +4,6 @@ trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40
 trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@ru2.asc-sam.ir:8443?type=tcp&path=%2F&host=ru2.asc-sam.ir&headerType=http&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#RU🇷🇺
 trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@ru2.asc-sam.ir:443?type=xhttp&path=%2F%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&host=&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#RU🇷🇺
 trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@ru2.asc-sam.ir:8443?type=tcp&path=%2F&host=ru2.asc-sam.ir&headerType=http&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#RU🇷🇺
-trojan://%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn@62.60.176.240:36557?security=none&host=zula.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:106.7ms
 trojan://---@104.21.69.44:443?#🔒
 trojan://---@172.67.204.84:443?#🔒
 trojan://0000000@18.238.109.41:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒
@@ -142,6 +141,7 @@ trojan://114ad614-fe6c-4422-b0af-be6161190d7a@172.67.211.136:443?security=tls&sn
 trojan://12345678@198.62.62.4:443?security=tls&sni=7bdfb97a.ikl.pages.dev&type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev#🔒
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#RELAY🚩
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#⚡Telegram
+trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.24ms
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#RELAY🚩
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
