@@ -61,7 +61,6 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.244.20:8880?encryption=none&se
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.4.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.73.216:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#https%3A%2F%2Ft.me%2Fuyatnwam
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@173.245.58.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#t.me%2Fpeterjest
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?encryption=none&security=none&type=ws&host=CHANNEL--ELiV2RAY-ELiV2RAY.IR&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
@@ -232,7 +231,6 @@ ss://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?encryption=none&secu
 ss://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.24.9.204:80?encryption=none&security=none&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=%2F#t.me%2Fpeterjest
 ss://cbfa8a4f-ca68-45b2-80b7-dbdf4d00dc95@104.24.150.187:2087?encryption=none&security=tls&sni=vless1.chuyangz1.sbs&type=ws&host=vless1.chuyangz1.sbs&path=%2F#t.me%2Fpeterjest
 ss://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
-ss://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fazadnet-7py.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=randomized&type=ws&sni=azadnet-7py.pages.dev#https%3A%2F%2Ft.me%2Fuyatnwam
 ss://d1e900ce-dd3f-46e8-8a7c-1f2a81f3fe08@85.209.158.11:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=85.209.158.11&encryption=none#Rayan%20-%20VPH%20-%20WSDR-106%20-%20HK%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80?encryption=none&security=none&type=ws&host=c.lkzb-0t0.workers.dev&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?encryption=none&security=none&sni=hello.96xckkzx.workers.dev&type=ws&host=hello.96xckkzx.workers.dev&path=%2F#t.me%2Fpeterjest
@@ -603,7 +601,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.244.20:8880?encryption=none
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.4.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.73.216:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#https%3A%2F%2Ft.me%2Fuyatnwam
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@173.245.58.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#t.me%2Fpeterjest
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?encryption=none&security=none&type=ws&host=CHANNEL--ELiV2RAY-ELiV2RAY.IR&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
@@ -718,7 +715,6 @@ vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?encryption=none&s
 vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.24.9.204:80?encryption=none&security=none&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=%2F#t.me%2Fpeterjest
 vless://cbfa8a4f-ca68-45b2-80b7-dbdf4d00dc95@104.24.150.187:2087?encryption=none&security=tls&sni=vless1.chuyangz1.sbs&type=ws&host=vless1.chuyangz1.sbs&path=%2F#t.me%2Fpeterjest
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fazadnet-7py.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=randomized&type=ws&sni=azadnet-7py.pages.dev#https%3A%2F%2Ft.me%2Fuyatnwam
 vless://d1e900ce-dd3f-46e8-8a7c-1f2a81f3fe08@85.209.158.11:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=85.209.158.11&encryption=none#Rayan%20-%20VPH%20-%20WSDR-106%20-%20HK%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80?encryption=none&security=none&type=ws&host=c.lkzb-0t0.workers.dev&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?encryption=none&security=none&sni=hello.96xckkzx.workers.dev&type=ws&host=hello.96xckkzx.workers.dev&path=%2F#t.me%2Fpeterjest
