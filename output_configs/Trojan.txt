@@ -369,7 +369,6 @@ trojan://3763495894587285504@smooth-buck.goat627.mom:443?allowInsecure=0&sni=smo
 trojan://3763495894587285504@useful-monkfish.goat627.mom:443?allowInsecure=0&sni=useful-monkfish.goat627.mom#DE🇩🇪
 trojan://3763495982449565696@87.120.204.100:443?sni=closing-phoenix.goat627.mom&allowInsecure=0#DE🇩🇪
 trojan://3763495982449565696@closing-phoenix.goat627.mom:443?allowInsecure=0&sni=closing-phoenix.goat627.mom#DE🇩🇪
-trojan://3763495982449565696@faithful-goshawk.goat627.mom:443?allowInsecure=0&sni=faithful-goshawk.goat627.mom#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Cologne
 trojan://3763495982449565696@topical-gibbon.goat627.mom:443?allowInsecure=0&sni=topical-gibbon.goat627.mom#DE🇩🇪
 trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#DE🇩🇪
 trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
@@ -1093,6 +1092,7 @@ trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&
 trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#%40NoForcedHeaven@NoForcedHeaven
 trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸
 trojan://Aimer@103.116.7.100:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
+trojan://Aimer@103.116.7.103:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://Aimer@103.116.7.103:2083?sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&allowInsecure=0#🔒
 trojan://Aimer@103.116.7.133:2083?security=tls&sni=agepn.ambercc.filegear-sg.me&type=ws&host=agepn.ambercc.filegear-sg.me#🔒
 trojan://Aimer@103.116.7.152:2096?sni=epme.ambercc.filegear-sg.me#🔒
@@ -1582,6 +1582,7 @@ trojan://Aimer@108.162.195.82:443?sni=epms.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.0:8443?sni=epmw.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.104:2053?sni=epccs.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.113:443?sni=epccd.ambercc.filegear-sg.me#🔒
+trojan://Aimer@108.165.152.130:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Jaipur
 trojan://Aimer@108.165.152.130:2083?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.131:443?sni=epccu.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.143:2087?sni=epmw.ambercc.filegear-sg.me#🔒
@@ -1942,7 +1943,6 @@ trojan://Aimer@162.159.44.82:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0
 trojan://Aimer@162.159.45.156:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws&host=ngepz.ambercc.filegear-sg.me#🔒
 trojan://Aimer@167.68.4.10:2096?sni=epccj.ambercc.filegear-sg.me#🔒
 trojan://Aimer@167.68.4.131:8443?sni=epccd.ambercc.filegear-sg.me#🔒
-trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://Aimer@167.68.4.199:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@167.68.4.223:2096?sni=epccd.ambercc.filegear-sg.me#🔒
 trojan://Aimer@167.68.4.58:443?sni=epccd.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram⚠️
@@ -2398,7 +2398,6 @@ trojan://Aimer@arvind.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.fi
 trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@lynn.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram⚠️
 trojan://Aimer@pranab.ns.cloudflare.com:443?security=tls&sni=epms.ambercc.filegear-sg.me&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@sage.ns.cloudflare.com:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:31.53ms
 trojan://Aimer@thaddeus.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Teleg
 trojan://BTns3czXfT@104.21.15.33:2096?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=/рЯЖФ@M3HDIO1#🔒
 trojan://Bc%23%3F%3Fcut0k9l@104.17.147.22:2053?security=tls&sni=G7tAU5ZF41eqnF9FpwJ8rmQY3SFYEI4l.PRX11.wORKeRS.dEV&type=ws&host=g7tau5zf41eqnf9fpwj8rmqy3sfyei4l.prx11.workers.dev#🔒
@@ -2730,7 +2729,6 @@ trojan://bb101390-29cc-11f0-936b-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://bcaaacb-caba-acba-cabd-aacbbaabccbc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
 trojan://bcaabac-abac-cbaa-dcba-bacacacabbbc@127.0.0.1:3080?security=tls&type=tcp#🛡
 trojan://bcabaac-aabc-abca-cabd-caaccbbcbaba@127.0.0.1:1080?security=tls&type=tcp#🔄
-trojan://bcabcaa-abac-bcaa-bacd-cbbaabbccaac@127.0.0.1:8080?security=tls&type=tcp#👉🆔@v2ray_configs_pool📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:0.05ms
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-13-Jul-2025
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@103.224.182.249:443?security=tls&sni=z9.gozargah.one&type=tcp#🔒
