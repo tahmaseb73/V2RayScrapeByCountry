@@ -6194,11 +6194,7 @@ vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqq
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#RELAY🚩
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?security=tls&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309b7.xyz0.pages.dev&path=%2FYzeJFTQqvmhtzTlE%3Fed%3D2560&alpn=http%2F1.1#🔒
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.12.30.65:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#RELAY🚩
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.12.31.210:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#Bya%20To%20%40Iran_V2ray1
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.131.6.124:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#Bya%20To%20%40Iran_V2ray1```
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.131.6.20:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#RELAY🚩
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.142.120.192:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#Bya%20To%20%40Iran_V2ray1
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.80.111.165:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#Bya%20To%20%40Iran_V2ray1
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.80.111.165:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#RELAY🚩
 vless://54ffbe99-7aaf-4ceb-9a82-048fb2489757@46.203.248.224:20411?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&type=tcp&headerType=none#q1_521
 vless://54ffbe99-7aaf-4ceb-9a82-048fb2489757@46.203.248.224:20411?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&spx=/v2rayNplus&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#@meli_pro
@@ -14179,7 +14175,6 @@ vless://d2bdf18d-dadc-427f-9b0b-5e68fdd00521@85.133.206.14:33912?type=ws&path=te
 vless://d2bdf18d-dadc-427f-9b0b-5e68fdd00521@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_1074_@Surfboardv2ray
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%87%9D%40Gp_Config%20%F0%9F%9A%A7%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D8%A7
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩
-vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Bya%20To%20%40Iran_V2ray1
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram
 vless://d2d622b2-66d0-4a89-a02f-40885ee01409@65.108.92.15:1010?security=reality&sni=refersion.com&type=tcp&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA#🔒
