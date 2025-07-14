@@ -68,6 +68,7 @@ ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20273%20%28%40Outline_Vpn%29%20free
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20273%20%28%40proxy_kafee%29%20free
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20283%20%28%40Outline_Vpn%29%20free
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20283%20%28%40proxy_kafee%29%20free
 ss://21147720-fdb8-4f96-ceb6-e7f9c0633471@asia2.novahomedesigntips.com:18200?type=ws#IR🇮🇷
 ss://21147720fdb84f96ceb6e7f9c0633471Og==@asia2.novahomedesigntips.com:18200#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+asia2.novahomedesigntips.com-18200+%7C+295.89ms
 ss://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.30%3A2086
@@ -277,7 +278,6 @@ ss://8aff0bd4-87f0-4ade-a8d1-ef5594703e31@79.132.192.148:12087?encryption=none&s
 ss://8b0d5686-b7c2-413d-9ec1-7e96e3cff678@78.157.34.211:2081?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-78.157.34.211%3A2081
 ss://8c15cc84-2bec-f384-6044-399800ead842@5.57.38.13:40100?encryption=none&security=none&type=tcp&headerType=http&host=vssweb.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.57.38.13%3A40100
 ss://8c15cc84-2bec-f384-6044-399800ead842@81.12.35.242:40100?encryption=none&security=none&type=tcp&headerType=http&host=vssweb.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-81.12.35.242%3A40100
-ss://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=%2F&security=tls&encryption=none&host=DO-iTforyOu-E1P.PAgeS.dEV&fp=chrome&type=ws&sni=DO-iTforyOu-E1P.PAgeS.dEV#Bya%20To%20%40Iran_V2ray1
 ss://8d77300a-0a55-44de-8be8-5c52be2ee905@185.2.15.139:8443?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.2.15.139%3A8443
 ss://8ec337d5-4e9c-46a9-b372-a655ac455c05@185.49.105.229:2051?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.49.105.229%3A2051
 ss://92b2a72e-7a0f-4ebd-a480-da317983e889@87.236.38.211:21322?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-87.236.38.211%3A21322
@@ -631,6 +631,7 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20273%20%28%40Outline_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20273%20%28%40proxy_kafee%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20283%20%28%40Outline_Vpn%29%20free
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20283%20%28%40proxy_kafee%29%20free
 vless://21147720-fdb8-4f96-ceb6-e7f9c0633471@asia2.novahomedesigntips.com:18200?type=ws#IR🇮🇷
 vless://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.30%3A2086
 vless://226ee423-c081-4bdc-a87f-6f58edbfce66@92.114.24.6:20255?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-92.114.24.6%3A20255
@@ -817,7 +818,6 @@ vless://8aff0bd4-87f0-4ade-a8d1-ef5594703e31@79.132.192.148:12087?encryption=non
 vless://8b0d5686-b7c2-413d-9ec1-7e96e3cff678@78.157.34.211:2081?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-78.157.34.211%3A2081
 vless://8c15cc84-2bec-f384-6044-399800ead842@5.57.38.13:40100?encryption=none&security=none&type=tcp&headerType=http&host=vssweb.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.57.38.13%3A40100
 vless://8c15cc84-2bec-f384-6044-399800ead842@81.12.35.242:40100?encryption=none&security=none&type=tcp&headerType=http&host=vssweb.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-81.12.35.242%3A40100
-vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=%2F&security=tls&encryption=none&host=DO-iTforyOu-E1P.PAgeS.dEV&fp=chrome&type=ws&sni=DO-iTforyOu-E1P.PAgeS.dEV#Bya%20To%20%40Iran_V2ray1
 vless://8d77300a-0a55-44de-8be8-5c52be2ee905@185.2.15.139:8443?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.2.15.139%3A8443
 vless://8ec337d5-4e9c-46a9-b372-a655ac455c05@185.49.105.229:2051?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.49.105.229%3A2051
 vless://92b2a72e-7a0f-4ebd-a480-da317983e889@87.236.38.211:21322?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-87.236.38.211%3A21322
