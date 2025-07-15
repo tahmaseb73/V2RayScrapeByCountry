@@ -104,7 +104,6 @@ trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&ho
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#RELAY🚩
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560#RELAY🚩
-trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560#🇸🇬[openproxylist.com]
 trojan://123456@104.25.165.83:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
 trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
 trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2F#RELAY🚩
@@ -3178,7 +3177,6 @@ trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp
 trojan://installshield@38.180.249.177:8443?security=tls&headerType=none&type=tcp&sni=38.180.249.177#Singapore%20M247
 trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&type=tcp#🔒
-trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&type=tcp&allowInsecure=1#🇸🇬[openproxylist.com]
 trojan://installshield@38.180.249.177:8443?security=tls&type=tcp&sni=38.180.249.177#%E6%9C%AA%E7%9F%A575
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🔒
@@ -3623,6 +3621,7 @@ trojan://tg-fq521free@194.76.18.129:443?security=tls&sni=torjan.xn--xhq44j.eu.or
 trojan://tg-fq521free@194.76.18.129:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#%5BTrojan%2004%5D%20%40ResistalProxy
 trojan://tg-fq521free@194.76.18.129:443?type=ws&sni=torjan.xn--xhq44j.eu.org&path=/&host=torjan.xn--xhq44j.eu.org#%E6%9C%AA%E7%9F%A5
 trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#US_speednode_0227
+trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#🇸🇬[openproxylist.com]
 trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&ws=1&wspath=%2F#US_speednode_0227
 trojan://tg-fq521free@198.62.62.67:443?security=tls&sni=torjan.xn--xhq44j.eu.org&allowInsecure=1&fp=chrome&type=ws&path=/&host=torjan.xn--xhq44j.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-WS-TLS%204%E2%83%A3
 trojan://tg-fq521free@198.62.62.67:443?type=ws&sni=torjan.xn--xhq44j.eu.org&path=/&host=torjan.xn--xhq44j.eu.org#US
@@ -3764,6 +3763,7 @@ trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&path=/&host=dns.g
 trojan://vpn@46.29.234.154:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@46.29.234.154:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=%2F#t.me%2Fpeterjest
+trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=/#🇱🇹[openproxylist.com]
 trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=/#🔒
 trojan://vpn@62.133.60.83:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@62.133.60.83:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
@@ -3781,6 +3781,7 @@ trojan://vpn@89.191.234.182:2025?security=none&fp=chrome&type=ws&path=/&host=dns
 trojan://vpn@91.108.241.73:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@91.108.241.73:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@91.108.241.73:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
+trojan://vpn@91.108.241.73:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#🇫🇮[openproxylist.com]
 trojan://vs6f8hvt@104.16.177.79:2087?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#🔒
 trojan://vs6f8hvt@104.16.237.15:443?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#🔒
 trojan://vs6f8hvt@104.17.245.203:2053?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#🔒
