@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2025-07-15 20:46:14 +0330)
+# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2025-07-15 21:08:26 +0330)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -11,11 +11,11 @@
 | پروتکل | تعداد کل | لینک |
 |:-:|:-:|:-:|
 | Hysteria2 | 635 | [`Hysteria2.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Hysteria2.txt) |
-| ShadowSocks | 24587 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
+| ShadowSocks | 24595 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 61 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocksR.txt) |
 | Trojan | 3934 | [`Trojan.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Trojan.txt) |
 | Tuic | 364 | [`Tuic.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Tuic.txt) |
-| Vless | 18228 | [`Vless.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
+| Vless | 18236 | [`Vless.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
 | Vmess | 1729 | [`Vmess.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Vmess.txt) |
 | WireGuard | 85 | [`WireGuard.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/WireGuard.txt) |
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
