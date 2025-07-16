@@ -1,11 +1,8 @@
 ss://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?encryption=none&security=none&type=ws&path=%2F00026cc2#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Downtown%20Core%29%F0%9F%85%BF%EF%B8%8Fping%3A248.54ms
 ss://2315ac02-c7fb-424d-80c5-1dceb1be0c53@104.248.151.5:81?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Pioneer%29%F0%9F%85%BF%EF%B8%8Fping%3A198.93ms
 ss://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80?path=%2F&security=none&encryption=none&host=19.sahanwickramasinghe.shop&type=ws#SG🇸🇬
-ss://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:187.83ms
-ss://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.53.13:1743?type=tcp&path=/&host=zula.ir&headerType=http&security=noneتعدادتعدادتعداد#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:174.93ms
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&security=none&type=tcp&headerType=none#SG🇸🇬
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
-ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:178.83ms
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&encryption=none#SG🇸🇬
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Geylang%29%F0%9F%85%BF%EF%B8%8Fping%3A8.62ms
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Geylang%29%F0%9F%85%BF%EF%B8%8Fping%3A8.4ms
@@ -66,7 +63,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#SG%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#SG-%3ESG-%3EADL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#%F0%9F%87%B8%F0%9F%87%ACSG-103.36.91.23-4884
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%ACSG-103.36.91.32-5005
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore
 ss://YWVzLTEyOC1nY206LzZHbytnc2lvV2hOMWZNNE1pT0x3UzRvV1ZGK3IzVUd2MlNqU0FwZlMwQT0=@165.154.236.149:39856#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 ss://YWVzLTEyOC1nY206LzZHbytnc2lvV2hOMWZNNE1pT0x3UzRvV1ZGK3IzVUd2MlNqU0FwZlMwQT0=@165.154.236.149:39856#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 ss://YWVzLTEyOC1nY206LzZHbytnc2lvV2hOMWZNNE1pT0x3UzRvV1ZGK3IzVUd2MlNqU0FwZlMwQT0@165.154.236.149:39856#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
@@ -113,11 +109,8 @@ trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&allow
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?encryption=none&security=none&type=ws&path=%2F00026cc2#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Downtown%20Core%29%F0%9F%85%BF%EF%B8%8Fping%3A248.54ms
 vless://2315ac02-c7fb-424d-80c5-1dceb1be0c53@104.248.151.5:81?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Pioneer%29%F0%9F%85%BF%EF%B8%8Fping%3A198.93ms
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80?path=%2F&security=none&encryption=none&host=19.sahanwickramasinghe.shop&type=ws#SG🇸🇬
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:187.83ms
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.53.13:1743?type=tcp&path=/&host=zula.ir&headerType=http&security=noneتعدادتعدادتعداد#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:174.93ms
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&security=none&type=tcp&headerType=none#SG🇸🇬
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:178.83ms
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&encryption=none#SG🇸🇬
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Geylang%29%F0%9F%85%BF%EF%B8%8Fping%3A8.62ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Geylang%29%F0%9F%85%BF%EF%B8%8Fping%3A8.4ms
