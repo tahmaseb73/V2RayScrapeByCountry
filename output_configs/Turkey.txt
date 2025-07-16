@@ -7,6 +7,7 @@ ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni
 ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#1%7C%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
 ss://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#TR🇹🇷
 ss://6fa4a6e6-e575-42ec-aba1-4142b73bad06@cls.zibanamas.ir:8295?security=reality&encryption=none&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|TR🇹🇷
+ss://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2Fassets%3Fed&security=tls&encryption=none&host=NGINX-Z.pages.DEV&fp=chrome&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.04ms
 ss://8fe30358-c761-4520-8c2f-167c83fbcde2@tr.g2games.ir:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=DKQyh2lWWoRu_LqqthobUZwJtYn1ch-49zOFpKHKryM&sid=0ea91a0e&spx=%2F&type=xhttp&host=www.microsoft.com&path=%2Fapi%2Fv3%2F&mode=auto&extra=%7B%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2B%7D#REALITY|TR🇹🇷
 ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?encryption=none&security=none&type=tcp&headerType=none#TR🇹🇷
 ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type=tcp&encryption=none#TR🇹🇷
@@ -32,7 +33,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDQ4NWNhZS1jNjE0LTRlNmItOGVkMy1iYjUyZTUyOGN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7%20TR-185.123.101.241:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0302
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+185.123.101.241-990+%7C+245.33ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:61.25ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuckJDbXY3aXMzMmZnNFdUZjVId1Nt@h110vpntr.outlinekeys.net:65262#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+h110vpntr.outlinekeys.net-65262+%7C+1018.65ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRlhWWGxHNnY0TmhHTXl4alFxUVFn@193.124.46.196:53024#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+193.124.46.196-53024+%7C+187.85ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+83.217.9.128-2222+%7C+188.78ms
@@ -218,6 +218,7 @@ vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#1%7C%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
 vless://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#TR🇹🇷
 vless://6fa4a6e6-e575-42ec-aba1-4142b73bad06@cls.zibanamas.ir:8295?security=reality&encryption=none&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|TR🇹🇷
+vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2Fassets%3Fed&security=tls&encryption=none&host=NGINX-Z.pages.DEV&fp=chrome&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.04ms
 vless://8fe30358-c761-4520-8c2f-167c83fbcde2@tr.g2games.ir:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=DKQyh2lWWoRu_LqqthobUZwJtYn1ch-49zOFpKHKryM&sid=0ea91a0e&spx=%2F&type=xhttp&host=www.microsoft.com&path=%2Fapi%2Fv3%2F&mode=auto&extra=%7B%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2B%7D#REALITY|TR🇹🇷
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?encryption=none&security=none&type=tcp&headerType=none#TR🇹🇷
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type=tcp&encryption=none#TR🇹🇷
