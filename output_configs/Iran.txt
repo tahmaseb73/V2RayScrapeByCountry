@@ -66,6 +66,7 @@ ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20273%20%28%40Outline_Vpn%29%20free
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20283%20%28%40Outline_Vpn%29%20free
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20301%20%28%40Outline_Vpn%29%20free
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20301%20%28%40lrnbymaa%29%20free
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20305%20%28%40Outline_Vpn%29%20free
 ss://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.30%3A2086
 ss://226a5194-ad7a-4aca-9852-e84aeca24381@vizzpn.freenet.vizzfrag.ir:443?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#IR🇮🇷
@@ -107,7 +108,6 @@ ss://32e6767447fa460a896aca9029a9f48eOg==@85.133.247.44:2082#IR%F0%9F%87%AE%F0%9
 ss://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
 ss://3487ce43-b803-4770-97ff-f75880d7f9b4@104.24.175.2:80?path=%2F...&security=none&encryption=none&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&type=ws#IRAN%20280%20%28%40Outline_Vpn%29%20free
 ss://35b4a572-56f6-494f-a6ba-747b7886d0ea@85.198.14.216:14242?encryption=none&security=none&type=tcp&headerType=http&host=ponisha.ir#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.198.14.216%3A14242
-ss://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40Prime_Verse%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&fp=chrome&type=ws&sni=PaGes.deV#Bya%20To%20%40Iran_V2ray1
 ss://387d590b-38dd-48d7-a3a4-c791ecc642f7@188.121.119.79:5540?encryption=none&security=reality&sni=anten.ir&fp=firefox&pbk=LX9nuq50pPDqg48F1NU4Eo7tSyornI5wWmfQbCpqcWk&sid=89dd7fbc&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%AE%F0%9F%87%B7%20IR-188.121.119.79%3A5540
 ss://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=acc.eternalping.ir#IR🇮🇷
 ss://39a88325-72b3-4ddb-ba55-da9473fcb341@212.80.10.92:51164?encryption=none&flow=xtls-rprx-vision&security=reality&sni=en.wikipedia.org&fp=randomized&pbk=EgPR6j9jYXhL-ALSn31zemUGB9pAj0ljIUq33eDgoxo&sid=12d87f7a&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%AE%F0%9F%87%B7%20IR-212.80.10.92%3A51164
@@ -278,6 +278,7 @@ ss://93a62672-b506-407f-927d-d5226135344f@85.133.197.88:80?encryption=none&secur
 ss://93a62672-b506-407f-927d-d5226135344f@85.133.197.88:80?encryption=none&security=tls&sni=t1.atsariii.top&type=tcp&headerType=none#IR🇮🇷
 ss://9764f0c4-dd60-4218-9a0d-fc67f33f0792@91.99.149.143:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷
 ss://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#IR🇮🇷
+ss://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#Bya%20To%20%40Iran_V2ray1
 ss://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷
 ss://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?type=tcp&path=%2F&host=exo.ir&headerType=http&security=none#IR🇮🇷
 ss://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#IR🇮🇷
@@ -609,6 +610,7 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20273%20%28%40Outline_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20283%20%28%40Outline_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20301%20%28%40Outline_Vpn%29%20free
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20301%20%28%40lrnbymaa%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20305%20%28%40Outline_Vpn%29%20free
 vless://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.30%3A2086
 vless://226a5194-ad7a-4aca-9852-e84aeca24381@vizzpn.freenet.vizzfrag.ir:443?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#IR🇮🇷
@@ -646,7 +648,6 @@ vless://32e67674-47fa-460a-896a-ca9029a9f48e@85.133.247.44:2082?encryption=none&
 vless://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
 vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.24.175.2:80?path=%2F...&security=none&encryption=none&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&type=ws#IRAN%20280%20%28%40Outline_Vpn%29%20free
 vless://35b4a572-56f6-494f-a6ba-747b7886d0ea@85.198.14.216:14242?encryption=none&security=none&type=tcp&headerType=http&host=ponisha.ir#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.198.14.216%3A14242
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40Prime_Verse%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&fp=chrome&type=ws&sni=PaGes.deV#Bya%20To%20%40Iran_V2ray1
 vless://387d590b-38dd-48d7-a3a4-c791ecc642f7@188.121.119.79:5540?encryption=none&security=reality&sni=anten.ir&fp=firefox&pbk=LX9nuq50pPDqg48F1NU4Eo7tSyornI5wWmfQbCpqcWk&sid=89dd7fbc&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%AE%F0%9F%87%B7%20IR-188.121.119.79%3A5540
 vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=acc.eternalping.ir#IR🇮🇷
 vless://39a88325-72b3-4ddb-ba55-da9473fcb341@212.80.10.92:51164?encryption=none&flow=xtls-rprx-vision&security=reality&sni=en.wikipedia.org&fp=randomized&pbk=EgPR6j9jYXhL-ALSn31zemUGB9pAj0ljIUq33eDgoxo&sid=12d87f7a&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%AE%F0%9F%87%B7%20IR-212.80.10.92%3A51164
@@ -799,6 +800,7 @@ vless://93a62672-b506-407f-927d-d5226135344f@85.133.197.88:80?encryption=none&se
 vless://93a62672-b506-407f-927d-d5226135344f@85.133.197.88:80?encryption=none&security=tls&sni=t1.atsariii.top&type=tcp&headerType=none#IR🇮🇷
 vless://9764f0c4-dd60-4218-9a0d-fc67f33f0792@91.99.149.143:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#IR🇮🇷
+vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#Bya%20To%20%40Iran_V2ray1
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?type=tcp&path=%2F&host=exo.ir&headerType=http&security=none#IR🇮🇷
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#IR🇮🇷
