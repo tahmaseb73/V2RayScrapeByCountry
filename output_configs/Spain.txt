@@ -13,6 +13,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%F0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%F0%9F%87%AA%F0%9F%87%B8ES-45.154.206.192-0246
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.154.206.192-990+%7C+163.94ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ES-%3EES-%3EADL-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:60.13ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuT2ZrS2JvREF4aFR4MmsxY0FsdEl6@194.87.45.189:443#%F0%9F%87%AA%F0%9F%87%B8%20ES-194.87.45.189:443
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@5.188.181.201:9011#%F0%9F%87%AA%F0%9F%87%B8%20ES-5.188.181.201:9011
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@5.188.181.201:9001#%F0%9F%87%AA%F0%9F%87%B8%20ES-5.188.181.201:9001
@@ -24,6 +25,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.154.206.192:989#%F0%9F%87%AA%F0%9
 ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#ES🇪🇸
 ss://c48da5b2-98a7-4ca3-9ef3-1c9b8dbd3901@node-sp-1-v4.soundlesss.com:4000?security=reality&encryption=none&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&headerType=none&fp=firefox&type=tcp&sni=unpkg.com&sid=0b5922be64fc5713#REALITY|ES🇪🇸
 ss://cb2fe166-ac66-404d-aa4e-8d16fb2ef412@185.214.101.118:20435?mode=gun&security=reality&encryption=none&pbk=uob8UvGgvG-F3iz0PuOpam6nSh6789W7BQwtdbAS3S0&fp=firefox&spx=%2F&type=grpc&sni=journalofbigdata.springeropen.com&sid=a84ef4c84588b70d#REALITY|ES🇪🇸
+trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:8.26ms
 trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&sni=x1es-ovh.devefun.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20Madrid%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&sni=x1es-ovh.devefun.net&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20Madrid%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://your_password@18.100.115.245:443?security=tls&sni=aws-es-madrid-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20Zaragoza%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
