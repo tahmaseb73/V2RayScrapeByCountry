@@ -1628,6 +1628,7 @@ trojan://Aimer@108.165.152.82:8443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.91:2083?sni=epmw.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.92:2053?security=tls&sni=agept.ambercc.filegear-sg.me&type=ws&host=agept.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.92:2053?security=tls&type=ws&sni=agept.ambercc.filegear-sg.me&host=agept.ambercc.filegear-sg.me#US15
+trojan://Aimer@108.165.152.93:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Jaipur
 trojan://Aimer@108.165.152.93:2083?sni=epccj.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.98:2087?sni=epccx.ambercc.filegear-sg.me#🔒
 trojan://Aimer@112.161.49.84:11681?sni=epmq.ambercc.filegear-sg.me#🔒
