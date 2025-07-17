@@ -19,6 +19,7 @@ ss://0ce4d0ac-f23e-4921-97fc-c2a3acefac0a@194.182.79.41:48615?encryption=none&se
 ss://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?encryption=none&security=none&type=ws&host=QW.VU6d72nt9y.zULaiR.orG.&path=%2F%3Fed%3D2048flow%3D-udp443#t.me%2Fpeterjest
 ss://106ec985-43f9-4999-b975-adcab5c57b5a@uk-2-rvp.medicaldream.ir:443?security=tls&sni=uk-2-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-2-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.15.19:2082?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0108.9ro3grfw.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub`
+ss://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082?path=/&security=none&encryption=none&host=refersion.com&type=ws#t.me/entryNET/config=1837891714851365
 ss://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.19.48.236:443?encryption=none&security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F#t.me%2Fpeterjest
 ss://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@hyun.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F#t.me%2Fpeterjest
 ss://195a6144-49a1-4f16-a007-8702010dc489@sg-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=sg-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=sg-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-125%20-%20SG%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -35,6 +36,7 @@ ss://1e30357c-f49c-4276-8ecd-22df1e389d61@zula.ir:8443?security=tls&sni=sg-1-ss8
 ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#🌟T.me/Asak_Vpn🌟
 ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#💯T.me/Asak_Vpn💯
 ss://1f431db3-1918-4e7b-a855-c93485e11694@104.21.113.169:80?path=/?ed=2570&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#🔥T.me/Asak_Vpn🔥
+ss://20a5849d-7f01-4a89-a296-05a39040deac@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1837891712800532
 ss://2256fb79-e13d-4391-9b1d-5ee38c5f9ce9@amir.amirmahdirajabiamirrr.ir:443?mode=auto&path=/amirvpn?ed=2560&security=reality&encryption=none&pbk=N_7OhNqopbh7yO6Npvf-BnsyfbXNynnFNP7GzQCriF4&host=Amirmahdiyour-name.global.ssl.fastly.net&fp=chrome&spx=/yuFIX6d89NQbSVu&type=xhttp&sni=graspwise.com&sid=d31d#t.me/entryNET/config=1837879005713186
 ss://2256fb79-e13d-4391-9b1d-5ee38c5f9ce9@amir.amirmahdirajabiamirrr.ir:443?mode=auto&path=/amirvpn?ed=2560&security=reality&encryption=none&pbk=N_7OhNqopbh7yO6Npvf-BnsyfbXNynnFNP7GzQCriF4&host=Amirmahdiyour-name.global.ssl.fastly.net&fp=chrome&spx=/yuFIX6d89NQbSVu&type=xhttp&sni=graspwise.com&sid=d31d#t.me/entryNET/config=1837879005713242
 ss://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80?encryption=none&security=none&type=ws&host=DaWn-lAKE-d5E3.WocoYA4320.wOrkERs.DeV&path=%2FwP3dwCyRAVyMJFfW%3Fed%3D2560#t.me%2Fpeterjest
@@ -64,6 +66,7 @@ ss://31303120-3130-4220-b534-203534203130@ae-1-sst.medicaldream.ir:8442?security
 ss://31303220-3533-4035-b620-353520313031@sg-2-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20SG%20-%20II%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
 ss://31d40cc1-b8d0-55d5-a333-a309c9879b3e@95.215.8.25:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.215.8.25&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20NL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://31d40cc1-b8d0-55d5-a333-a309c9879b3e@www.speedtest.net:443?security=tls&sni=nl-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20NL%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+ss://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#t.me/entryNET/config=1837890837655045
 ss://34382034-3920-4533-a031-303120393820@tr-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20TR%20-%20I%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
 ss://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?path=/&security=tls&encryption=none&host=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&type=ws&sni=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv#t.me/entryNET/config=1837890648201717
 ss://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:80?encryption=none&security=none&type=ws&host=ooao14004.74gwenneth.workers.dev&path=%2F#t.me%2Fpeterjest
@@ -161,6 +164,7 @@ ss://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80?encryption=none&secur
 ss://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80?encryption=none&security=none&type=ws&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#t.me%2Fpeterjest
 ss://66887fd8-94c8-5024-ad7e-46ffdd7f5bfc@194.226.121.190:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20RU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://66887fd8-94c8-5024-ad7e-46ffdd7f5bfc@www.speedtest.net:443?security=tls&sni=ru-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ru-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20RU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+ss://677a41e5-dbe6-429b-8f91-cc014b1ae1bd@146.190.16.108:23701?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#t.me/entryNET/config=1837892095538283
 ss://682e220c-0db8-4c47-8c7a-f719639a4b4a@65.109.241.111:14327?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14-5coifskkf
 ss://683e439b-468e-5956-87bc-ec77e2ff36c7@194.226.121.190:443?security=tls&sni=194.226.121.190&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#Rayan%20-%20SSM%20-%20WSDR-116%20-%20RU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://683e439b-468e-5956-87bc-ec77e2ff36c7@zula.ir:443?security=tls&sni=ru-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ru-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-116%20-%20RU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -182,6 +186,7 @@ ss://72e4d482-3ef8-57ae-87da-315f304d896d@102.129.165.116:443?security=tls&sni=1
 ss://72e4d482-3ef8-57ae-87da-315f304d896d@sourceforge.net:443?security=tls&sni=za-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=za-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-118%20-%20ZA%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 ss://737345a9-649d-531d-93e4-23c53b4371f8@194.147.35.250:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.147.35.250&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20UK%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://737345a9-649d-531d-93e4-23c53b4371f8@www.speedtest.net:443?security=tls&sni=uk-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20UK%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+ss://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&host=/:@___&headerType=none&type=tcp#t.me/entryNET/config=1837891525745076
 ss://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&host=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&headerType=none&type=tcp#t.me/entryNET/config=1837878061396553
 ss://756f82d8-8c50-472a-bae6-f62cff8edf8a@vnodepro.vgyop.com:80?mode=auto&path=/&security=none&encryption=none&host=server-v2c.global.ssl.fastly.net&type=xhttp#[🌟]t.me/Asak_Vpn
 ss://7585f059-2c89-4a02-9dff-394bb7913ef5@whatismyipaddress.com:2096?path=/&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir#🔥T.me/Asak_Vpn🔥
@@ -209,6 +214,7 @@ ss://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&secu
 ss://82411de0-d03e-5266-a7db-6bed61176269@41.216.182.162:443?security=tls&sni=41.216.182.162&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=41.216.182.162&encryption=none#Rayan%20-%20SSM%20-%20WSDR-119%20-%20SE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://82411de0-d03e-5266-a7db-6bed61176269@digg.com:443?security=tls&sni=se-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-119%20-%20SE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.234.247.205:2198?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1837888005470289
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1837890774111632
 ss://845c6c80-3fa8-498a-be8a-b8c9186ea267@151.101.0.155:80?type=ws&host=MadGalFereshtast.Com&path=/Telegram-Channel:@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG?ed=2560#t.me/entryNET/config=1837888693569051
 ss://858959c9-84a1-480c-ad9b-216aa63e3df7@zula.ir:8443?security=tls&sni=uk-1-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=uk-1-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-115%20-%20UK%20-%20I%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
 ss://86883d84-162c-42c4-af65-11dd80eb2ffa@172.67.141.40:2086?encryption=none&security=none&type=ws&host=tg20.dnopxqcx.workers.dev&path=%2F#t.me%2Fpeterjest
@@ -276,6 +282,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#💯T.me/Asak_Vpn💯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.29.177:443#t.me/entryNET/config=1837888633926465
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#💯T.me/Asak_Vpn💯
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSVpBQWhRTUtsa21XNjBJc3E4MlBH@81.19.141.45:52873#t.me/entryNET/config=1837891466093921
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNGFwTThqZUxWS0FidGloQ3NtVkZK@aus.un1c4d3.ru:22899#💯T.me/Asak_Vpn💯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@166.88.131.195:52952#t.me%2Fpeterjest
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVV1ZPc3V0UHV5dW1tWmFsRVlYaDRx@77.83.246.74:443#t.me%2Fpeterjest
@@ -343,6 +350,7 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.80:8090#t.me%2Fpeterjest
 ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#%E5%85%8D%E8%B4%B9%E6%A2%AF%E5%AD%90https%3A%2F%2Ft.me%2Fmftizi
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@67.220.95.102:8008#t.me%2Fpeterjest
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#t.me%2Fpeterjest
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.180:8118#t.me/entryNET/config=1837891776942402
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.93.113:9101#t.me%2Fpeterjest
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.107.226.14:443#t.me%2Fpeterjest
 ss://a3ae4f7e-447d-48ba-903c-b0cede6b9c84@nol.noloton-sub.top:47792?encryption=none&security=none&type=tcp&headerType=http&host=static.cdn.asset.filimo.com#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
@@ -403,6 +411,7 @@ ss://cef149e8-73a9-4802-8f9e-a51edbdb6889@ro.dtmezon.com:49750?security=none&enc
 ss://d1e900ce-dd3f-46e8-8a7c-1f2a81f3fe08@85.209.158.11:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=85.209.158.11&encryption=none#Rayan%20-%20VPH%20-%20WSDR-106%20-%20HK%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80?encryption=none&security=none&type=ws&host=c.lkzb-0t0.workers.dev&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#t.me/entryNET/config=1837875671457903
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@159.69.22.135:1001?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560#t.me/entryNET/config=1837891838584039
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?encryption=none&security=none&sni=hello.96xckkzx.workers.dev&type=ws&host=hello.96xckkzx.workers.dev&path=%2F#t.me%2Fpeterjest
 ss://d3a3b3e9-96d9-52d9-9f18-d36bab2aa3e4@45.89.52.193:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.89.52.193&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20TR%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://d3a3b3e9-96d9-52d9-9f18-d36bab2aa3e4@www.speedtest.net:443?security=tls&sni=tr-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=tr-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20TR%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -460,6 +469,7 @@ ss://f07cffb5-7086-5db0-b4cf-12abb79ee254@38.89.142.153:443?security=tls&sni=zul
 ss://f07cffb5-7086-5db0-b4cf-12abb79ee254@www.speedtest.net:443?security=tls&sni=sg-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sg-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20SG%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 ss://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#t.me%2Fpeterjest
 ss://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?path=/&security=none&encryption=none&type=ws#[🌟]t.me/Asak_Vpn
+ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=ws#t.me/entryNET/config=1837891651467674
 ss://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.16.1.106:80?path=/?ed=2560&security=none&encryption=none&host=delam.ahaysiahzangi.dpdns.org&type=ws#T.me/Asak_Vpn
 ss://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?encryption=none&security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://f8cca2ed-eb49-4d0c-8a12-cfb23b41b44e@104.17.148.22:2052?security=none&type=ws&host=submtn.ailreza.org.tr.#t.me/entryNET/config=1837877185316476
@@ -761,6 +771,7 @@ trojan://telegram-id-privatevpns@63.178.205.172:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@63.178.205.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@63.178.205.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1837878878158559
+trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1837890896328576
 trojan://telegram-id-privatevpns@63.178.210.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@63.178.60.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@63.178.60.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs🤯
@@ -797,6 +808,7 @@ vless://0ce4d0ac-f23e-4921-97fc-c2a3acefac0a@194.182.79.41:48615?encryption=none
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?encryption=none&security=none&type=ws&host=QW.VU6d72nt9y.zULaiR.orG.&path=%2F%3Fed%3D2048flow%3D-udp443#t.me%2Fpeterjest
 vless://106ec985-43f9-4999-b975-adcab5c57b5a@uk-2-rvp.medicaldream.ir:443?security=tls&sni=uk-2-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-2-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.15.19:2082?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0108.9ro3grfw.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub`
+vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082?path=/&security=none&encryption=none&host=refersion.com&type=ws#t.me/entryNET/config=1837891714851365
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.19.48.236:443?encryption=none&security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F#t.me%2Fpeterjest
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@hyun.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F#t.me%2Fpeterjest
 vless://195a6144-49a1-4f16-a007-8702010dc489@sg-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=sg-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=sg-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-125%20-%20SG%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -813,6 +825,7 @@ vless://1e30357c-f49c-4276-8ecd-22df1e389d61@zula.ir:8443?security=tls&sni=sg-1-
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#🌟T.me/Asak_Vpn🌟
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#💯T.me/Asak_Vpn💯
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.113.169:80?path=/?ed=2570&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#🔥T.me/Asak_Vpn🔥
+vless://20a5849d-7f01-4a89-a296-05a39040deac@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1837891712800532
 vless://2256fb79-e13d-4391-9b1d-5ee38c5f9ce9@amir.amirmahdirajabiamirrr.ir:443?mode=auto&path=/amirvpn?ed=2560&security=reality&encryption=none&pbk=N_7OhNqopbh7yO6Npvf-BnsyfbXNynnFNP7GzQCriF4&host=Amirmahdiyour-name.global.ssl.fastly.net&fp=chrome&spx=/yuFIX6d89NQbSVu&type=xhttp&sni=graspwise.com&sid=d31d#t.me/entryNET/config=1837879005713186
 vless://2256fb79-e13d-4391-9b1d-5ee38c5f9ce9@amir.amirmahdirajabiamirrr.ir:443?mode=auto&path=/amirvpn?ed=2560&security=reality&encryption=none&pbk=N_7OhNqopbh7yO6Npvf-BnsyfbXNynnFNP7GzQCriF4&host=Amirmahdiyour-name.global.ssl.fastly.net&fp=chrome&spx=/yuFIX6d89NQbSVu&type=xhttp&sni=graspwise.com&sid=d31d#t.me/entryNET/config=1837879005713242
 vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80?encryption=none&security=none&type=ws&host=DaWn-lAKE-d5E3.WocoYA4320.wOrkERs.DeV&path=%2FwP3dwCyRAVyMJFfW%3Fed%3D2560#t.me%2Fpeterjest
@@ -842,6 +855,7 @@ vless://31303120-3130-4220-b534-203534203130@ae-1-sst.medicaldream.ir:8442?secur
 vless://31303220-3533-4035-b620-353520313031@sg-2-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20SG%20-%20II%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
 vless://31d40cc1-b8d0-55d5-a333-a309c9879b3e@95.215.8.25:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.215.8.25&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20NL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://31d40cc1-b8d0-55d5-a333-a309c9879b3e@www.speedtest.net:443?security=tls&sni=nl-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20NL%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#t.me/entryNET/config=1837890837655045
 vless://34382034-3920-4533-a031-303120393820@tr-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20TR%20-%20I%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
 vless://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?path=/&security=tls&encryption=none&host=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&type=ws&sni=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv#t.me/entryNET/config=1837890648201717
 vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:80?encryption=none&security=none&type=ws&host=ooao14004.74gwenneth.workers.dev&path=%2F#t.me%2Fpeterjest
@@ -939,6 +953,7 @@ vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80?encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80?encryption=none&security=none&type=ws&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#t.me%2Fpeterjest
 vless://66887fd8-94c8-5024-ad7e-46ffdd7f5bfc@194.226.121.190:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20RU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://66887fd8-94c8-5024-ad7e-46ffdd7f5bfc@www.speedtest.net:443?security=tls&sni=ru-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ru-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20RU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+vless://677a41e5-dbe6-429b-8f91-cc014b1ae1bd@146.190.16.108:23701?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#t.me/entryNET/config=1837892095538283
 vless://682e220c-0db8-4c47-8c7a-f719639a4b4a@65.109.241.111:14327?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14-5coifskkf
 vless://683e439b-468e-5956-87bc-ec77e2ff36c7@194.226.121.190:443?security=tls&sni=194.226.121.190&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#Rayan%20-%20SSM%20-%20WSDR-116%20-%20RU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://683e439b-468e-5956-87bc-ec77e2ff36c7@zula.ir:443?security=tls&sni=ru-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ru-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-116%20-%20RU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -960,6 +975,7 @@ vless://72e4d482-3ef8-57ae-87da-315f304d896d@102.129.165.116:443?security=tls&sn
 vless://72e4d482-3ef8-57ae-87da-315f304d896d@sourceforge.net:443?security=tls&sni=za-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=za-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-118%20-%20ZA%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 vless://737345a9-649d-531d-93e4-23c53b4371f8@194.147.35.250:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.147.35.250&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20UK%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://737345a9-649d-531d-93e4-23c53b4371f8@www.speedtest.net:443?security=tls&sni=uk-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20UK%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&host=/:@___&headerType=none&type=tcp#t.me/entryNET/config=1837891525745076
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&host=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&headerType=none&type=tcp#t.me/entryNET/config=1837878061396553
 vless://756f82d8-8c50-472a-bae6-f62cff8edf8a@vnodepro.vgyop.com:80?mode=auto&path=/&security=none&encryption=none&host=server-v2c.global.ssl.fastly.net&type=xhttp#[🌟]t.me/Asak_Vpn
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@whatismyipaddress.com:2096?path=/&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir#🔥T.me/Asak_Vpn🔥
@@ -1083,6 +1099,7 @@ vless://cef149e8-73a9-4802-8f9e-a51edbdb6889@ro.dtmezon.com:49750?security=none&
 vless://d1e900ce-dd3f-46e8-8a7c-1f2a81f3fe08@85.209.158.11:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=85.209.158.11&encryption=none#Rayan%20-%20VPH%20-%20WSDR-106%20-%20HK%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80?encryption=none&security=none&type=ws&host=c.lkzb-0t0.workers.dev&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#t.me/entryNET/config=1837875671457903
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@159.69.22.135:1001?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560#t.me/entryNET/config=1837891838584039
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?encryption=none&security=none&sni=hello.96xckkzx.workers.dev&type=ws&host=hello.96xckkzx.workers.dev&path=%2F#t.me%2Fpeterjest
 vless://d3a3b3e9-96d9-52d9-9f18-d36bab2aa3e4@45.89.52.193:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.89.52.193&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20TR%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://d3a3b3e9-96d9-52d9-9f18-d36bab2aa3e4@www.speedtest.net:443?security=tls&sni=tr-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=tr-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20TR%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -1140,6 +1157,7 @@ vless://f07cffb5-7086-5db0-b4cf-12abb79ee254@38.89.142.153:443?security=tls&sni=
 vless://f07cffb5-7086-5db0-b4cf-12abb79ee254@www.speedtest.net:443?security=tls&sni=sg-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sg-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20SG%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#t.me%2Fpeterjest
 vless://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?path=/&security=none&encryption=none&type=ws#[🌟]t.me/Asak_Vpn
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=ws#t.me/entryNET/config=1837891651467674
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.16.1.106:80?path=/?ed=2560&security=none&encryption=none&host=delam.ahaysiahzangi.dpdns.org&type=ws#T.me/Asak_Vpn
 vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?encryption=none&security=none&type=ws&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://f8cca2ed-eb49-4d0c-8a12-cfb23b41b44e@104.17.148.22:2052?security=none&type=ws&host=submtn.ailreza.org.tr.#t.me/entryNET/config=1837877185316476

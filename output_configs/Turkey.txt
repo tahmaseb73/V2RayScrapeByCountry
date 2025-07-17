@@ -10,7 +10,6 @@ ss://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryption=n
 ss://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#TR🇹🇷
 ss://6fa4a6e6-e575-42ec-aba1-4142b73bad06@cls.zibanamas.ir:8295?security=reality&encryption=none&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|TR🇹🇷
 ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@Filter_breaker-TR
-ss://8e75bda1-bd74-4a43-8468-18a3d3dcffa9@83.217.9.233:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=19aa22f681923dc8#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:64.34ms
 ss://8fe30358-c761-4520-8c2f-167c83fbcde2@tr.g2games.ir:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=DKQyh2lWWoRu_LqqthobUZwJtYn1ch-49zOFpKHKryM&sid=0ea91a0e&spx=%2F&type=xhttp&host=www.microsoft.com&path=%2Fapi%2Fv3%2F&mode=auto&extra=%7B%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2B%7D#REALITY|TR🇹🇷
 ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?encryption=none&security=none&type=tcp&headerType=none#TR🇹🇷
 ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type=tcp&encryption=none#TR🇹🇷
@@ -232,7 +231,6 @@ vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryptio
 vless://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#TR🇹🇷
 vless://6fa4a6e6-e575-42ec-aba1-4142b73bad06@cls.zibanamas.ir:8295?security=reality&encryption=none&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|TR🇹🇷
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@Filter_breaker-TR
-vless://8e75bda1-bd74-4a43-8468-18a3d3dcffa9@83.217.9.233:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=19aa22f681923dc8#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:64.34ms
 vless://8fe30358-c761-4520-8c2f-167c83fbcde2@tr.g2games.ir:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=DKQyh2lWWoRu_LqqthobUZwJtYn1ch-49zOFpKHKryM&sid=0ea91a0e&spx=%2F&type=xhttp&host=www.microsoft.com&path=%2Fapi%2Fv3%2F&mode=auto&extra=%7B%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2B%7D#REALITY|TR🇹🇷
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?encryption=none&security=none&type=tcp&headerType=none#TR🇹🇷
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type=tcp&encryption=none#TR🇹🇷
