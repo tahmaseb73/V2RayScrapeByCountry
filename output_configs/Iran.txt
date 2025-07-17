@@ -570,6 +570,7 @@ ss://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@45.159.219.26:443/?path=/WrQunvc9WRIaU
 ss://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@45.159.219.26:443/?path=/WrQunvc9WRIaU32H?ed=#/Join---v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#✅@v2ray_configs_pools
 ss://e2d6455c-9846-4502-8394-16b8c1c07b68@188.114.96.3:443?path=%2Forib1trrdqo8xqma%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=GrOUPyoUnEs.PAGEs.DEv&type=ws&sni=GrOUPyoUnEs.PAGEs.DEv#IRAN%20320%20%28%40Outline_Vpn%29%20free
 ss://e2e17d6a-8dc5-4895-a02f-9a1f2e76df0e@91.99.157.50:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷
+ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?encryption=none&security=none&sni=pqh25v7.waipdirect.shop&alpn=&type=grpc&host=pqh25v7.waipdirect.shop#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40NamiraNet%20%7C%2069
 ss://e4c339d7-cbdc-41a6-98ab-a0ca04bac5ab@irlast.adkoino.com:443?type=tcp&path=%2F&host=iranserver.com&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40irlast%20%7C%200
 ss://e5839447-c64a-4f4e-ac37-d853324d8221@91.99.184.6:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷
 ss://e677672c3091575b10ea99059009ff50Og==@tr.crocodilserver.top:9007#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+tr.crocodilserver.top-9007+%7C+440.48ms
@@ -1195,6 +1196,7 @@ vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@45.159.219.26:443/?path=/WrQunvc9WR
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@45.159.219.26:443/?path=/WrQunvc9WRIaU32H?ed=#/Join---v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#✅@v2ray_configs_pools
 vless://e2d6455c-9846-4502-8394-16b8c1c07b68@188.114.96.3:443?path=%2Forib1trrdqo8xqma%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=GrOUPyoUnEs.PAGEs.DEv&type=ws&sni=GrOUPyoUnEs.PAGEs.DEv#IRAN%20320%20%28%40Outline_Vpn%29%20free
 vless://e2e17d6a-8dc5-4895-a02f-9a1f2e76df0e@91.99.157.50:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?encryption=none&security=none&sni=pqh25v7.waipdirect.shop&alpn=&type=grpc&host=pqh25v7.waipdirect.shop#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40NamiraNet%20%7C%2069
 vless://e4c339d7-cbdc-41a6-98ab-a0ca04bac5ab@irlast.adkoino.com:443?type=tcp&path=%2F&host=iranserver.com&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40irlast%20%7C%200
 vless://e5839447-c64a-4f4e-ac37-d853324d8221@91.99.184.6:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷
 vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#@Filter_breaker-IR
