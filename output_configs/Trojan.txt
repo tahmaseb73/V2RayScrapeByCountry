@@ -332,7 +332,10 @@ trojan://361ddf70-1af3-11f0-9a84-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://364d3aa0-58fc-11ed-b738-225401db9d57@54.36.191.211:443?security=tls&sni=ebank.bmi.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@185.14.47.199:12052?security=tls&sni=cdn.alibaba.com&type=tcp#🔒
 trojan://3723507166611775488@195.133.93.135:443?security=tls&sni=pleased-airedale.boa152.lol&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://3723507166611775488@94.177.131.205:443?allowInsecure=0&sni=unbiased-manatee.boa152.lol#t.me/entryNET/config=1837907129219731
+trojan://3723507166611775488@boss-hound.boa152.lol:443?allowInsecure=1&sni=boss-hound.boa152.lol#t.me/entryNET/config=1837904930592872
 trojan://3723507166611775488@concrete-buzzard.boa152.lol:443?allowInsecure=0&sni=concrete-buzzard.boa152.lol#DE🇩🇪
+trojan://3723507166611775488@fitting-ox.boa152.lol:443?allowInsecure=0&sni=fitting-ox.boa152.lol#t.me/entryNET/config=1837904301442168
 trojan://3723507166611775488@wise-cowbird.boa152.lol:443?allowInsecure=0&sni=wise-cowbird.boa152.lol#DE🇩🇪
 trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat627.mom&type=tcp#DE🇩🇪
 trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#@Filter_breaker
@@ -3074,6 +3077,8 @@ trojan://cdec9d57-661d-456a-bbf2-b4c38e9c6711@104.21.30.37:443?allowInsecure=0&s
 trojan://ce20d690-066f-11f0-b77f-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#Telegram:@config_proxy
 trojan://cf8c791e-9d0b-4e90-aaf6-41ac62468416@172.67.135.37:443/?type=ws&host=iiiiiiiiiiiio.459.pp.ua&path=%2FXkJmZCwVxJO8180gomOew3d&security=tls&sni=IiiIiiIIIIIiO.459.pP.UA&alpn=http%2F1.1&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.71ms
+trojan://cf8c791e-9d0b-4e90-aaf6-41ac62468416@172.67.135.37:443/?type=ws&host=iiiiiiiiiiiio.459.pp.ua&path=/XkJmZCwVxJO8180gomOew3d&security=tls&sni=IiiIiiIIIIIiO.459.pP.UA&alpn=http/1.1&fp=chrome#Telegram:@config_proxy
+trojan://cf8c791e-9d0b-4e90-aaf6-41ac62468416@172.67.135.37:443/?type=ws&host=iiiiiiiiiiiio.459.pp.ua&path=/XkJmZCwVxJO8180gomOew3d&security=tls&sni=IiiIiiIIIIIiO.459.pP.UA&alpn=http/1.1&fp=chrome#✅@v2ray_configs_pools
 trojan://cf8c791e-9d0b-4e90-aaf6-41ac62468416@172.67.135.37:443?allowInsecure=0&sni=EeEeeD.459.pp.uA#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://cf8c791e-9d0b-4e90-aaf6-41ac62468416@172.67.135.37:443?type=ws&host=iiiiiiiiiiiio.459.pp.ua&path=%2FXkJmZCwVxJO8180gomOew3d&security=tls&sni=IiiIiiIIIIIiO.459.pP.UA&alpn=http%2F1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40freevpnatm%20%7C%2016
 trojan://ctZ66Vttffqq@104.21.16.1:2083?security=tls&sni=yjc.twn24.ir&type=ws&host=yjc.twn24.ir&path=/🆔@M3HDIO1#🔒
@@ -3273,6 +3278,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?encryption=n
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.zipzap.biz.id#@warp_city
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.zipzap.biz.id#✅@v2ray_configs_pools
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.zipzap.biz.idتعداد#✅@v2ray_configs_pools
+trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.zipzap.biz.idتعدادتعداد#✅@v2ray_configs_pools
 trojan://f2s539@104.21.51.9:443?security=tls&sni=aws-us-dallas-1.f1cflined.com&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-dallas-1.f1cflined.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://f2s539@104.21.51.9:443?security=tls&sni=aws-us-dallas-1.f1cflined.com&type=ws&host=aws-us-dallas-1.f1cflined.com&path=/f1rocket#🔒
 trojan://f2s539@172.67.216.95:443?security=tls&sni=aws-us-dallas-1.f1cflined.com&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-dallas-1.f1cflined.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
