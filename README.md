@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2025-07-17 17:25:34 +0330)
+# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2025-07-17 17:47:13 +0330)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -11,12 +11,12 @@
 | پروتکل | تعداد کل | لینک |
 |:-:|:-:|:-:|
 | Hysteria2 | 678 | [`Hysteria2.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Hysteria2.txt) |
-| ShadowSocks | 35821 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
+| ShadowSocks | 35819 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 63 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocksR.txt) |
-| Trojan | 4219 | [`Trojan.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Trojan.txt) |
+| Trojan | 4217 | [`Trojan.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Trojan.txt) |
 | Tuic | 364 | [`Tuic.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Tuic.txt) |
-| Vless | 27056 | [`Vless.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
-| Vmess | 2300 | [`Vmess.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Vmess.txt) |
+| Vless | 27054 | [`Vless.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
+| Vmess | 2302 | [`Vmess.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Vmess.txt) |
 | WireGuard | 74 | [`WireGuard.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/WireGuard.txt) |
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
 
@@ -93,7 +93,7 @@
 | <img src="https://flagcdn.com/w20/ws.png" width="20" alt="Samoa flag"> Samoa (ساموآ) | 206 | [`Samoa.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Samoa.txt) |
 | <img src="https://flagcdn.com/w20/rs.png" width="20" alt="Serbia flag"> Serbia (صربستان) | 3 | [`Serbia.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Serbia.txt) |
 | <img src="https://flagcdn.com/w20/sc.png" width="20" alt="Seychelles flag"> Seychelles (سیشل) | 6 | [`Seychelles.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Seychelles.txt) |
-| <img src="https://flagcdn.com/w20/sg.png" width="20" alt="Singapore flag"> Singapore (سنگاپور) | 218 | [`Singapore.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Singapore.txt) |
+| <img src="https://flagcdn.com/w20/sg.png" width="20" alt="Singapore flag"> Singapore (سنگاپور) | 217 | [`Singapore.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Singapore.txt) |
 | <img src="https://flagcdn.com/w20/sk.png" width="20" alt="Slovakia flag"> Slovakia (اسلواکی) | 5 | [`Slovakia.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Slovakia.txt) |
 | <img src="https://flagcdn.com/w20/si.png" width="20" alt="Slovenia flag"> Slovenia (اسلوونی) | 7 | [`Slovenia.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Slovenia.txt) |
 | <img src="https://flagcdn.com/w20/za.png" width="20" alt="SouthAfrica flag"> SouthAfrica (آفریقای جنوبی) | 5 | [`SouthAfrica.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/SouthAfrica.txt) |
@@ -107,7 +107,7 @@
 | <img src="https://flagcdn.com/w20/tt.png" width="20" alt="TrinidadAndTobago flag"> TrinidadAndTobago (ترینیداد و توباگو) | 2 | [`TrinidadAndTobago.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/TrinidadAndTobago.txt) |
 | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="Turkey flag"> Turkey (ترکیه) | 252 | [`Turkey.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Turkey.txt) |
 | <img src="https://flagcdn.com/w20/tm.png" width="20" alt="Turkmenistan flag"> Turkmenistan (ترکمنستان) | 119 | [`Turkmenistan.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Turkmenistan.txt) |
-| <img src="https://flagcdn.com/w20/ae.png" width="20" alt="UAE flag"> UAE (امارات) | 15 | [`UAE.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/UAE.txt) |
+| <img src="https://flagcdn.com/w20/ae.png" width="20" alt="UAE flag"> UAE (امارات) | 14 | [`UAE.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/UAE.txt) |
 | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK flag"> UK (انگلیس) | 538 | [`UK.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/UK.txt) |
 | <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag"> USA (آمریکا) | 3192 | [`USA.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/USA.txt) |
 | <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine flag"> Ukraine (اوکراین) | 15 | [`Ukraine.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Ukraine.txt) |
