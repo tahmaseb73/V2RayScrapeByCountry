@@ -2,6 +2,7 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@119.197.201.29:11481?encryption=none&s
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.128.107.69:16923?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@175.205.86.108:32414?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@59.25.82.79:12318?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
+ss://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link25.liangxin1.xyz:34578/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&fp=chrome&security=reality&pbk=PSn2s5TN4e7n0LkzPunu2IA1hSmOoPYFu3d_psl2Nmc&sid=e534c8be#🇰🇷韩国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllOWJhNy1kM2MyLTQxNWUtYmUxNC1lYTRkYWM4OTdhMmQ=@freea.glyphara.com:36311#15%7C16%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%7C%E5%AE%98%E7%BD%91%EF%BC%9A%E8%93%9D%E8%89%B2%E6%B5%B7%E6%B4%8B.xyz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI=@141.164.63.32:30936#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+141.164.63.32-30936+%7C+129.49ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI=@141.164.63.32:30936#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+141.164.63.32-30936+%7C+186.47ms
@@ -33,6 +34,7 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMjEuMTUwLjEwOS44MTo0Mjk3OA==#%F0%9F%87%B0%F
 ss://YWVzLTI1Ni1nY206Tml6bkx2b0l1eQ==@220.124.31.130:19378#%F0%9F%87%B0%F0%9F%87%B7KR-220.124.31.130-0269
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE=@125.141.31.72:15098#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+125.141.31.72-15098+%7C+131.58ms
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE=@p080.panda001.net:36379#13%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+ss://cmM0LW1kNTppRkRFMFo@kraz01.fjk.wtf:20353#KR
 trojan://Aimer@121.189.106.45:30001?sni=epmd.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:16158?allowInsecure=1&sni=www.baidu.com#%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:16158?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
@@ -41,6 +43,7 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@119.197.201.29:11481?encryption=non
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.128.107.69:16923?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@175.205.86.108:32414?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@59.25.82.79:12318?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
+vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link25.liangxin1.xyz:34578/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&fp=chrome&security=reality&pbk=PSn2s5TN4e7n0LkzPunu2IA1hSmOoPYFu3d_psl2Nmc&sid=e534c8be#🇰🇷韩国
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+HsPCfh7dLUi0xNTIuNjcuMjE4LjM4LTA3NDYiLCAiYWRkIjogIjE1Mi42Ny4yMTguMzgiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICIxNTIuNjcuMjE4LjM4IiwgInBhdGgiOiAiLyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+HsPCfh7dLUi0xNTIuNjcuMjE4LjM4LTA3NDciLCAiYWRkIjogIjE1Mi42Ny4yMTguMzgiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+HsPCfh7fpn6nlm70gMDEiLCAiYWRkIjogImNmLmllcGwxLm1lIiwgInBvcnQiOiAiMjA4NiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjM5NjBmMTI4LTExNjMtNDBhMy04ZGQ3LTdjOTExNzZlMTRhNSIsICJob3N0IjogImtyY2MxLnRvcGY2LmNvbSIsICJwYXRoIjogIi93cz9lZD0yMDQ4In0=
