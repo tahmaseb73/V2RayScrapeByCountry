@@ -1,5 +1,5 @@
 ss://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40norbertpro_vpn%20%7C%200
-ss://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=%2F&security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:37.18ms
+ss://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=%2F&security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:31.74ms
 ss://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Irancell-@SRCVPN-5
 ss://029d527b-1a84-4f3a-b80b-4c2c1e6c0c06@91.99.171.104:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷
 ss://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#freeiranianv2rey@freeiranianv2rey
@@ -313,6 +313,7 @@ ss://85ad8b72-7a9e-4603-abd2-1c5a553f9b4a@finland.a1mshop2.xyz:11662?mode=stream
 ss://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=%2F6WKNgcKo7LMqOzhb%3Fed%3D2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#IRAN%20265%20%28%40Outline_Vpn%29%20free
 ss://88d201d0-7fdb-4746-baaf-c5f782431c06@188.121.100.12:80?encryption=none&security=tls&type=ws&path=%2F%40v2graphy%2Fgiveaway%2Fws1%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B7_%E4%BC%8A%E6%9C%97
 ss://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+ss://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Bushehr🅿️ping:109.1ms
 ss://88e51db8-dd45-4fc6-8be9-20b89421841e@94.182.131.91:30001?security=none&encryption=none&headerType=http&type=tcp#IR🇮🇷
 ss://89b6b1fb-02ab-4089-a905-f2de29427015@85.133.197.219:2053?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.197.219%3A2053
 ss://8@cert.ir:80?path=%2F&security=none&encryption=none&host=ghbi.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40xnxv2ray%20%7C%2014
@@ -437,6 +438,7 @@ ss://ab32904a-2456-4745-8d86-0535ca8d3c3d@87.236.208.251:8016?encryption=none&se
 ss://ab3faf7c-4452-4f34-938f-6dcee3b406a2@local.connectix-d1.info:44444?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#REALITY|IR🇮🇷
 ss://acda7cb1-54f5-4852-b296-5dbe49261f19@85.133.200.76:443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40goldenvpn_v2rayy%20%7C%203
 ss://ae7d51f2-fd15-45d2-a77c-590f23788a52@45.76.140.111:443?mode=auto&path=/443/moment@2.29.4&security=reality&encryption=none&pbk=rPomFaHQdUvIZ1CKylejYHXJ_ygI2rtPIZaVuaRXaVY&host=cdn.skypack.dev&fp=chrome&spx=/chart.js@4.3.2&type=xhttp&sni=cdn.skypack.dev&sid=8a2c6af0c06f#irancell
+ss://aec91a80-c1cc-4393-97d0-1b67bf331172@185.211.57.210:2080?security=none&alpn=http%2F1.1&encryption=none&host=imam-khomeini.ir&headerType=http&fp=chrome&type=tcp&sni=imam-khomeini.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān
 ss://afa3cd54-f05d-4e0b-a4d6-9f046f5d1c05@193.134.100.183:6666?encryption=none&security=none&type=tcp&headerType=http&host=cloudflare.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.134.100.183%3A6666
 ss://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#SvnTeam-WIFI-irancell
 ss://b0265ca8-98dd-46b2-adec-4705b5e7eb48@wWw.SpeedTest.Net:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#SvnTeam-WIFI-irancell
@@ -713,7 +715,7 @@ trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/vmess_iran
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#IR🇮🇷
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40norbertpro_vpn%20%7C%200
-vless://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=%2F&security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:37.18ms
+vless://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=%2F&security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:31.74ms
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Irancell-@SRCVPN-5
 vless://029d527b-1a84-4f3a-b80b-4c2c1e6c0c06@91.99.171.104:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷
 vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#freeiranianv2rey@freeiranianv2rey
@@ -1002,6 +1004,7 @@ vless://85ad8b72-7a9e-4603-abd2-1c5a553f9b4a@finland.a1mshop2.xyz:11662?mode=str
 vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=%2F6WKNgcKo7LMqOzhb%3Fed%3D2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#IRAN%20265%20%28%40Outline_Vpn%29%20free
 vless://88d201d0-7fdb-4746-baaf-c5f782431c06@188.121.100.12:80?encryption=none&security=tls&type=ws&path=%2F%40v2graphy%2Fgiveaway%2Fws1%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B7_%E4%BC%8A%E6%9C%97
 vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Bushehr🅿️ping:109.1ms
 vless://88e51db8-dd45-4fc6-8be9-20b89421841e@94.182.131.91:30001?security=none&encryption=none&headerType=http&type=tcp#IR🇮🇷
 vless://89b6b1fb-02ab-4089-a905-f2de29427015@85.133.197.219:2053?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.197.219%3A2053
 vless://8@cert.ir:80?path=%2F&security=none&encryption=none&host=ghbi.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40xnxv2ray%20%7C%2014
@@ -1084,6 +1087,7 @@ vless://ab32904a-2456-4745-8d86-0535ca8d3c3d@87.236.208.251:8016?encryption=none
 vless://ab3faf7c-4452-4f34-938f-6dcee3b406a2@local.connectix-d1.info:44444?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#REALITY|IR🇮🇷
 vless://acda7cb1-54f5-4852-b296-5dbe49261f19@85.133.200.76:443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40goldenvpn_v2rayy%20%7C%203
 vless://ae7d51f2-fd15-45d2-a77c-590f23788a52@45.76.140.111:443?mode=auto&path=/443/moment@2.29.4&security=reality&encryption=none&pbk=rPomFaHQdUvIZ1CKylejYHXJ_ygI2rtPIZaVuaRXaVY&host=cdn.skypack.dev&fp=chrome&spx=/chart.js@4.3.2&type=xhttp&sni=cdn.skypack.dev&sid=8a2c6af0c06f#irancell
+vless://aec91a80-c1cc-4393-97d0-1b67bf331172@185.211.57.210:2080?security=none&alpn=http%2F1.1&encryption=none&host=imam-khomeini.ir&headerType=http&fp=chrome&type=tcp&sni=imam-khomeini.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān
 vless://afa3cd54-f05d-4e0b-a4d6-9f046f5d1c05@193.134.100.183:6666?encryption=none&security=none&type=tcp&headerType=http&host=cloudflare.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.134.100.183%3A6666
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#SvnTeam-WIFI-irancell
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@wWw.SpeedTest.Net:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#SvnTeam-WIFI-irancell
