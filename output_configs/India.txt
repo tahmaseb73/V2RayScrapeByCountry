@@ -1,5 +1,4 @@
 ss://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow=#印度尼西亚
-ss://2c79b667-b103-4d22-86d0-5ef23f303c06@154.198.173.154:80?type=ws#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️New
 ss://3713d7f3-4bc2-4a87-8cfc-98f4f721b4ee@148.113.46.244:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=148.113.46.244&encryption=none#Rayan%20-%20GSS%20-%20WSDR-111%20-%20IN%20-%20I%20-%20%F0%9F%9F%A2%20t.me/Rayan_Config
 ss://3713d7f3-4bc2-4a87-8cfc-98f4f721b4ee@jquery.com:2087?security=tls&sni=in-1-gss.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=in-1-gss.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20GSS%20-%20WSCT-111%20-%20IN%20-%20I%20-%20%E2%98%A2%EF%B8%8F%20t.me/Rayan_Config
 ss://401374e6-df77-41fb-f638-dad8184f175b@108.165.152.205:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%AE%F0%9F%87%B3IN%20%7C%20@v2ray_configs_pools`
@@ -39,7 +38,6 @@ trojan://74260628090146500@ample-koi.shiner427.skin:443?allowInsecure=0#%F0%9F%8
 trojan://your_password@43.205.109.9:443?security=tls&sni=aws-in-mumbai-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%20-%20Mumbai%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#New%20Link%20in%20%40AzadNet%20Pin%20Post
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow=#印度尼西亚
-vless://2c79b667-b103-4d22-86d0-5ef23f303c06@154.198.173.154:80?type=ws#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️New
 vless://3713d7f3-4bc2-4a87-8cfc-98f4f721b4ee@148.113.46.244:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=148.113.46.244&encryption=none#Rayan%20-%20GSS%20-%20WSDR-111%20-%20IN%20-%20I%20-%20%F0%9F%9F%A2%20t.me/Rayan_Config
 vless://3713d7f3-4bc2-4a87-8cfc-98f4f721b4ee@jquery.com:2087?security=tls&sni=in-1-gss.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=in-1-gss.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20GSS%20-%20WSCT-111%20-%20IN%20-%20I%20-%20%E2%98%A2%EF%B8%8F%20t.me/Rayan_Config
 vless://401374e6-df77-41fb-f638-dad8184f175b@108.165.152.205:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%AE%F0%9F%87%B3IN%20%7C%20@v2ray_configs_pools`
