@@ -274,7 +274,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?allowInsecure=1
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?allowInsecure=1&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0340
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=rc6.freeguard.org#✅@v2ray_configs_pools
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&type=tcp&sni=rc6.freeguard.org#t.me/entryNET/config=1837950288561901
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&type=tcp&sni=rc6.freeguard.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0333
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0340
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
@@ -944,12 +943,10 @@ trojan://74260628090146500@ample-koi.shiner427.skin:443?#%F0%9F%87%AE%F0%9F%87%B
 trojan://74260628090146500@ample-koi.shiner427.skin:443?#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6%20634.3KB%2Fs
 trojan://74260628090146500@ample-koi.shiner427.skin:443?allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B3%20_%E5%8D%B0%E5%BA%A6
 trojan://74260628090146500@huge-turkey.shiner427.skin:443/?type=tcp&security=tls#%F0%9F%AB%B65%40oneclickvpnkeys
-trojan://74260628090146500@huge-turkey.shiner427.skin:443/?type=tcp&security=tls#👉🆔@v2ray_configs_pool📡🇬🇧®️United
 trojan://74260628090146500@huge-turkey.shiner427.skin:443?#%F0%9F%87%AF%F0%9F%87%B4JO%E7%BA%A6%E6%97%A6%202.9MB%2Fs
 trojan://74260628090146500@huge-turkey.shiner427.skin:443?#%F0%9F%87%AF%F0%9F%87%B4JO%E7%BA%A6%E6%97%A6%2022.6MB%2Fs
 trojan://74260628090146500@huge-turkey.shiner427.skin:443?allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B4%20_%E7%BA%A6%E6%97%A6
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#%F0%9F%AB%B64%40oneclickvpnkeys
-trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#👉🆔@v2ray_configs_pool📡🇳🇱®️The
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?#%E6%9C%AA%E7%9F%A511%20659.4KB%2Fs
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?#%E6%9C%AA%E7%9F%A517%207.0MB%2Fs
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
@@ -2273,6 +2270,7 @@ trojan://Aimer@206.238.236.16:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&
 trojan://Aimer@206.238.236.198:2083?sni=agepw.ambercc.filegear-sg.me#🔒
 trojan://Aimer@206.238.236.216:2083?sni=agepy.aimercc.filegear-sg.me#🔒
 trojan://Aimer@206.238.236.252:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
+trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:8.12ms
 trojan://Aimer@206.238.236.31:8443?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A522
 trojan://Aimer@206.238.236.31:8443?sni=agept.ambercc.filegear-sg.me#🔒
 trojan://Aimer@206.238.236.8:2096?security=tls&sni=agept.ambercc.filegear-sg.me&type=ws&host=agept.ambercc.filegear-sg.me#🔒
@@ -3226,6 +3224,7 @@ trojan://db258420-fd1e-11ef-9a77-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://db258420-fd1e-11ef-9a77-1239d0255272@51.38.65.155:443?security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒
 trojan://dca7cc60-1234-11f0-8a3f-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59@194.104.147.74:1066?allowInsecure=1#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong
 trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?allowInsecure=1&sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%F0%9F%87%BA%F0%9F%87%B864%20%7C%20%201.3MB/s%7C46%25%7COpenai%7CGem...
 trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?allowInsecure=1&sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#1%7C%F0%9F%87%BA%F0%9F%87%B864%20%7C%20%201.3MB/s%7C46%25%7COpenai%7CGem...
 trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?allowInsecure=1&sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#64%20%7C%20%201.3MB%2Fs%7C46%25%7COpenai%7CGem...
