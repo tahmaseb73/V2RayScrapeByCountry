@@ -66,7 +66,6 @@ ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bm
 ss://YWVzLTI1Ni1nY206dFZQVmxVZ1FoajlpN3ZIT0hpajNkYUNKRVVaeGN0RVE5eG9qMFdUNUE4dz0%3D@139.162.106.142:11359#Japan%20Akamai
 ss://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=geXtlGNYBAQKgRseZd_iesJeU92z7fY2koG-knCXoWU&sid=e76b7d4e#🇯🇵日本东京3
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbVpXRm1ZekpsWmkxa05XWmtMVFJtTm1RdE9EQXpZaTFtWVdRMFlUVmpZekZtTUdV@h.cm2.xiaomi-api.xyz:19832#13%7C%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2TUVwUU1sQk9XVEZXU1ZwV1RsTlNTZw@156.231.104.11:18001#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8761#26%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8764#26%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
@@ -109,7 +108,6 @@ ssr://dGFjbS5peDIuZWRnZS5rdW5sdW5hZS5jb206NTAxMzM6YXV0aF9jaGFpbl9hOmNoYWNoYTIwOn
 ssr://dGFjbS5peDIuZWRnZS5rdW5sdW5hZS5jb206NTAxMzQ6YXV0aF9jaGFpbl9hOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpiVkJSTlVNNS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU5qQTFNRFEyTVRnNlYyVjBlbTlHJnJlbWFya3M9NXBlbDVweXM2YXVZNllDZklERTFXLWFacnVtQW1sMThSMmwwYUhWaTVwQ2M1N1NpVkhKdmFtRnVUR2x1YTNNJmdyb3VwPQ
 ssr://dGFjbS5peDIuZWRnZS5rdW5sdW5hZS5jb206NTAxMzU6YXV0aF9jaGFpbl9hOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpiVkJSTlVNNS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU5qQTFNRFEyTVRnNlYyVjBlbTlHJnJlbWFya3M9NXBlbDVweXM2YXVZNllDZklERTJXLWFacnVtQW1sMThSMmwwYUhWaTVwQ2M1N1NpVkhKdmFtRnVUR2x1YTNNJmdyb3VwPQ
 trojan://0FaYIOcSy4lBg38yRxnj7RlR3RZYSq3pC9OaSDAAOw6Oe8FCpy08u8pzx3eKZacDz3XE3@43.207.112.226:443?security=tls&sni=terture.meijireform.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@54.238.13.27:443/?type=tcp&security=tls&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
 trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@jp006.421421.xyz:20230?security=tls#JP🇯🇵
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@217.142.224.106:443?security=tls&sni=jp2.twincloud.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Osaka%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://6aqnYj7NA2CAeSeZpY34RIC3KzNzDO33aOOaZSxFSc5ETBcwXeyaDF3qC9A907y2nXT8S@154.31.114.12:443?security=tls&sni=visual.superpokemon.com&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5Japan
