@@ -954,6 +954,7 @@ trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey%20%F0%9F%94%92
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#HK🇭🇰
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#🔗
+trojan://74260628090146500@ample-koi.shiner427.skin:443/?type=tcp&security=tls#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt
 trojan://74260628090146500@ample-koi.shiner427.skin:443?#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6%201.5MB%2Fs
 trojan://74260628090146500@ample-koi.shiner427.skin:443?#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6%20634.3KB%2Fs
 trojan://74260628090146500@ample-koi.shiner427.skin:443?allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B3%20_%E5%8D%B0%E5%BA%A6
@@ -1138,6 +1139,7 @@ trojan://9773a2c0-066f-11f0-a146-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://97fdf760-7bbf-11eb-8e14-1239d0255272@103.253.24.216:443?security=tls&sni=sg3-trojan.bonds.id&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=tcp#🔒
 trojan://984e400bf5d541b7b0815913fe0c432a@jobscareertoday.com:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram⚠️
+trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?allowInsecure=1#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev#🔒
 trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443?security=tls&sni=fscus.fscloud123456789.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://9Qtb5266ijqU@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir&type=ws&host=aryanews.onetwothree123.ir&path=/рЯЖФ@M3HDIO1#🔒
