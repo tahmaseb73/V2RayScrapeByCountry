@@ -1,5 +1,6 @@
 ss://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=&encryption=none&host=igap.net&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 ss://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=&encryption=none&host=skyroom.online&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+ss://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?type=tcp&encryption=none#ID🇮🇩
 ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%BF
 ss://1375d25a-f70e-4843-8dda-ef8d71add584@iranvpnplus.set7.site:12394?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 ss://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?encryption=none&security=tls&sni=id.lanexa.my.id&type=ws&host=id.lanexa.my.id&path=%2Fvless#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%A9%C2%AE%EF%B8%8FIndonesia%C2%A9%EF%B8%8FHarapan%20Indah%F0%9F%85%BF%EF%B8%8Fping%3A193.97ms
@@ -71,7 +72,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9%20ID%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AE%F0%9F%87%A9%20ID-154.205.159.100%3A990
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID%F0%9F%87%AE%F0%9F%87%A9+%7C+154.205.159.100-990+%7C+325.37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID%F0%9F%87%AE%F0%9F%87%A9+%7C+154.205.159.100-990+%7C+226.02ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID-%3EID-%3EADL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Free$%20170%20ID%28%40Outline_Vpn%2
@@ -107,6 +108,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption
 ss://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?path=%2FWrQunvc9WRIaU32H%3Fed%3D2560&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://e88d20c6-80f8-5b5e-b3b8-205816dff06c@103.189.164.171:443?security=tls&sni=103.189.164.171&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=103.189.164.171&encryption=none#Rayan%20-%20SSO%20-%20WSDR-114%20-%20ID%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 ss://e88d20c6-80f8-5b5e-b3b8-205816dff06c@www.speedtest.net:443?security=tls&sni=id-1-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=id-1-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-114%20-%20ID%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
+ss://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@172.232.248.143:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.cloudflare-cdn.com&type=tcp#REALITY|ID🇮🇩
 ss://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 ss://eb1920ff-d816-4ca1-b832-4683cddebaa6@37.32.42.22:443?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 ss://eb1920ff-d816-4ca1-b832-4683cddebaa6@37.32.42.22:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
@@ -132,6 +134,7 @@ trojan://your_password@43.218.139.54:443?security=tls&sni=aws-id-jakarta-1.f1roc
 trojan://zsu4Mq3A9J@51.195.254.75:8443?security=tls&headerType=none&type=tcp&sni=uk-02.allhubb.info#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=&encryption=none&host=igap.net&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=&encryption=none&host=skyroom.online&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?type=tcp&encryption=none#ID🇮🇩
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%BF
 vless://1375d25a-f70e-4843-8dda-ef8d71add584@iranvpnplus.set7.site:12394?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?encryption=none&security=tls&sni=id.lanexa.my.id&type=ws&host=id.lanexa.my.id&path=%2Fvless#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%A9%C2%AE%EF%B8%8FIndonesia%C2%A9%EF%B8%8FHarapan%20Indah%F0%9F%85%BF%EF%B8%8Fping%3A193.97ms
@@ -192,6 +195,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encrypt
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?path=%2FWrQunvc9WRIaU32H%3Fed%3D2560&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://e88d20c6-80f8-5b5e-b3b8-205816dff06c@103.189.164.171:443?security=tls&sni=103.189.164.171&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=103.189.164.171&encryption=none#Rayan%20-%20SSO%20-%20WSDR-114%20-%20ID%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 vless://e88d20c6-80f8-5b5e-b3b8-205816dff06c@www.speedtest.net:443?security=tls&sni=id-1-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=id-1-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-114%20-%20ID%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
+vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@172.232.248.143:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.cloudflare-cdn.com&type=tcp#REALITY|ID🇮🇩
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://eb1920ff-d816-4ca1-b832-4683cddebaa6@37.32.42.22:443?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://eb1920ff-d816-4ca1-b832-4683cddebaa6@37.32.42.22:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
