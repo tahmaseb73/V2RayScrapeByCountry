@@ -18,7 +18,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.56.69:989#%F0%9F%87%A6%F0%9F%
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#%F0%9F%87%A6%F0%9F%87%B9%20%E5%A5%A5%E5%9C%B0%E5%88%A9%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#%F0%9F%87%A6%F0%9F%87%B9AT-152.53.2.128-0290
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#%F0%9F%87%A6%F0%9F%87%B9AT-152.53.2.128-0317
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#👉🆔@v2ray_configs_pool📡🇦🇹®️Austria©️Vienna🅿️ping:43.46ms
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0QDE1Mi41My4yLjEyODozNDA0NQ==#%F0%9F%87%A6%F0%9F%87%B9AT-152.53.2.128-0290
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0QDE1Mi41My4yLjEyODozNDA0NQ==#%F0%9F%87%A6%F0%9F%87%B9AT-152.53.2.128-0317
 ss://YWVzLTI1Ni1nY206VEc=@152.53.2.128:34045#%F0%9F%87%A6%F0%9F%87%B9AT%E5%A5%A5%E5%9C%B0%E5%88%A9
@@ -26,6 +25,7 @@ ss://YWVzLTI1Ni1nY206VEc=@152.53.2.128:34045#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+152.
 ss://a47cc189-5891-483b-bac1-7a9c67b9189e@194.124.250.4:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.124.250.4&encryption=none#Rayan%20-%20VPH%20-%20WSDR-102%20-%20AT%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 ss://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@212.183.88.91:443?security=tls&sni=bypass-filter.vikzrcqt.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=@bypass_filter/&host=bypass-filter.vikzrcqt.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20M%C3%B6dling%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VkVjNlFFVnVhMlZzZEdWZmJtOTBhV1ltSmxSSE9rQk9iM1JwWmw5RGFHRjA=@152.53.2.128:34045#%E5%A5%A5%E5%9C%B0%E5%88%A9%7C%40ripaojiedian
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VkVjNlFFVnVhMlZzZEdWZmJtOTBhV1ltSmxSSE9rQk9iM1JwWmw5RGFHRjA@152.53.2.128:34045#%F0%9F%87%A6%F0%9F%87%B9%20%E5%A5%A5%E5%9C%B0%E5%88%A9%7C%40ripaojiedian
 ss://d7860fa9-32ce-4795-ae62-1af2d4928966@at7.fastlanehosting.ru:443?security=reality&encryption=none&pbk=etC3r7NO8hTwPFv_WGJrUEmCoPqrfG-FEJ-QpN0kjlk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=geizhals.at&sid=b1d0d1b677#%F0%9F%87%A6%F0%9F%87%B9Austria`
 ss://f43771f1-ca72-4c05-a80c-6be2f1de4650@85.208.109.41:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=at1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-101%20-%20AT%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
 ss://f559d5d9-229c-4356-b8d2-e64da585ff8b@85.208.109.41:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#Rayan%20-%20VPH%20-%20gRPC-101%20-%20AT%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
