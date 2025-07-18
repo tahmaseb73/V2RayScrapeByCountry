@@ -43,11 +43,12 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.22.87.240:443#JP%F0%9F%87%AF%F0%9F%87%
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%E6%97%A5%E6%9C%AC13+%7C+%E2%AC%87%EF%B8%8F+2.7MB%2Fs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0186
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0267
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.204-443+%7C+105.13ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%E6%97%A5%E6%9C%AC1+%7C+%E2%AC%87%EF%B8%8F+2.6MB%2Fs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40outlinereleasedkey%20%7C%2019
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0219
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0269
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.241-443+%7C+142.75ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.241-443+%7C+104.81ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMTQ5LjIyLjg3LjI0MTo0NDM=#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0219
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMTQ5LjIyLjg3LjI0MTo0NDM=#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0269
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMTQ5LjIyLjg3LjIwNDo0NDM=#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0186
@@ -75,7 +76,6 @@ ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505282364048-Tbm8fXQu06.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-O8zUIKjU25.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-knyhjj43dT.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-ss://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@139.180.197.178:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#REALITY|JP🇯🇵
 ss://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq-japan3.09vpn.com#%3E%3E%40ShadowsocksM%3A%3AJP
 ss://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?security=tls&sni=pq-japan3.09vpn.com&allowInsecure=1&type=ws&path=/vless/&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP%20%7C%20@v2ray_configs_pools`
 ss://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?security=tls&sni=pq-japan3.09vpn.com&allowInsecure=1&type=ws&path=/vless/&encryption=none#🇯🇵JP
@@ -85,8 +85,8 @@ ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922/?type=ws&encryptio
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.166:8880?path=Telegram%40WangCai2%2F%3Fed%3D2048&security=none&encryption=none&host=sg.laoyoutiao.link&type=ws#Japan%20Relay
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.25:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3E-%3EMCI-%3E%40Sezar_Sec
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.27:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3E-%3EMCI-%3E%40Sezar_Sec
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.214:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.214-8880+%7C+2.12ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.83:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.83-8880+%7C+2.29ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.214:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.214-8880+%7C+1.67ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.83:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.83-8880+%7C+1.62ms
 ssr://MTcyLjEwNS4xOTIuMTM1OjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1JekpCTnprdlFWTTJNemswT1RvZ1NtRndZVzQmZ3JvdXA9UVhWMGIxTlRVZw
 ssr://NDUuNjcuNTMuMjUwOjQ0MzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46ZDNkM0xuaGlkbkJ1TG1OdmJRLz9vYmZzcGFyYW09JnJlbWFya3M9U2xBdDVwZWw1cHlzTGVTNG5PUzZyQzB5TlRBdGRHaHBibXRvZFdkbExtNWxkQSZncm91cD1iWFZ0WVRFMlpuZw
 ssr://anAzLm95dnBuc2VydmVyLmNvbTozNTcyOm9yaWdpbjpyYzQtbWQ1OnBsYWluOlkyaDBNVGs1Tnk0dUxpOHZMdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPVNsQXQ1cGVsNXB5c0xlUzRuT1M2ckMweE5UQXRNeTEwYUdsdWEyaDFaMlV1Ym1WMCZncm91cD1iWFZ0WVRFMlpuZw
@@ -142,7 +142,6 @@ vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@jp-2-ssm.medicaldream.ir:443?securi
 vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@www.speedtest.net:443?security=tls&sni=jp-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=jp-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20JP%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@www.speedtest.net:443?security=tls&sni=jp-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=jp-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20JP%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 vless://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=geXtlGNYBAQKgRseZd_iesJeU92z7fY2koG-knCXoWU&sid=e76b7d4e#🇯🇵日本东京3
-vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@139.180.197.178:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#REALITY|JP🇯🇵
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq-japan3.09vpn.com#%3E%3E%40ShadowsocksM%3A%3AJP
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?security=tls&sni=pq-japan3.09vpn.com&allowInsecure=1&type=ws&path=/vless/&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP%20%7C%20@v2ray_configs_pools`
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?security=tls&sni=pq-japan3.09vpn.com&allowInsecure=1&type=ws&path=/vless/&encryption=none#🇯🇵JP
