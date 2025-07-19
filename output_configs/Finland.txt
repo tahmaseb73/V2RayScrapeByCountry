@@ -1,4 +1,4 @@
-ss://015dff12-1b17-4203-90c5-8d07f4c9e7d8@apx.set7.site:34718/?type=tcp&path=%2F&host=Telewebion.com&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.25ms
+ss://015dff12-1b17-4203-90c5-8d07f4c9e7d8@apx.set7.site:34718/?type=tcp&path=%2F&host=Telewebion.com&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.02ms
 ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
 ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#FI🇫🇮
 ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#FI🇫🇮
@@ -18,6 +18,7 @@ ss://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=%2F8DBpLq5G
 ss://2ba1d189-c42c-4b18-b262-f330552f8d16@65.109.219.206:56213?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHelsinki%F0%9F%85%BF%EF%B8%8Fping%3A14.76ms
 ss://2f99cab3-9044-4e7d-8073-5bfa87c7c1b5@finland.my-iranparspack.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#REALITY|FI🇫🇮
 ss://3316f881-32b0-41ea-837f-9a2eca9e16f4@104.19.150.10:2086?encryption=none&security=none&type=httpupgrade&host=Gg.k6n.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#%E3%80%8E%F0%9F%87%AB%F0%9F%87%AE%E3%80%8F%7C%20FINLAND%209
+ss://42f8b774-f998-476d-ada2-2915588c7f45@dl1-fi-cdn.easy-upload.org:2010?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.96ms
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI🇫🇮
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
@@ -132,7 +133,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1ss%20%7C%2018
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40mowjproxy%20%7C%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+83.147.216.70-64519+%7C+162.16ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:15.21ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:16.88ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#%F0%9F%87%AB%F0%9F%87%AE%20FI-185.221.196.34%3A57602
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(1)
@@ -182,7 +183,7 @@ trojan://vpn@150.241.70.91:2025?security=none&fp=chrome&type=ws&path=/&host=dns.
 trojan://vpn@91.108.241.73:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@91.108.241.73:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@91.108.241.73:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
-vless://015dff12-1b17-4203-90c5-8d07f4c9e7d8@apx.set7.site:34718/?type=tcp&path=%2F&host=Telewebion.com&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.25ms
+vless://015dff12-1b17-4203-90c5-8d07f4c9e7d8@apx.set7.site:34718/?type=tcp&path=%2F&host=Telewebion.com&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.02ms
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#FI🇫🇮
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#FI🇫🇮
@@ -200,6 +201,7 @@ vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=%2F8DBpL
 vless://2ba1d189-c42c-4b18-b262-f330552f8d16@65.109.219.206:56213?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHelsinki%F0%9F%85%BF%EF%B8%8Fping%3A14.76ms
 vless://2f99cab3-9044-4e7d-8073-5bfa87c7c1b5@finland.my-iranparspack.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#REALITY|FI🇫🇮
 vless://3316f881-32b0-41ea-837f-9a2eca9e16f4@104.19.150.10:2086?encryption=none&security=none&type=httpupgrade&host=Gg.k6n.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#%E3%80%8E%F0%9F%87%AB%F0%9F%87%AE%E3%80%8F%7C%20FINLAND%209
+vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-fi-cdn.easy-upload.org:2010?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.96ms
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI🇫🇮
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
