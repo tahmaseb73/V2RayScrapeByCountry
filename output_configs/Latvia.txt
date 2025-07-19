@@ -2,7 +2,6 @@ ss://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=%2F&security=
 ss://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=%2F&security=&encryption=none&type=ws#LV🇱🇻
 ss://520fdf95-078c-5839-9ac9-72885dcbf3d9@185.113.139.103:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.113.139.103&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20LV%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://520fdf95-078c-5839-9ac9-72885dcbf3d9@www.speedtest.net:443?security=tls&sni=lv-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lv-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20LV%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-ss://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇱🇻®️Latvia©️Riga🅿️ping:33.22ms
 ss://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&security=none&encryption=none&type=ws#LV🇱🇻
 ss://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?type=ws&security=&path=%2F&encryption=none#%3E%3E%40ShadowsocksM%3A%3ALV
 ss://98efb5da-1c32-5761-a263-0e446917dd07@185.113.139.103:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.113.139.103&encryption=none#Rayan%20-%20SSM%20-%20LV%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
@@ -40,7 +39,6 @@ vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=%2F&securi
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=%2F&security=&encryption=none&type=ws#LV🇱🇻
 vless://520fdf95-078c-5839-9ac9-72885dcbf3d9@185.113.139.103:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.113.139.103&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20LV%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://520fdf95-078c-5839-9ac9-72885dcbf3d9@www.speedtest.net:443?security=tls&sni=lv-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lv-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20LV%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇱🇻®️Latvia©️Riga🅿️ping:33.22ms
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&security=none&encryption=none&type=ws#LV🇱🇻
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?type=ws&security=&path=%2F&encryption=none#%3E%3E%40ShadowsocksM%3A%3ALV
 vless://98efb5da-1c32-5761-a263-0e446917dd07@185.113.139.103:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.113.139.103&encryption=none#Rayan%20-%20SSM%20-%20LV%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
