@@ -3,6 +3,7 @@ ss://3d9741da-c0e4-47cc-a5e0-f1af3d337dae@104.21.79.79:443/?type=grpc&encryption
 ss://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=&encryption=none&headerType=&type=tcp#UA🇺🇦
 ss://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?security=&type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%A6UA%20%7C%20@v2ray_configs_pools
 ss://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?security=&type=tcp&encryption=none#🇺🇦UA
+ss://71ed6628-5870-4d19-8a52-f2a3ba3d4898@89.116.180.183:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kyiv🅿️ping:8.18ms
 ss://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?encryption=none&security=tls&sni=005188006073.sec1org.com&alpn=h2%2Chttp%5C1.1&type=tcp&headerType=none#UA-%3EUA-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllOWJhNy1kM2MyLTQxNWUtYmUxNC1lYTRkYWM4OTdhMmQ=@freea.glyphara.com:36611#15%7C31%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0%7C%E5%AE%98%E7%BD%91%EF%BC%9A%E8%93%9D%E8%89%B2%E6%B5%B7%E6%B4%8B.xyz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDQ4NWNhZS1jNjE0LTRlNmItOGVkMy1iYjUyZTUyOGNkNzY=@freem.vidalith.com:31611#2%7C33%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0%7C%E5%AE%98%E7%BD%91%EF%BC%9Amikasacloud.site
@@ -17,6 +18,7 @@ vless://3d9741da-c0e4-47cc-a5e0-f1af3d337dae@104.21.79.79:443/?type=grpc&encrypt
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=&encryption=none&headerType=&type=tcp#UA🇺🇦
 vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?security=&type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%A6UA%20%7C%20@v2ray_configs_pools
 vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?security=&type=tcp&encryption=none#🇺🇦UA
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@89.116.180.183:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kyiv🅿️ping:8.18ms
 vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?encryption=none&security=tls&sni=005188006073.sec1org.com&alpn=h2%2Chttp%5C1.1&type=tcp&headerType=none#UA-%3EUA-%3ERTL-%3E%40Sezar_Sec
 vmess://eyJhZGQiOiI0NS4xMzcuMTU1LjQ1IiwiaG9zdCI6IiIsImlkIjoiODI3MzQ3MjQtOGMwNi00YzJlLTljZmYtYjM0Nzc2ZmUxNzU3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNzY0NiIsInBzIjoiVUFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZTYgfCA0NS4xMzcuMTU1LjQ1LTE3NjQ2IHwgMTgzLjc2bXMiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUifQ==
 vmess://eyJhZGQiOiJTU3NYWFhDdkJubWpLaS45MzEuUHAudUEiLCJhaWQiOiIwIiwiaG9zdCI6InNzc3h4eGN2Ym5tamtpLjkzMS5wcC51YSIsImlkIjoiZGExMjgyNDYtMzNiMC00Yzg4LWE0NGUtZDkxZTllMGExZTA1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8wRmhVa3FRVWR4T2hNQjlKc2dUYXp3ejkiLCJwb3J0IjoiNDQzIiwicHMiOiJSRUxBWVx1ZDgzZFx1ZGVhOSB8IHNzc3h4eGN2Ym5tamtpLjkzMS5wcC51YS00NDMgfCAxNjYuNjhtcyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
