@@ -302,6 +302,7 @@ ss://77eb0a34-e172-48fa-8093-6c488664da44@94.182.83.109:8085?type=tcp&encryption
 ss://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#iran
+ss://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Sanandaj🅿️ping:101.93ms
 ss://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://7995e682-2fd0-433c-8c7b-81ffdc72d941@185.218.139.212:8087?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.218.139.212%3A8087
 ss://7a0ddc38-d201-4b45-b871-2265066b991d@85.133.204.167:1980?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.204.167%3A1980
@@ -1064,6 +1065,7 @@ vless://77eb0a34-e172-48fa-8093-6c488664da44@94.182.83.109:8085?type=tcp&encrypt
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#iran
+vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Sanandaj🅿️ping:101.93ms
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://7995e682-2fd0-433c-8c7b-81ffdc72d941@185.218.139.212:8087?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.218.139.212%3A8087
 vless://7a0ddc38-d201-4b45-b871-2265066b991d@85.133.204.167:1980?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.204.167%3A1980
