@@ -7,7 +7,9 @@ ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni
 ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#1%7C%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
 ss://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@tr01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&spx=%2F&type=tcp&headerType=none#REALITY|TR🇹🇷
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Filter_breaker-TR
+ss://3588f520-67db-48b3-e80f-24f03a82e84e@opl.vip-senior.info:56504?type=ws&path=%2F%40game_file2020---%40l9lIIII---%40game_file2020---%40game_file2020---%40game_file2020---%40game_file2020&host=&security=tls&fp=chrome&alpn=http%2F1.1&allowInsecure=1&sni=speedtest.net#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:64.6ms
 ss://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40f_nirevil%20%7C%202
+ss://3f073b8b-75b1-42a2-ae30-5f6c46737c18@dl1-tr-cdn.easy-upload.org:2010?security=none&type=tcp&headerType=&path=&host=gharar.ir#%F0%9F%87%B9%F0%9F%87%B7%20TR%20-%20Istanbul%20-%20%23001
 ss://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#TR🇹🇷
 ss://6fa4a6e6-e575-42ec-aba1-4142b73bad06@cls.zibanamas.ir:8295?security=reality&encryption=none&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|TR🇹🇷
 ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@Filter_breaker-TR
@@ -48,7 +50,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0332
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0354
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+185.123.101.241-990+%7C+245.33ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:79.07ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:98.99ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4NS4xMjMuMTAxLjI0MTo5OTA=#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0325
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4NS4xMjMuMTAxLjI0MTo5OTA=#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0332
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4NS4xMjMuMTAxLjI0MTo5OTA=#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0354
@@ -243,7 +245,9 @@ vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#1%7C%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@tr01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&spx=%2F&type=tcp&headerType=none#REALITY|TR🇹🇷
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Filter_breaker-TR
+vless://3588f520-67db-48b3-e80f-24f03a82e84e@opl.vip-senior.info:56504?type=ws&path=%2F%40game_file2020---%40l9lIIII---%40game_file2020---%40game_file2020---%40game_file2020---%40game_file2020&host=&security=tls&fp=chrome&alpn=http%2F1.1&allowInsecure=1&sni=speedtest.net#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:64.6ms
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40f_nirevil%20%7C%202
+vless://3f073b8b-75b1-42a2-ae30-5f6c46737c18@dl1-tr-cdn.easy-upload.org:2010?security=none&type=tcp&headerType=&path=&host=gharar.ir#%F0%9F%87%B9%F0%9F%87%B7%20TR%20-%20Istanbul%20-%20%23001
 vless://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#TR🇹🇷
 vless://6fa4a6e6-e575-42ec-aba1-4142b73bad06@cls.zibanamas.ir:8295?security=reality&encryption=none&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|TR🇹🇷
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@Filter_breaker-TR
