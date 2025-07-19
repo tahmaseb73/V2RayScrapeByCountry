@@ -532,7 +532,6 @@ trojan://587e3b70-fd1f-11ef-a75a-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40proxyfn%20%7C%2018
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#US🇺🇸
-trojan://5A%7Cqwun(Ne*!6%7CQo@172.66.47.95:443/?type=tcp&security=tls&sni=joInMahdISeRVeR-71l.PAGEs.dev&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.28ms
 trojan://5Va4g9kI9%21WY@104.21.71.8:2087?security=tls&sni=fars.itn24.ir&type=httpupgrade&host=fars.itn24.ir&path=/dHV8LpKm#@Hope_Net-join-us-on-Telegram
 trojan://5Va4g9kI9%21WY@104.21.71.8:2087?security=tls&sni=fars.itn24.ir&type=httpupgrade&host=fars.itn24.ir&path=/dHV8LpKm#🔒
 trojan://5Z3RglCCyER3pjlSe0gSyqOOeExx4qTpwKxBR63XjIa8eNzaaO84pDDBA2DlZYI2n37CX@69.5.52.204:443?security=tls&sni=toward.taiwanesefood.link&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
@@ -2898,7 +2897,7 @@ trojan://auto@104.25.254.4:2087?security=tls&sni=trojanfree-76s.pages.dev&type=w
 trojan://auto@104.26.13.54:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#⚡Telegram
 trojan://auto@104.26.13.54:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒
 trojan://auto@104.26.3.36:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒
-trojan://auto@162.159.136.232:8443/?type=tcp&security=tls&sni=e9464f45.trauma-2r4.pages.dev&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.39ms
+trojan://auto@162.159.136.232:8443/?type=tcp&security=tls&sni=e9464f45.trauma-2r4.pages.dev&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.18ms
 trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=tcp#🔒
 trojan://auto@162.159.44.148:443?security=tls&sni=trojanfree-76s.pages.dev&type=tcp#🔒
 trojan://auto@162.159.44.202:443?security=tls&sni=trojanmz.pages.dev&type=tcp#🔒
@@ -4450,7 +4449,6 @@ trojan://vip@104.26.8.156:443?security=tls&sni=heihu880.pages.dev&type=ws&host=h
 trojan://vip@104.26.9.156:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒
 trojan://vip@172.64.145.93:443?security=tls&sni=heihu880.pages.dev&type=tcp#🔒
 trojan://vip@172.67.153.253:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒
-trojan://vip@172.67.179.98:443/?type=tcp&security=tls&sni=heihu880.pages.dev&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.12ms
 trojan://vip@172.67.2.238:2087?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://vip@172.67.2.238:2087?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#RELAY🚩
 trojan://vip@172.67.2.238:2087?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒
@@ -4548,7 +4546,7 @@ trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp
 trojan://wb6368@172.66.44.86:443?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒
 trojan://wb6368@172.66.47.170:443?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒
 trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒
-trojan://wb6368@hsdgbuys.pages.dev:443/?type=tcp&security=tls&sni=hsdgbuys.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.8ms
+trojan://wb6368@hsdgbuys.pages.dev:443/?type=tcp&security=tls&sni=hsdgbuys.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.22ms
 trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#US🇺🇸
 trojan://woCp0eJnQ5It@172.67.141.68:8443?security=tls&sni=shabestan.itn24.ir&type=httpupgrade&host=shabestan.itn24.ir&path=/рЯЖФ@M3HDIO1#🔒
 trojan://woCp0eJnQ5It@172.67.141.68:8443?security=tls&type=httpupgrade&sni=shabestan.itn24.ir&path=/рЯЖФ@M3HDIO1&host=shabestan.itn24.ir#%E6%9C%AA%E7%9F%A589
