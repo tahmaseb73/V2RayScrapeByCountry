@@ -185,6 +185,7 @@ ss://fae6fb04-146d-47d6-9407-115297441a21@65.21.132.249:443?mode=gun&security=re
 ss://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=&allowInsecure=1&fp=chrome&type=tcp&encryption=none#🇫🇮FI
 ss://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?path=%2FfsafasfsafA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nextgenerationaiplatform.ir#FI🇫🇮
 ss://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33&spx=%2F&type=tcp&headerType=none#finland1-shadmanegi_vpn-pri
+trojan://5YauIFGqU5@65.109.179.105:444?security=&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.02ms
 trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443?security=tls&sni=polo01.kctr2038.icu&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://testme@150.241.97.105:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://testme@150.241.97.105:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
