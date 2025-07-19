@@ -52,6 +52,7 @@ ss://19015e0f-a4c2-4af3-bfa5-773fb99b95bf@91.99.95.198:443?security=&encryption=
 ss://1979b29e-f22a-43fe-a681-c29837061973@91.207.18.245:2070?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-91.207.18.245%3A2070
 ss://1984a5cd-5b66-430f-8ebe-8cba3a7d9e15@185.141.135.108:2082?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.141.135.108%3A2082
 ss://1a7104a1-fcf1-4b31-9b47-3eab42cef30f@37.152.187.101:6030?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.152.187.101%3A6030
+ss://1abb0cfc-833c-40ef-a672-1bc1d3a12e8e@sv27.tsdata3.top:27443?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān
 ss://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.148:18010?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.148%3A18010
 ss://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.149:18010?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.149%3A18010
 ss://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.150:18010?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.150%3A18010
@@ -371,7 +372,6 @@ ss://985acae9-b627-417c-95a8-36b3e3677be2@185.143.233.120:2086?encryption=none&s
 ss://99480324-c2a2-4909-9178-210428276912@89.33.129.242:443?encryption=none&security=tls&sni=fn1.faradarsi.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=http&host=fn1.faradarsi.com#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-89.33.129.242%3A443
 ss://99480324-c2a2-4909-9178-210428276912@89.33.129.244:443?encryption=none&security=tls&sni=fn1.faradarsi.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=http&host=fn1.faradarsi.com#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-89.33.129.244%3A443
 ss://99480324-c2a2-4909-9178-210428276912@89.33.129.244:443?encryption=none&security=tls&sni=fn1.faradarsi.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=http&host=fn1.faradarsi.com#IR🇮🇷
-ss://995180f5-647a-a5d0-d0fa-b7803d9c9700@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Qom🅿️ping:87.46ms
 ss://999154b5-8f53-4591-bbf3-bf17e36162fd@bwh-us.noproblem.eu.org:30100?security=reality&encryption=none&pbk=Is6qOa1ej8YFPfH0F0HPTvRaN9lEF4LDGc15jgpVi0A&headerType=none&fp=chrome&type=tcp&sni=www.tesla.com&sid=9efd0392#⚜️Telegram@V2NET_IRAN
 ss://9a3248e7-6bb2-4f1a-94de-24a6bee5c431@sv1.cardnet.sbs:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=sv1.cardnet.sbs&type=ws&sni=sv1.cardnet.sbs#👉🆔+@V2NET_IRAN
 ss://9b46d2dc-28d3-46fe-86e3-2c12b70b1d41@94.182.105.81:16103?encryption=none&security=none&type=tcp&headerType=http&host=divar.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.105.81%3A16103
@@ -825,6 +825,7 @@ vless://19015e0f-a4c2-4af3-bfa5-773fb99b95bf@91.99.95.198:443?security=&encrypti
 vless://1979b29e-f22a-43fe-a681-c29837061973@91.207.18.245:2070?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-91.207.18.245%3A2070
 vless://1984a5cd-5b66-430f-8ebe-8cba3a7d9e15@185.141.135.108:2082?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.141.135.108%3A2082
 vless://1a7104a1-fcf1-4b31-9b47-3eab42cef30f@37.152.187.101:6030?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.152.187.101%3A6030
+vless://1abb0cfc-833c-40ef-a672-1bc1d3a12e8e@sv27.tsdata3.top:27443?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān
 vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.148:18010?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.148%3A18010
 vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.149:18010?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.149%3A18010
 vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.150:18010?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.150%3A18010
@@ -1120,7 +1121,6 @@ vless://985acae9-b627-417c-95a8-36b3e3677be2@185.143.233.120:2086?encryption=non
 vless://99480324-c2a2-4909-9178-210428276912@89.33.129.242:443?encryption=none&security=tls&sni=fn1.faradarsi.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=http&host=fn1.faradarsi.com#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-89.33.129.242%3A443
 vless://99480324-c2a2-4909-9178-210428276912@89.33.129.244:443?encryption=none&security=tls&sni=fn1.faradarsi.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=http&host=fn1.faradarsi.com#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-89.33.129.244%3A443
 vless://99480324-c2a2-4909-9178-210428276912@89.33.129.244:443?encryption=none&security=tls&sni=fn1.faradarsi.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=http&host=fn1.faradarsi.com#IR🇮🇷
-vless://995180f5-647a-a5d0-d0fa-b7803d9c9700@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Qom🅿️ping:87.46ms
 vless://999154b5-8f53-4591-bbf3-bf17e36162fd@bwh-us.noproblem.eu.org:30100?security=reality&encryption=none&pbk=Is6qOa1ej8YFPfH0F0HPTvRaN9lEF4LDGc15jgpVi0A&headerType=none&fp=chrome&type=tcp&sni=www.tesla.com&sid=9efd0392#⚜️Telegram@V2NET_IRAN
 vless://9a3248e7-6bb2-4f1a-94de-24a6bee5c431@sv1.cardnet.sbs:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=sv1.cardnet.sbs&type=ws&sni=sv1.cardnet.sbs#👉🆔+@V2NET_IRAN
 vless://9b46d2dc-28d3-46fe-86e3-2c12b70b1d41@94.182.105.81:16103?encryption=none&security=none&type=tcp&headerType=http&host=divar.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.105.81%3A16103
