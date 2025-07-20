@@ -127,6 +127,7 @@ trojan://114ad614-fe6c-4422-b0af-be6161190d7a@172.67.211.136:443?security=tls&sn
 trojan://12345678@198.62.62.4:443?security=tls&sni=7bdfb97a.ikl.pages.dev&type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev#🔒
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#%40vpnaloo
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#RELAY🚩
+trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.14ms
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@Academi_vpn5
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@CanfigVip+🍕
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@G0Dv2ray
@@ -462,7 +463,6 @@ trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@37.48.65.144:443?security=tls&sni=
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.2:443?security=tls&sni=trus.moonfree.top#🔒
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.5:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#@v2Source🇺🇸🌍
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.5:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#✅@v2ray_configs_pools
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.5:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.5:443?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#NL🇳🇱
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.23:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#✅@v2ray_configs_pools
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.23:443?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#NL🇳🇱
@@ -982,6 +982,7 @@ trojan://70d2b170-c85d-11ef-917e-1239d0255272@51.210.182.170:443?security=tls&sn
 trojan://71086710-33eb-11ed-adce-1239d0255272@103.253.24.212:443?security=tls&sni=sg1-trojan.bonds.id&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=/6b777a91#🔒
 trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?allowInsecure=1&sni=jobsfortheworldtoday.com#t.me/entryNET/config=1837949783780732
+trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?allowInsecure=1&sni=jobsfortheworldtoday.com#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?security=tls&sni=vbbb.ylks2024.us.kg&type=ws&host=vbbb.ylks2024.us.kg&path=/youlingkaishi#🔒
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?allowInsecure=0&sni=xXcdvFgt.191268.XYz#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?sni=xXcdvFgt.191268.XYz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
@@ -1260,7 +1261,6 @@ trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.
 trojan://AJiaFGPGOJ@x6-germany-amazon-v2-8xhhs.devefun.org:1935?security=tls&headerType=&type=tcp&sni=x6-germany-amazon-v2-8xhhs.devefun.org#DE🇩🇪
 trojan://AQYZMBIoZd@104.25.197.102:8443?type=ws&path=%2F%3Fed%3D2048&host=cdn65667.boshrachoice.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cdn65667.boshrachoice.ir#%40v2ray_market11
 trojan://AQYZMBIoZd@104.25.197.102:8443?type=ws&path=%2F%3Fed%3D2048&host=cdn65667.boshrachoice.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cdn65667.boshrachoice.ir#RELAY🚩
-trojan://AQYZMBIoZd@104.25.197.102:8443?type=ws&path=%2F%3Fed%3D2048&host=cdn65667.boshrachoice.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cdn65667.boshrachoice.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.04ms
 trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
 trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
 trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸
@@ -3540,7 +3540,6 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#%F0%9F%87%B3%F0%9F%87%B1%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#✅@v2ray_configs_pools
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.62ms
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#%40v2ray_fj+%DA%86%D9%86%D9%84+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF+%F0%9F%9A%80
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&allowinsecure=0&type=ws&sni=vpn.stupidworld.web.id#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40dnsforyou%20%7C%208
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&allowinsecure=0&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩
@@ -3572,6 +3571,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?encryption=n
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#✅@v2ray_configs_pools
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.zipzap.biz.id#@warp_city
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.zipzap.biz.id#✅@v2ray_configs_pools
+trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.zipzap.biz.id#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.3ms
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.zipzap.biz.idتعداد#✅@v2ray_configs_pools
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.zipzap.biz.idتعدادتعداد#✅@v2ray_configs_pools
 trojan://f2s539@104.21.51.9:443?security=tls&sni=aws-us-dallas-1.f1cflined.com&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-dallas-1.f1cflined.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
