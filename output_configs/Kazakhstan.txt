@@ -16,7 +16,6 @@ ss://a4b82845-20ef-40ef-b3e1-41060dacdea8@zula.ir:8443?security=tls&sni=kz-1-ss8
 ss://bcd3d9f9-63d6-5ca5-a8e4-7f7f25acfbed@5.180.46.21:443?security=tls&sni=5.180.46.21&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.180.46.21&encryption=none#Rayan%20-%20SSO%20-%20WSDR-116%20-%20KZ%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 ss://bcd3d9f9-63d6-5ca5-a8e4-7f7f25acfbed@jquery.com:443?security=tls&sni=kz-1-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=kz-1-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-116%20-%20KZ%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
 ss://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.0:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#KZ-%3E-%3EADL-%3E%40Sezar_Sec
-ss://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%23telegram_freev2alpha#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:8.03ms
 ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.0:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.0-80+%7C+14.36ms
 ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.10:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.10-80+%7C+14ms
 ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.40:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.40-80+%7C+14.62ms
@@ -39,4 +38,3 @@ vless://a4b82845-20ef-40ef-b3e1-41060dacdea8@zula.ir:8443?security=tls&sni=kz-1-
 vless://bcd3d9f9-63d6-5ca5-a8e4-7f7f25acfbed@5.180.46.21:443?security=tls&sni=5.180.46.21&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.180.46.21&encryption=none#Rayan%20-%20SSO%20-%20WSDR-116%20-%20KZ%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 vless://bcd3d9f9-63d6-5ca5-a8e4-7f7f25acfbed@jquery.com:443?security=tls&sni=kz-1-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=kz-1-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-116%20-%20KZ%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.0:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#KZ-%3E-%3EADL-%3E%40Sezar_Sec
-vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%23telegram_freev2alpha#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:8.03ms
