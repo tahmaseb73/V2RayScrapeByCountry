@@ -17,6 +17,7 @@ ss://2ba1d189-c42c-4b18-b262-f330552f8d16@65.109.219.206:56213?encryption=none&s
 ss://2f99cab3-9044-4e7d-8073-5bfa87c7c1b5@finland.my-iranparspack.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#REALITY|FI🇫🇮
 ss://3316f881-32b0-41ea-837f-9a2eca9e16f4@104.19.150.10:2086?encryption=none&security=none&type=httpupgrade&host=Gg.k6n.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#%E3%80%8E%F0%9F%87%AB%F0%9F%87%AE%E3%80%8F%7C%20FINLAND%209
 ss://3f073b8b-75b1-42a2-ae30-5f6c46737c18@dl1-fi-cdn.easy-upload.org:2010?security=none&type=tcp&headerType=&path=&host=gharar.ir#%F0%9F%87%AB%F0%9F%87%AE%20FI%20-%20Helsinki%20-%20%28%20VIP%20%29%20%23001
+ss://42f8b774-f998-476d-ada2-2915588c7f45@dl1-fi-cdn.easy-upload.org:2010?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.19ms
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI🇫🇮
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
@@ -103,7 +104,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV0piamF2RkhRdjd2Z0toeUhFTWc3b1lUTHpROThHcVR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVU5ocTZiY3E1N3NoTXp2VkNnbVdybmJvYmpnVzNhdTVwdjY1OG9VSGtKUzdDUmtNTHBkdTFXbllCemFWWkR0NjZ4NmRtYkozazl6ZU5LS3RoNG1HOHBzdFhSVW5RYVQ%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#%3E%3E%40ShadowsocksM%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+185.193.102.7-57456+%7C+124.49ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:34.17ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0UlZINlpWanRqV0N2UkVQdlNnVHg2andtZW5zYTZvZjl3MjZOd25aNW4xVjNiV2VOQnNxMkE4NkszUldHUnlqQTg5VHFpYm5yaTRIdUR0dkUyNEtVMlNiNjVSVWVWSno%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3VWNvWXcxU0FWbnhoS2IxUEdtcWU2OXVDSmpnZ0pvRG9nWGZQQ21EQ2t2aG5NMW1KYkV4bnhKZXRoUEJFaUM0OWRzVWR1clJCQ245Z2gyVTIzMXZZQXlZUFN3dFlBYXc%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3eVJqRHpaWUM5RTJhUTlpYW1qMXZ1ajdaY2tZVkdMSG45eXE5MmpSVVVDZG96MUFFS3RTSlJwaU1QeFhhaVhmcFhCSkNwM2dqc05iTTlpMlBicWV0ZUNzWFVXd0RFQWM%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
@@ -136,7 +136,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1ss%20%7C%2018
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40mowjproxy%20%7C%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+83.147.216.70-64519+%7C+103.48ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:15.58ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:18.07ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#%F0%9F%87%AB%F0%9F%87%AE%20FI-185.221.196.34%3A57602
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(1)
@@ -181,7 +181,6 @@ ss://fae6fb04-146d-47d6-9407-115297441a21@65.21.132.249:443?mode=gun&security=re
 ss://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=&allowInsecure=1&fp=chrome&type=tcp&encryption=none#🇫🇮FI
 ss://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?path=%2FfsafasfsafA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nextgenerationaiplatform.ir#FI🇫🇮
 ss://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33&spx=%2F&type=tcp&headerType=none#finland1-shadmanegi_vpn-pri
-ss://joinshotoV2rayNGFreee@65.108.247.56:80?mode=auto&path=%2F&security=none&encryption=none&host=tatal.global.ssl.fastly.net&type=xhttp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.63ms
 trojan://5YauIFGqU5@65.109.179.105:444?security=&type=grpc#FI🇫🇮
 trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443?security=tls&sni=polo01.kctr2038.icu&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://testme@150.241.97.105:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
@@ -208,6 +207,7 @@ vless://2ba1d189-c42c-4b18-b262-f330552f8d16@65.109.219.206:56213?encryption=non
 vless://2f99cab3-9044-4e7d-8073-5bfa87c7c1b5@finland.my-iranparspack.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#REALITY|FI🇫🇮
 vless://3316f881-32b0-41ea-837f-9a2eca9e16f4@104.19.150.10:2086?encryption=none&security=none&type=httpupgrade&host=Gg.k6n.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#%E3%80%8E%F0%9F%87%AB%F0%9F%87%AE%E3%80%8F%7C%20FINLAND%209
 vless://3f073b8b-75b1-42a2-ae30-5f6c46737c18@dl1-fi-cdn.easy-upload.org:2010?security=none&type=tcp&headerType=&path=&host=gharar.ir#%F0%9F%87%AB%F0%9F%87%AE%20FI%20-%20Helsinki%20-%20%28%20VIP%20%29%20%23001
+vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-fi-cdn.easy-upload.org:2010?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.19ms
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI🇫🇮
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
@@ -284,7 +284,6 @@ vless://fae6fb04-146d-47d6-9407-115297441a21@65.21.132.249:443?mode=gun&security
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=&allowInsecure=1&fp=chrome&type=tcp&encryption=none#🇫🇮FI
 vless://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?path=%2FfsafasfsafA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nextgenerationaiplatform.ir#FI🇫🇮
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33&spx=%2F&type=tcp&headerType=none#finland1-shadmanegi_vpn-pri
-vless://joinshotoV2rayNGFreee@65.108.247.56:80?mode=auto&path=%2F&security=none&encryption=none&host=tatal.global.ssl.fastly.net&type=xhttp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.63ms
 vmess://ewogICAgImFkZCI6ICJpcC5zYiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImNkbi4zaWFwcHMuY29tIiwKICAgICJpZCI6ICJjZmE4YzM2Yy05NjUyLTQ4NGEtODllMS0zNGRjYzk4ZmFhYzMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi6Iqs5YWwIC0g6LWr5bCU6L6b5Z+6IC0gSGV0em5lciBPbmxpbmUgR21iSCAtIDEiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogImNkbi4zaWFwcHMuY29tIgp9
 vmess://eyJ2IjogIjIiLCAiYWRkIjogImRhbmlzaG9wLmp1bXBpbmdjcmFiLmNvbSIsICJwb3J0IjogNDAwMDQsICJpZCI6ICJkOGFjNmE2OC0yOTc4LTQ5MTAtOGU2Mi0wNTg0Njk4ODg5NjUiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZVx1MDBhZVx1ZmUwZkZpbmxhbmRcdTAwYTlcdWZlMGZIZWxzaW5raVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MTQuMjRtcyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlRkkrMzBAU3VyZmJvYXJkdjJyYXkiLCAiYWRkIjogIjY1LjEwOS4xOTkuNDEiLCAicG9ydCI6ICI1MjQ0IiwgImlkIjogIjQ0ZWY0ZjkyLTU4ZDktNDFlMC05MzkwLWE0MGUxNTNjNjQwMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
