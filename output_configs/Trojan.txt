@@ -126,7 +126,6 @@ trojan://11258980-1234-11f0-a2b3-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://114ad614-fe6c-4422-b0af-be6161190d7a@172.67.211.136:443?security=tls&sni=DDrt.191266.Xyz&type=tcp&allowInsecure=1#🔒
 trojan://12345678@198.62.62.4:443?security=tls&sni=7bdfb97a.ikl.pages.dev&type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev#🔒
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#RELAY🚩
-trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.25ms
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@Academi_vpn5
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@CanfigVip+🍕
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@G0Dv2ray
@@ -497,7 +496,6 @@ trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%
 trojan://4ea3cdc0-ec7d-11ef-ba77-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://4eab66c3-c95f-42af-b3f7-bf7f2d5b06d6@157.254.20.4:443?security=tls&sni=new.download.the-best-airport.com&type=tcp#🔒
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇲🇳®️Mongolia©️Ulaanbaatar🅿️ping:132.18ms
 trojan://502560b1-6cb2-443e-ba50-361c94ddab3a@172.65.190.172:33019?security=tls&sni=dtua1.bitznet.one#🔒
 trojan://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?allowInsecure=0&sni=SsSxderT.fREevPnatM.Dpdns.ORG&ws=1&wspath=%2FdDWfJuXDH50Q7a7NsRZbl4sVHqtMKS#@Hope_Net-join-us-on-Telegram
 trojan://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?allowInsecure=0&sni=SsSxderT.fREevPnatM.Dpdns.ORG&ws=1&wspath=%2FdDWfJuXDH50Q7a7NsRZbl4sVHqtMKS#RELAY🚩
@@ -3103,7 +3101,6 @@ trojan://blue2024@104.20.249.155:443?allowInsecure=1&sni=ta.promote.icu#US🇺�
 trojan://blue2024@104.20.73.186:443?sni=ta.promote.icu&allowInsecure=1#@Hope_Net-join-us-on-Telegram⚠️
 trojan://blue2024@104.24.28.137:443?sni=ta.promote.icu&allowInsecure=1#US🇺🇸
 trojan://blue2024@104.24.92.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒
-trojan://blue2024@104.24.92.234:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.16ms
 trojan://blue2024@104.25.53.167:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.25.77.73:443?sni=td.promote.icu#US🇺🇸
 trojan://blue2024@104.25.91.212:443?allowInsecure=1&sni=ta.promote.icu#US🇺🇸
@@ -3823,7 +3820,6 @@ trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=tro
 trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker_104.21.25.480
 trojan://oZAugtgF5T@146.190.87.238:443?path=%2F&security=tls&host=aka.ms&type=ws&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40mpmehi%20%7C%200
 trojan://opentunnel.net-trhrst5ju45s@69.16.230.165:443?security=tls&sni=ukt-2.opensvr.net#🔒
-trojan://ouo@152.70.101.24:16800?allowInsecure=1&sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=//?ed=2560#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Inzai
 trojan://ouo@18.162.246.4:18443?allowInsecure=0&sni=tr.koiok.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838047495203295
 trojan://ouo@18.183.158.211:443?security=tls&sni=tr.koxok.us.kg&type=tcp#🔒
 trojan://ouo@210.61.97.241:81?allowInsecure=1#TW🇹🇼
