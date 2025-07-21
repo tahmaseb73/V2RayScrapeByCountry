@@ -250,6 +250,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&encrypt
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?encryption=none&security=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:43.19ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40club_profsor%20%7C%2016
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=none&security=none&type=grpc#FR🇫🇷
@@ -260,8 +261,9 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40v2ray_free_conf%20%7C%2019
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:53.3ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:43.01ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#FR🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none&mode=gun#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:43.01ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638822414354206802.dezful-shledrc-acbs.info:8880?encryption=none&security=none&type=grpc#FR-%3EFR-%3EMTN-%3E%40Sezar_Sec
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638822597953394465.hamedan-shledrc-acbs.info:8880?encryption=none&security=none&type=grpc#FR-%3EFR-%3EMTN-%3E%40Sezar_Sec
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638822597953394880.hamedan-shledrc-acbs.info:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#FR🇫🇷
@@ -546,6 +548,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&encr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?encryption=none&security=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:43.19ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40club_profsor%20%7C%2016
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=none&security=none&type=grpc#FR🇫🇷
@@ -556,8 +559,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40v2ray_free_conf%20%7C%2019
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:53.3ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:43.01ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#FR🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none&mode=gun#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:43.01ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638822414354206802.dezful-shledrc-acbs.info:8880?encryption=none&security=none&type=grpc#FR-%3EFR-%3EMTN-%3E%40Sezar_Sec
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638822597953394465.hamedan-shledrc-acbs.info:8880?encryption=none&security=none&type=grpc#FR-%3EFR-%3EMTN-%3E%40Sezar_Sec
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638822597953394880.hamedan-shledrc-acbs.info:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#FR🇫🇷

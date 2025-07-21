@@ -88,7 +88,6 @@ ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-knyhjj43dT.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-ygDWmYQSlm.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?encryption=none&security=tls&sni=pq-japan3.09vpn.com&type=ws&path=%2Fvless%2F#JP🇯🇵
-ss://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?encryption=none&security=tls&sni=pq-japan3.09vpn.com&type=ws&path=%2Fvless%2F#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
 ss://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq-japan3.09vpn.com#%3E%3E%40ShadowsocksM%3A%3AJP
 ss://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq-japan3.09vpn.com#JP🇯🇵
 ss://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?security=tls&sni=pq-japan3.09vpn.com&allowInsecure=1&type=ws&path=/vless/&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP%20%7C%20@v2ray_configs_pools`
@@ -166,7 +165,6 @@ vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@www.speedtest.net:443?security=tls&
 vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@www.speedtest.net:443?security=tls&sni=jp-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=jp-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20JP%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 vless://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=geXtlGNYBAQKgRseZd_iesJeU92z7fY2koG-knCXoWU&sid=e76b7d4e#🇯🇵日本东京3
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?encryption=none&security=tls&sni=pq-japan3.09vpn.com&type=ws&path=%2Fvless%2F#JP🇯🇵
-vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?encryption=none&security=tls&sni=pq-japan3.09vpn.com&type=ws&path=%2Fvless%2F#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq-japan3.09vpn.com#%3E%3E%40ShadowsocksM%3A%3AJP
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq-japan3.09vpn.com#JP🇯🇵
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?security=tls&sni=pq-japan3.09vpn.com&allowInsecure=1&type=ws&path=/vless/&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP%20%7C%20@v2ray_configs_pools`
