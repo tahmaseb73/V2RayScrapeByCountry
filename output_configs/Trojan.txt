@@ -294,7 +294,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sn
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0333
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0340
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0350
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&allowInsecure=1&type=tcp&headerType=none#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&fp=chrome&type=tcp&headerType=none#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
@@ -2706,6 +2705,7 @@ trojan://NISHIKUITAN111@190.93.247.175:443?#🔒
 trojan://NISHIKUITAN111@193.227.99.60:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//#🔒
 trojan://NISHIKUITAN111@193.227.99.60:443?security=tls&type=ws&sni=za.ylks.xyz&path=%2F%2F&host=za.ylks.xyz#US🇺🇸
 trojan://NISHIKUITAN111@194.36.55.28:443#GB🇬🇧
+trojan://NISHIKUITAN111@198.41.196.208:443?#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.09ms
 trojan://NISHIKUITAN111@198.41.201.193:443#RELAY🚩
 trojan://NISHIKUITAN111@198.41.205.148:443#RELAY🚩
 trojan://NISHIKUITAN111@198.41.205.240:443#RELAY🚩
@@ -3018,7 +3018,6 @@ trojan://b80Iy90Fma@104.26.9.227:443?security=tls&sni=usa03.rtx.al&type=ws&host=
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#🔒
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
-trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir&fp=chrome&type=tcp&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20trojan%20%7C%20%40teamvpnpro%20%7C%206
 trojan://b9f3ff1a-9c85-48e1-9809-7a6431c4329f@161.35.83.110:443?security=tls&sni=nl2-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://ba2e2a70-2132-11f0-9456-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -3059,6 +3058,7 @@ trojan://blue2024@104.16.99.204:443?allowInsecure=0&sni=ta.promote.icu#US🇺�
 trojan://blue2024@104.16.99.204:443?sni=ta.promote.icu#US🇺🇸
 trojan://blue2024@104.17.1.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒
 trojan://blue2024@104.17.1.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram⚠️
+trojan://blue2024@104.17.131.154:443?sni=td.promote.icu#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.23ms
 trojan://blue2024@104.17.133.24:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#US🇺🇸
 trojan://blue2024@104.17.140.36:443?allowInsecure=0&sni=ta.promote.icu#US🇺🇸
 trojan://blue2024@104.17.165.253:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒
@@ -3081,7 +3081,6 @@ trojan://blue2024@104.18.121.158:443?security=tls&sni=td.promote.icu&type=tcp#�
 trojan://blue2024@104.18.121.158:443?sni=td.promote.icu#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.18.123.217:443?allowInsecure=0&sni=ta.promote.icu#US🇺🇸
 trojan://blue2024@104.18.123.217:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒
-trojan://blue2024@104.18.124.7:443?sni=td.promote.icu#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.22ms
 trojan://blue2024@104.18.139.97:443?sni=td.promote.icu#US🇺🇸
 trojan://blue2024@104.18.153.27:443?security=tls&sni=td.promote.icu&type=tcp#🔒
 trojan://blue2024@104.18.153.27:443?security=tls&type=tcp&sni=td.promote.icu#@Hope_Net-join-us-on-Telegram
@@ -3500,6 +3499,10 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?sni=www.baidu.com#
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC5
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:32962?allowInsecure=1&sni=www.baidu.com#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Qinnan🅿️ping:306.27ms
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:3596?allowInsecure=1&sni=www.baidu.com#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Qinnan🅿️ping:311.69ms
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:40937?allowInsecure=1&sni=www.baidu.com#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Qinnan🅿️ping:298.5ms
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:41225?allowInsecure=1&sni=www.baidu.com#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Qinnan🅿️ping:318.19ms
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:8001?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:8001?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF7
 trojan://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:443?security=tls&sni=ExpResSTV.FArsOnLINE24.IR&type=ws&host=expresstv.farsonline24.ir&path=/x8xN4dH28mo7U3sS#🔒
@@ -3823,6 +3826,7 @@ trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=tro
 trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker_104.21.25.480
 trojan://oZAugtgF5T@146.190.87.238:443?path=%2F&security=tls&host=aka.ms&type=ws&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40mpmehi%20%7C%200
 trojan://opentunnel.net-trhrst5ju45s@69.16.230.165:443?security=tls&sni=ukt-2.opensvr.net#🔒
+trojan://ouo@152.70.101.24:16800?allowInsecure=1&sni=tr.koiok.us.kg&ws=1&wspath=%2F%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Inzai
 trojan://ouo@18.162.246.4:18443?allowInsecure=0&sni=tr.koiok.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838047495203295
 trojan://ouo@18.183.158.211:443?security=tls&sni=tr.koxok.us.kg&type=tcp#🔒
 trojan://ouo@210.61.97.241:81?allowInsecure=1#TW🇹🇼
