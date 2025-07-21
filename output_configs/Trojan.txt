@@ -382,6 +382,7 @@ trojan://3723507166611775488@correct-redbird.boa152.lol:443?allowInsecure=1&sni=
 trojan://3723507166611775488@fitting-ox.boa152.lol:443?allowInsecure=0&sni=fitting-ox.boa152.lol#t.me/entryNET/config=1837904301442168
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443?allowInsecure=0&sni=sensible-ocelot.boa152.lol#t.me/entryNET/config=1837909077284762
 trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat627.mom&type=tcp#DE🇩🇪
+trojan://3763495894587285504@enabling-cat.goat627.mom:443?allowInsecure=0&sni=enabling-cat.goat627.mom#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Cologne
 trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#@Filter_breaker
 trojan://37b04b50-1234-11f0-b5f0-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#@V2rayNG3
@@ -2673,6 +2674,7 @@ trojan://NISHIKUITAN111@104.25.118.140:443#RELAY🚩
 trojan://NISHIKUITAN111@104.25.155.56:443?#@Hope_Net-join-us-on-Telegram⚠️
 trojan://NISHIKUITAN111@104.25.22.6:443?#🔒
 trojan://NISHIKUITAN111@104.25.80.35:443?#@Hope_Net-join-us-on-Telegram⚠️
+trojan://NISHIKUITAN111@104.25.99.96:443?#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.38ms
 trojan://NISHIKUITAN111@104.26.2.143:443#RELAY🚩
 trojan://NISHIKUITAN111@104.27.25.157:443#RELAY🚩
 trojan://NISHIKUITAN111@108.162.192.252:443?#@Hope_Net-join-us-on-Telegram
@@ -2685,7 +2687,6 @@ trojan://NISHIKUITAN111@162.120.94.3:443?security=tls&type=ws&sni=zb.ylks.xyz&pa
 trojan://NISHIKUITAN111@162.159.16.224:443?#🔒
 trojan://NISHIKUITAN111@162.159.19.226:443#RELAY🚩
 trojan://NISHIKUITAN111@162.159.20.17:443#RELAY🚩
-trojan://NISHIKUITAN111@172.66.42.99:443?#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.2ms
 trojan://NISHIKUITAN111@172.67.201.232:443?#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@172.67.216.159:443#RELAY🚩
 trojan://NISHIKUITAN111@172.67.242.135:443?#@Hope_Net-join-us-on-Telegram
@@ -2695,6 +2696,7 @@ trojan://NISHIKUITAN111@173.245.58.6:443?#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@173.245.59.30:443#RELAY🚩
 trojan://NISHIKUITAN111@173.245.59.91:443?#🔒
 trojan://NISHIKUITAN111@185.135.9.41:443?#@Hope_Net-join-us-on-Telegram⚠️
+trojan://NISHIKUITAN111@185.135.9.41:443?#👉🆔@v2ray_configs_pool📡🇬🇧®️United
 trojan://NISHIKUITAN111@185.148.106.44:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/#🔒
 trojan://NISHIKUITAN111@185.170.166.26:443?#@Hope_Net-join-us-on-Telegram⚠️
 trojan://NISHIKUITAN111@185.176.24.104:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#👉🆔@v2ray_configs_pool📡🇳🇱®️The
@@ -3104,6 +3106,7 @@ trojan://blue2024@104.20.249.155:443?allowInsecure=1&sni=ta.promote.icu#US🇺�
 trojan://blue2024@104.20.73.186:443?sni=ta.promote.icu&allowInsecure=1#@Hope_Net-join-us-on-Telegram⚠️
 trojan://blue2024@104.24.28.137:443?sni=ta.promote.icu&allowInsecure=1#US🇺🇸
 trojan://blue2024@104.24.92.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒
+trojan://blue2024@104.25.235.162:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.31ms
 trojan://blue2024@104.25.53.167:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.25.77.73:443?sni=td.promote.icu#US🇺🇸
 trojan://blue2024@104.25.91.212:443?allowInsecure=1&sni=ta.promote.icu#US🇺🇸
@@ -3216,6 +3219,7 @@ trojan://bpb-trojan@162.159.152.227:443?security=tls&type=tcp&sni=cf.090227.xyz#
 trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&allowInsecure=1&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#%5BTrojan%2003%5D%20%40ResistalProxy
 trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net#🔒
 trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#t.me%2Fpeterjest
+trojan://bpb-trojan@162.159.152.2:443?security=tls&type=tcp&sni=visa.cn#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.64ms
 trojan://bpb-trojan@162.159.153.172:443?security=tls&type=tcp&sni=cf.090227.xyz#RELAY🚩
 trojan://bpb-trojan@162.159.153.229:443?security=tls&type=tcp&sni=cf.090227.xyz#RELAY🚩
 trojan://bpb-trojan@168.138.184.172:443?sni=skwygx.top#🔒
