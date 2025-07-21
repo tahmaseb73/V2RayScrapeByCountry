@@ -114,6 +114,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV0piamF2RkhRdjd2Z0toeUhFTWc3b1lUTHpROThHcVR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVU5ocTZiY3E1N3NoTXp2VkNnbVdybmJvYmpnVzNhdTVwdjY1OG9VSGtKUzdDUmtNTHBkdTFXbllCemFWWkR0NjZ4NmRtYkozazl6ZU5LS3RoNG1HOHBzdFhSVW5RYVQ%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#%3E%3E%40ShadowsocksM%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+185.193.102.7-57456+%7C+182.19ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:30.16ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki%2C%2018%2C%20Finland%20%281%29🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0UlZINlpWanRqV0N2UkVQdlNnVHg2andtZW5zYTZvZjl3MjZOd25aNW4xVjNiV2VOQnNxMkE4NkszUldHUnlqQTg5VHFpYm5yaTRIdUR0dkUyNEtVMlNiNjVSVWVWSno%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1a1l0RXUwYmExZnc=@81.177.214.178:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+81.177.214.178-443+%7C+101.95ms
@@ -199,6 +200,7 @@ ss://fae6fb04-146d-47d6-9407-115297441a21@65.21.132.249:443?mode=gun&security=re
 ss://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=&allowInsecure=1&fp=chrome&type=tcp&encryption=none#🇫🇮FI
 ss://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?path=%2FfsafasfsafA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nextgenerationaiplatform.ir#FI🇫🇮
 ss://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33&spx=%2F&type=tcp&headerType=none#finland1-shadmanegi_vpn-pri
+ss://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?encryption=none&security=reality&type=tcp&headerType=none&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sni=yahoo.com&sid=33&remark=net0n3_548#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:35.31ms
 ss://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#REALITY|FI🇫🇮
 ss://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33#REALITY|FI🇫🇮
 trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443?security=tls&sni=polo01.kctr2038.icu&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -318,6 +320,7 @@ vless://fae6fb04-146d-47d6-9407-115297441a21@65.21.132.249:443?mode=gun&security
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=&allowInsecure=1&fp=chrome&type=tcp&encryption=none#🇫🇮FI
 vless://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?path=%2FfsafasfsafA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nextgenerationaiplatform.ir#FI🇫🇮
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33&spx=%2F&type=tcp&headerType=none#finland1-shadmanegi_vpn-pri
+vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?encryption=none&security=reality&type=tcp&headerType=none&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sni=yahoo.com&sid=33&remark=net0n3_548#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:35.31ms
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#REALITY|FI🇫🇮
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33#REALITY|FI🇫🇮
 vmess://ewogICAgImFkZCI6ICJ5dHJydHAzZTY2NWIucGV5bWFucmlidmFyLnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInl0cnJ0cDNlNjY1Yi5wZXltYW5yaWJ2YXIueHl6IiwKICAgICJpZCI6ICIwMmY2MDViNi0xOWI4LTRiMmUtYTdjYS1kM2RjOTg4NzgwNTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvMDJmNjA1YjYtMTliOC00YjJlLWE3Y2EtZDNkYzk4ODc4MDU1LXZtIiwKICAgICJwb3J0IjogMjA4NiwKICAgICJwcyI6ICLwn4er8J+HrkZJLTQ2LjYyLjE0Ni44My01MDAxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAid3d3LmJpbmcuY29tIgp9
