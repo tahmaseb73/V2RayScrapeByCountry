@@ -1,6 +1,5 @@
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.58:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
 ss://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?type=tcp&encryption=none&flow=#UA🇺🇦
-ss://2fafdcd6-08c9-4891-d1ce-b7c4a44261ca@193.238.153.120:19728?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kharkiv🅿️ping:49.83ms
 ss://3d9741da-c0e4-47cc-a5e0-f1af3d337dae@104.21.79.79:443/?type=grpc&encryption=none&flow=&serviceName=GLDvleH8RDu60iNUyXjsEo3kz9&security=tls&sni=AaaSW3.938.pP.Ua&alpn=h2&fp=chrome&packetEncoding=xudp#aaasw3.938.pp.ua
 ss://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=&encryption=none&headerType=&type=tcp#UA🇺🇦
 ss://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?security=&type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%A6UA%20%7C%20@v2ray_configs_pools
@@ -13,12 +12,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%3E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%F0%9F%87%BA%F0%9F%87%A6%20UA-176.103.53.105:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+176.103.53.105-990+%7C+179.3ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@176.103.53.105:989#%F0%9F%87%BA%F0%9F%87%A6%20UA-176.103.53.105:989
+ss://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kharkiv🅿️ping:50.63ms
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.58:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
 vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?type=tcp&encryption=none&flow=#UA🇺🇦
-vless://2fafdcd6-08c9-4891-d1ce-b7c4a44261ca@193.238.153.120:19728?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kharkiv🅿️ping:49.83ms
 vless://3d9741da-c0e4-47cc-a5e0-f1af3d337dae@104.21.79.79:443/?type=grpc&encryption=none&flow=&serviceName=GLDvleH8RDu60iNUyXjsEo3kz9&security=tls&sni=AaaSW3.938.pP.Ua&alpn=h2&fp=chrome&packetEncoding=xudp#aaasw3.938.pp.ua
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=&encryption=none&headerType=&type=tcp#UA🇺🇦
 vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?security=&type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%A6UA%20%7C%20@v2ray_configs_pools
 vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?security=&type=tcp&encryption=none#🇺🇦UA
 vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?encryption=none&security=tls&sni=005188006073.sec1org.com&alpn=h2%2Chttp%5C1.1&type=tcp&headerType=none#UA-%3EUA-%3ERTL-%3E%40Sezar_Sec
+vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kharkiv🅿️ping:50.63ms
 vmess://eyJhZGQiOiI0NS4xMzcuMTU1LjQ1IiwiaG9zdCI6IiIsImlkIjoiODI3MzQ3MjQtOGMwNi00YzJlLTljZmYtYjM0Nzc2ZmUxNzU3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNzY0NiIsInBzIjoiVUFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZTYgfCA0NS4xMzcuMTU1LjQ1LTE3NjQ2IHwgMTgzLjc2bXMiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUifQ==
