@@ -9,7 +9,7 @@ ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encry
 ss://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40f_nirevil%20%7C%202
 ss://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#TR🇹🇷
 ss://6fa4a6e6-e575-42ec-aba1-4142b73bad06@cls.zibanamas.ir:8295?security=reality&encryption=none&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|TR🇹🇷
-ss://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=tls&alpn=h3&encryption=none&host=nginx-z.pages.dev&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.57ms
+ss://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=tls&alpn=h3&encryption=none&host=nginx-z.pages.dev&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.84ms
 ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@Filter_breaker-TR
 ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type=tcp&encryption=none#TR🇹🇷
 ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20-%20Izmir%20%F0%9F%8C%8F%20VL-TCP-NONE%204%E2%83%A3
@@ -36,6 +36,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.212-0344
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.212-0518
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.212-4910
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:75.05ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNiQDYyLjEzMy42My4yMTI6NTc0NTY=#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.212-0294
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNiQDYyLjEzMy42My4yMTI6NTc0NTY=#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.212-5047
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNiQHRyLnZwbnNwYXJ0YS5wcm86NTc0NTY=#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.212-0288
@@ -245,7 +246,7 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&en
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40f_nirevil%20%7C%202
 vless://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#TR🇹🇷
 vless://6fa4a6e6-e575-42ec-aba1-4142b73bad06@cls.zibanamas.ir:8295?security=reality&encryption=none&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|TR🇹🇷
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=tls&alpn=h3&encryption=none&host=nginx-z.pages.dev&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.57ms
+vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=tls&alpn=h3&encryption=none&host=nginx-z.pages.dev&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.84ms
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@Filter_breaker-TR
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type=tcp&encryption=none#TR🇹🇷
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20-%20Izmir%20%F0%9F%8C%8F%20VL-TCP-NONE%204%E2%83%A3
