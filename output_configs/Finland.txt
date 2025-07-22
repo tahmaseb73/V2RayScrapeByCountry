@@ -162,7 +162,6 @@ ss://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&encry
 ss://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&type=tcp&packetEncoding=xudp&encryption=none#FI🇫🇮
 ss://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?type=tcp&encryption=none&flow=#FI🇫🇮
 ss://b228220b-6f92-4350-b73d-a1f924a3c686@135.181.144.42:8443?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb&type=tcp&headerType=none&host=mci.ir#REALITY|FI🇫🇮
-ss://b228220b-6f92-4350-b73d-a1f924a3c686@135.181.144.42:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.67ms
 ss://b7ca9f6a-bf71-49ef-b948-b14a4e417259@65.109.215.10:17180?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
 ss://c32819a3-bb1c-4e15-be00-ffcb657f8323@dl1-fi-cdn.easy-upload.org:2010?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%40v2xay
 ss://c6ac1649-5dc5-4d45-8977-9805d639d30b@65.109.191.254:80?security=&type=ws&path=/test%3Dtrue&host=d1.hetzner.com&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI%20%7C%20@v2ray_configs_pools
@@ -265,7 +264,6 @@ vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&en
 vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&type=tcp&packetEncoding=xudp&encryption=none#FI🇫🇮
 vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?type=tcp&encryption=none&flow=#FI🇫🇮
 vless://b228220b-6f92-4350-b73d-a1f924a3c686@135.181.144.42:8443?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb&type=tcp&headerType=none&host=mci.ir#REALITY|FI🇫🇮
-vless://b228220b-6f92-4350-b73d-a1f924a3c686@135.181.144.42:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.67ms
 vless://b7ca9f6a-bf71-49ef-b948-b14a4e417259@65.109.215.10:17180?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
 vless://c32819a3-bb1c-4e15-be00-ffcb657f8323@dl1-fi-cdn.easy-upload.org:2010?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%40v2xay
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@65.109.191.254:80?security=&type=ws&path=/test%3Dtrue&host=d1.hetzner.com&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI%20%7C%20@v2ray_configs_pools
