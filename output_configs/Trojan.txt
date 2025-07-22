@@ -1152,7 +1152,6 @@ trojan://8jqRgpyc5lEe34TzC9A8DuFD23aS3ZyCleIFuCxp3xOYnZRCeA3Oc3yCga8C2DKYBDaRp@1
 trojan://8kQaUakMBb@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13
 trojan://8r%3C%5B9
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=koma-yt.pages.dev#🔒
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.47.26:8443?path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=koma-yt.pages.dev&fp=randomized&type=ws&sni=Koma-YT.PAGeS.Dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.41ms
 trojan://9022b080-2132-11f0-9bd5-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9022b080-2132-11f0-9bd5-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%E2%9D%A4%EF%B8%8F
 trojan://905fcd78-866c-81e1-3cb8-1beb59d661ab@3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com:27231/?type=tcp&security=tls&sni=3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com#%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
@@ -1248,7 +1247,6 @@ trojan://9kHuEbiX7Bcp@172.67.141.68:2053?security=tls&sni=khabaronline.itn24.ir&
 trojan://9yu6m5okr@172.67.198.177:443?security=tls&type=ws&sni=production.tj.ojan.workers.dev&host=production.tj.ojan.workers.dev#RELAY🚩
 trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40cryptoguardvpn%20%7C%202
 trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#RELAY🚩
-trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.6ms
 trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.240:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@bored_vpn
 trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.240:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@confing_chanel
 trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.240:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@icv2ray
@@ -3034,18 +3032,17 @@ trojan://bf109e1a-2b99-11ed-bb74-f23c9164ca5d@ddd0977f-sxaf40-t3b4w3-ywms.cm5.cn
 trojan://bf109e1a-2b99-11ed-bb74-f23c9164ca5d@ddd0977f-sxaf40-t3b4w3-ywms.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=ddd0977f-sxaf40-t3b4w3-ywms.cm5.cnkuaishou.com#12%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://bfb23be0-6c4f-11ee-8513-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://blue2024@104.129.167.128:443?security=tls&sni=ta.promote.icu&type=tcp#🔒
-trojan://blue2024@104.16.102.242:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.13ms
 trojan://blue2024@104.16.112.144:443?security=tls&sni=ta.promote.icu&type=tcp#🔒
 trojan://blue2024@104.16.113.194:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram⚠️
 trojan://blue2024@104.16.144.251:443?security=tls&sni=td.promote.icu&type=tcp#🔒
 trojan://blue2024@104.16.18.38:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.16.209.98:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒
+trojan://blue2024@104.16.238.107:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.19ms
 trojan://blue2024@104.16.38.173:443?sni=hb.lii2010.us.kg#🔒
 trojan://blue2024@104.16.40.115:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.16.93.142:443?security=tls&sni=td.promote.icu&type=tcp#🔒
 trojan://blue2024@104.16.93.142:443?sni=td.promote.icu#US🇺🇸
 trojan://blue2024@104.17.1.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒
-trojan://blue2024@104.17.103.130:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.6ms
 trojan://blue2024@104.17.103.130:443?sni=td.promote.icu#US🇺🇸
 trojan://blue2024@104.17.114.122:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.17.131.154:443?sni=td.promote.icu#US🇺🇸
@@ -3063,7 +3060,6 @@ trojan://blue2024@104.17.40.244:443?security=tls&type=tcp&sni=td.promote.icu#%E6
 trojan://blue2024@104.17.57.75:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒
 trojan://blue2024@104.17.83.149:443?sni=td.promote.icu#US🇺🇸
 trojan://blue2024@104.18.106.229:443?sni=td.promote.icu#US🇺🇸
-trojan://blue2024@104.18.121.158:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.14ms
 trojan://blue2024@104.18.121.158:443?security=tls&sni=td.promote.icu&type=tcp#🔒
 trojan://blue2024@104.18.121.158:443?sni=td.promote.icu#US🇺🇸
 trojan://blue2024@104.18.123.217:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒
@@ -3088,7 +3084,6 @@ trojan://blue2024@104.19.216.63:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspa
 trojan://blue2024@104.19.216.63:443?sni=td.promote.icu#US🇺🇸
 trojan://blue2024@104.19.217.93:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram⚠️
 trojan://blue2024@104.19.217.93:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#US🇺🇸
-trojan://blue2024@104.19.241.178:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.17ms
 trojan://blue2024@104.19.242.185:443?security=tls&type=ws&sni=td.promote.icu&path=%2F%3Fed%3D2560&host=td.promote.icu#US🇺🇸
 trojan://blue2024@104.19.242.185:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#@v2Source🇨🇦🌍
 trojan://blue2024@104.19.243.142:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#US🇺🇸
@@ -3119,6 +3114,7 @@ trojan://blue2024@108.162.193.55:443?sni=td.promote.icu#US🇺🇸
 trojan://blue2024@108.162.195.155:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu#🔒
 trojan://blue2024@108.162.195.203:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2560#US🇺🇸
 trojan://blue2024@108.162.198.117:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+trojan://blue2024@108.162.198.150:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://blue2024@141.101.115.163:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@141.101.115.169:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@141.101.115.169:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#US🇺🇸
@@ -3134,7 +3130,6 @@ trojan://blue2024@162.159.44.192:443?type=ws&sni=tb.promote.icu&host=tb.promote.
 trojan://blue2024@162.159.44.207:443?type=ws&sni=tb.promote.icu&host=tb.promote.icu#US🇺🇸
 trojan://blue2024@172.64.146.66:443?security=tls&sni=ta.promote.icu&type=tcp#🔒
 trojan://blue2024@172.64.233.44:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@172.64.235.138:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://blue2024@172.64.235.138:443?sni=td.promote.icu#US🇺🇸
 trojan://blue2024@172.64.35.83:443?security=tls&sni=ta.promote.icu&type=tcp#🔒
 trojan://blue2024@172.66.40.194:443?allowInsecure=1&sni=ta.promote.icu#US🇺🇸
@@ -3148,7 +3143,6 @@ trojan://blue2024@172.67.78.96:443?sni=td.promote.icu&allowInsecure=1#US🇺🇸
 trojan://blue2024@173.245.59.6:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@173.245.59.6:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#US🇺🇸
 trojan://blue2024@185.176.26.193:443?sni=b.promote.icu#🔒
-trojan://blue2024@188.114.96.107:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.52ms
 trojan://blue2024@188.114.96.186:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram⚠️
 trojan://blue2024@188.114.96.186:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#US🇺🇸
 trojan://blue2024@188.114.96.186:443?sni=td.promote.icu#US🇺🇸
