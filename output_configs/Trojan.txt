@@ -3945,8 +3945,6 @@ trojan://telegram-id-directvpn@15.236.28.202:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@15.236.59.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@15.236.59.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
 trojan://telegram-id-directvpn@15.236.59.146:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒
-trojan://telegram-id-directvpn@15.236.67.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.52ms
-trojan://telegram-id-directvpn@15.236.67.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.63ms
 trojan://telegram-id-directvpn@15.237.104.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@15.237.11.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@15.237.11.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
@@ -4237,8 +4235,6 @@ trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
 trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
 trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒
-trojan://telegram-id-privatevpns@15.236.67.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.27ms
-trojan://telegram-id-privatevpns@15.236.67.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.78ms
 trojan://telegram-id-privatevpns@15.237.104.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.237.11.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.237.11.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
@@ -4437,7 +4433,6 @@ trojan://telegram-id-v2rayvpnchannel@13.37.64.205:22223?security=tls&alpn=http%2
 trojan://telegram-id-v2rayvpnchannel@13.49.13.19:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-v2rayvpnchannel@13.60.151.163:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://telegram-id-v2rayvpnchannel@15.188.241.61:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2015
-trojan://telegram-id-v2rayvpnchannel@15.236.67.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.63ms
 trojan://telegram-id-v2rayvpnchannel@15.237.241.92:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://telegram-id-v2rayvpnchannel@18.192.190.191:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2015
 trojan://telegram-id-v2rayvpnchannel@18.197.77.20:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2rayvpnchannel%20%7C%2015
