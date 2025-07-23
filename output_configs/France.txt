@@ -141,8 +141,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOFdxZ2duRExxMTlWdWhiazkxeENR@62.210.88.22:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTWk3aWdxWG1LSHY0M0ZYN1J5TlJ6@77.110.106.74:31465#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40argo_vpn1%20%7C%2011
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1ss%20%7C%2017
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#%F0%9F%87%AB%F0%9F%87%B7FR-77.105.166.12-0364
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+77.105.166.12-8594+%7C+126.8ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:33.64ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:31.87ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMkw5MlJzOEd4ODFFRVZCaFlFSHVP@62.210.88.22:443#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+62.210.88.22-443+%7C+179.47ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvVmZ2UGtxSkZDak9FYkJzYm1PdElpQXVxZ21FRk9FZjMzMkYyNkM4bHdFd1FuZzk=@213.156.138.138:31348#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1ss%20%7C%2018
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
@@ -231,7 +232,6 @@ ss://cf069ba9-3d6d-482f-9982-20fc55d04c9b@arvancloud.fr.ir.systemgamingirani.ir:
 ss://dc9d3399-395e-4268-983a-f728c8a6aa97@146.59.239.223:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=146.59.239.223&encryption=none#Rayan%20-%20CBT%20-%20WSDR-102%20-%20FR%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 ss://dc9d3399-395e-4268-983a-f728c8a6aa97@www.speedtest.net:2087?security=tls&sni=fr-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fr-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-102%20-%20FR%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 ss://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=&encryption=none&authority=%40ShadowProxy66&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:60.58ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40vmess_ir%20%7C%2018
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%3E%3E%40vmess_vless_v2rayng%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
@@ -291,7 +291,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=no
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:42.19ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:40.77ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&mode=gun&security=none#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A53.17ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
@@ -526,7 +526,6 @@ vless://cf069ba9-3d6d-482f-9982-20fc55d04c9b@arvancloud.fr.ir.systemgamingirani.
 vless://dc9d3399-395e-4268-983a-f728c8a6aa97@146.59.239.223:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=146.59.239.223&encryption=none#Rayan%20-%20CBT%20-%20WSDR-102%20-%20FR%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 vless://dc9d3399-395e-4268-983a-f728c8a6aa97@www.speedtest.net:2087?security=tls&sni=fr-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fr-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-102%20-%20FR%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=&encryption=none&authority=%40ShadowProxy66&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:60.58ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40vmess_ir%20%7C%2018
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%3E%3E%40vmess_vless_v2rayng%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
@@ -586,7 +585,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:42.19ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:40.77ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&mode=gun&security=none#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A53.17ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
