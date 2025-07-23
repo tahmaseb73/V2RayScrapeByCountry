@@ -17,7 +17,6 @@ ss://02500334-97ea-4952-b648-e27c42dd3a65@151.101.194.133:443?security=tls&sni=c
 ss://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.67.68.101:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#t.me/entryNET/config=1837950161906125
 ss://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?encryption=none&security=none&sni=ppal03-ppal03.letiwe3303.workers.dev&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F#t.me%2Fpeterjest
 ss://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
-ss://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.10.168:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#https://t.me/falcunargo
 ss://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.167.254:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1837950852445705
 ss://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1837951104085341
 ss://04c34012-b18d-4d35-a736-b5048e6cde33@172.67.172.53:80?security=none&type=ws&path=/#t.me/entryNET/config=1837930223228338
@@ -793,7 +792,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#t.me/entryNET/config=1838047175817410
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ@s-g04.loveroise.com:54030#t.me/entryNET/config=1837937837303610
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxTjhoY3pIZzVpV0huaHFmUDNOWXZ3@89.185.84.185:443#t.me%2Fpeterjest
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#https://t.me/falcunargo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYWFDbFowQ0RJSHpxdTVZM2R4TXIz@2.56.207.220:8443#t.me/entryNET/config=1837967526617517
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%5B%F0%9F%87%AC%F0%9F%87%A7%5Dt.me%2Fvpn_market_v2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#💯T.me/Asak_Vpn💯
@@ -1754,7 +1752,6 @@ vless://02500334-97ea-4952-b648-e27c42dd3a65@151.101.194.133:443?security=tls&sn
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.67.68.101:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#t.me/entryNET/config=1837950161906125
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?encryption=none&security=none&sni=ppal03-ppal03.letiwe3303.workers.dev&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F#t.me%2Fpeterjest
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.10.168:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#https://t.me/falcunargo
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.167.254:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1837950852445705
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1837951104085341
 vless://04c34012-b18d-4d35-a736-b5048e6cde33@172.67.172.53:80?security=none&type=ws&path=/#t.me/entryNET/config=1837930223228338
