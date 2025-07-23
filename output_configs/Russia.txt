@@ -34,6 +34,7 @@ ss://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=/&security=non
 ss://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#REALITY|RU🇷🇺
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.106.219:80?path=Telegram%3A%40%40vpnclashfa+-+1205#RU🇷🇺
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40%40vpnclashfa+-+1213#RU🇷🇺
+ss://95dd1a77-89e1-4448-9763-514cc79168ed@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Novoye
 ss://9b76e072-4c99-459a-ba9d-53479a665110@gervip.midnight1.top:300?security=none&encryption=none&host=Uptvs.com%2Ctci.ir&headerType=http&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2aryng_vpn%20%7C%2011
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllOWJhNy1kM2MyLTQxNWUtYmUxNC1lYTRkYWM4OTdhMmQ=@freea.glyphara.com:36511#15%7C29%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%7C%E5%AE%98%E7%BD%91%EF%BC%9A%E8%93%9D%E8%89%B2%E6%B5%B7%E6%B4%8B.xyz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#%F0%9F%87%B7%F0%9F%87%BA%20RU-45.151.62.54%3A28825
@@ -135,6 +136,7 @@ vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=/&security=
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#REALITY|RU🇷🇺
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.106.219:80?path=Telegram%3A%40%40vpnclashfa+-+1205#RU🇷🇺
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40%40vpnclashfa+-+1213#RU🇷🇺
+vless://95dd1a77-89e1-4448-9763-514cc79168ed@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Novoye
 vless://9b76e072-4c99-459a-ba9d-53479a665110@gervip.midnight1.top:300?security=none&encryption=none&host=Uptvs.com%2Ctci.ir&headerType=http&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2aryng_vpn%20%7C%2011
 vless://ac7e5f1e-1a04-4685-b075-cc9d8cff63b1@ru2.asc-sam.ir:8443?type=xhttp&path=%2FrgtsreuiRYcfq&host=&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#RU🇷🇺
 vless://c8fae2e1-bffc-4e20-94f2-8bee7ba14ccd@meli_proxyy.vip-plan.org:54474?mode=auto&path=%2F&security=reality&encryption=none&pbk=mVptIpBcUtMqN2tfYE8eNwBrhqNdb0lWJoeRvYen8TY&host=fast.com&fp=random&spx=%2F&type=xhttp&sni=yahoo.com&sid=2cb4454d18#REALITY|RU🇷🇺

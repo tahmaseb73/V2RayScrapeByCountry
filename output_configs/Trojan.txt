@@ -1882,6 +1882,7 @@ trojan://Aimer@154.40.46.4:36984?sni=epccn.ambercc.filegear-sg.me#🔒
 trojan://Aimer@154.7.181.207:40893?sni=epmq.ambercc.filegear-sg.me#🔒
 trojan://Aimer@154.83.2.88:2083?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@155.46.213.38:2083?sni=agepw.ambercc.filegear-sg.me#🔒
+trojan://Aimer@156.225.72.199:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://Aimer@156.225.72.199:2096?sni=epme.ambercc.filegear-sg.me#🔒
 trojan://Aimer@156.225.72.246:2087?sni=agepj.ambercc.filegear-sg.me#🔒
 trojan://Aimer@156.251.180.181:21698?sni=epccc.ambercc.filegear-sg.me#🔒
@@ -2885,6 +2886,7 @@ trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@104.21.30.167:443?allowInsecure=0&
 trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@104.21.30.167:443?sni=TttTtTYU.2032.PP.UA#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@172.67.173.64:443?security=tls&sni=TttTtTYU.2032.PP.UA&alpn=http%2F1.1&fp=chrome&type=ws&host=ttttttyu.2032.pp.ua&path=%2FmXG7Hx4Y37nTr2Hdmy903WCeD85F1b#%40mobilesignal%F0%9F%87%BA%F0%9F%87%B8%E2%9C%85
 trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@172.67.173.64:443?sni=TttTtTYU.2032.PP.UA&fp=chrome&host=ttttttyu.2032.pp.ua&alpn=http%2F1.1&type=ws&security=tls&path=%2FmXG7Hx4Y37nTr2Hdmy903WCeD85F1b#RELAY🚩
+trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@172.67.173.64:443?sni=TttTtTYU.2032.PP.UA&fp=chrome&host=ttttttyu.2032.pp.ua&alpn=http%2F1.1&type=ws&security=tls&path=%2FmXG7Hx4Y37nTr2Hdmy903WCeD85F1b#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.38ms
 trojan://a8664a30-29cc-11f0-92d4-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://a8664a30-29cc-11f0-92d4-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%F0%9F%A9%B5
 trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.21.226:443?security=tls&sni=1P.890689.xyZ&type=ws&path=/lXENb74xF4ylXngZ#🔒
@@ -3231,7 +3233,6 @@ trojan://bpb-trojan@104.16.4.103:443?security=tls&sni=bpb-hd.aaronchin.xyz&type=
 trojan://bpb-trojan@104.17.102.149:2053?security=tls&sni=bpb-WorkEr-panel-bcr.PagEs.DEv&type=ws&host=bpb-worker-panel-bcr.pages.dev#🔒
 trojan://bpb-trojan@104.17.133.64:443?allowInsecure=1&sni=bpb.my79801.com#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.17.150.189:443?allowInsecure=1&sni=bpb.my79801.com#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.17.253.204:443?allowInsecure=1&sni=bpb.my79801.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.16ms
 trojan://bpb-trojan@104.18.107.117:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒
 trojan://bpb-trojan@104.18.182.198:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
@@ -3696,7 +3697,6 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#%F0%9F%87%B3%F0%9F%87%B1%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#✅@v2ray_configs_pools
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.44ms
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&allowinsecure=0&type=ws&sni=vpn.stupidworld.web.id#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40dnsforyou%20%7C%208
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40kurdistan_vpn_perfectt%20%7C%2010
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩
