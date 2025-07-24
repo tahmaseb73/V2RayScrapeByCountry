@@ -20,6 +20,7 @@ ss://17ea1c17-89e5-405e-aaeb-81fe7bde470a@1750158741.tencentapp.cn:443?mode=mult
 ss://17ea1c17-89e5-405e-aaeb-81fe7bde470a@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A93.25+GB
 ss://17ea1c17-89e5-405e-aaeb-81fe7bde470a@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A93.59+GB
 ss://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?flow=&type=tcp&headerType=none&security=none#GB🇬🇧
+ss://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40v2xay
 ss://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#GB🇬🇧
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?encryption=none&security=tls&sni=51PsHq6RqP.vPbEtHoRvP002.iNfO&type=ws&alpn=h3h2&host=51PsHq6RqP.vPbEtHoRvP002.iNfO&path=/#%3E%3E%40DailyV2RY%3A%3AGB
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security=tls&alpn=h3h2&encryption=none&host=51PsHq6RqP.vPbEtHoRvP002.iNfO&type=ws&sni=51PsHq6RqP.vPbEtHoRvP002.iNfO#%3E%3E%40ShadowsocksM%3A%3AGB
@@ -615,6 +616,7 @@ vless://17ea1c17-89e5-405e-aaeb-81fe7bde470a@1750158741.tencentapp.cn:443?mode=m
 vless://17ea1c17-89e5-405e-aaeb-81fe7bde470a@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A93.25+GB
 vless://17ea1c17-89e5-405e-aaeb-81fe7bde470a@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A93.59+GB
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?flow=&type=tcp&headerType=none&security=none#GB🇬🇧
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40v2xay
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#GB🇬🇧
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?encryption=none&security=tls&sni=51PsHq6RqP.vPbEtHoRvP002.iNfO&type=ws&alpn=h3h2&host=51PsHq6RqP.vPbEtHoRvP002.iNfO&path=/#%3E%3E%40DailyV2RY%3A%3AGB
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security=tls&alpn=h3h2&encryption=none&host=51PsHq6RqP.vPbEtHoRvP002.iNfO&type=ws&sni=51PsHq6RqP.vPbEtHoRvP002.iNfO#%3E%3E%40ShadowsocksM%3A%3AGB
