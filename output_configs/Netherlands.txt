@@ -76,7 +76,6 @@ ss://588f094b-431b-422c-b80b-007945037072@89.23.103.150:443?security=tls&sni=nl0
 ss://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?mode=multi&security=reality&encryption=none&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=11648b03a5acc7#REALITY|NL🇳🇱
 ss://5bb2f5d4-8555-4638-90e7-462f59365517@nl7.fastlanehosting.ru:443?security=reality&encryption=none&pbk=pSnQPTV7975vhNh83dHdXEyvCJiiTqYxpDY638xy9SI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=marktplaats.nl&sid=9e#%F0%9F%87%B3%F0%9F%87%B1Netherlands`
 ss://5c9fa74d-c08b-43f6-b1da-f21a6cd287f4@104.17.148.22:80?path=%2F%3Fed%3D80&security=none&encryption=none&host=dizdiz.navidsports.ir.&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20-%20CONFEGRAIGAN%20%D8%AA%D8%B3%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF
-ss://60b25fa8-c78a-46d5-872c-5f8dfe1f9038@z.encoder.site:38131?type=tcp&security=reality&pbk=cYct-0cTh0GutibFo7ExYOwLjrt9KCtgg1iMp-mgyw8&fp=chrome&sni=google.com&sid=f3&spx=%2F&flow=xtls-rprx-vision#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1-%D8%AE%D8%B1%DB%8C%D8%AF%20vpn%20%D8%A7%D8%B2%20%40itsiliyaaa%20-10%20GB
 ss://6149f52f-06fd-47e5-bc22-e5507dbaca02@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=nl1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=nl1.loopycloudcfjiasucdn.pp.ua#%E8%8D%B7%E5%85%B0%F0%9F%87%B3%F0%9F%87%B1-%E9%98%BF%E5%A7%86-CDN+%7C+1x
 ss://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40flyv2ray%3A%3ANL
 ss://6d22e198-a822-4d56-8a53-fd25221fd332@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=free3.loopycloudcfjiasucdn.us.kg&path=%2F&host=free3.loopycloudcfjiasucdn.us.kg#%E8%8D%B7%E5%85%B0%F0%9F%87%B3%F0%9F%87%B1-%E9%98%BF%E5%A7%86-CDN+%7C+1x
@@ -404,7 +403,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDEwMy4xMDQuMjQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDEwMy4xMDQuMjQ3LjQ5OjgwODA=#%F0%9F%87%B3%F0%9F%87%B1NL-103.104.247.49-0202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvamNQMzZuMVNvdURjbkJnOUVPWlA4@9.163.232.180:1490#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+9.163.232.180-1490+%7C+150.39ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc%3D@89.23.103.229:443#%3E%3E%40v2rayngvpn%3A%3ANL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc%3D@89.23.103.229:443#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40v2xay
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc3@89.23.103.229:443#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+89.23.103.229-443+%7C+150.27ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc=@89.23.103.229:443#%3E%3E%40v2rayngvpn%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc=@89.23.103.229:443#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+89.23.103.229-443+%7C+160.12ms
@@ -586,7 +584,6 @@ vless://588f094b-431b-422c-b80b-007945037072@89.23.103.150:443?security=tls&sni=
 vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?mode=multi&security=reality&encryption=none&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=11648b03a5acc7#REALITY|NL🇳🇱
 vless://5bb2f5d4-8555-4638-90e7-462f59365517@nl7.fastlanehosting.ru:443?security=reality&encryption=none&pbk=pSnQPTV7975vhNh83dHdXEyvCJiiTqYxpDY638xy9SI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=marktplaats.nl&sid=9e#%F0%9F%87%B3%F0%9F%87%B1Netherlands`
 vless://5c9fa74d-c08b-43f6-b1da-f21a6cd287f4@104.17.148.22:80?path=%2F%3Fed%3D80&security=none&encryption=none&host=dizdiz.navidsports.ir.&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20-%20CONFEGRAIGAN%20%D8%AA%D8%B3%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://60b25fa8-c78a-46d5-872c-5f8dfe1f9038@z.encoder.site:38131?type=tcp&security=reality&pbk=cYct-0cTh0GutibFo7ExYOwLjrt9KCtgg1iMp-mgyw8&fp=chrome&sni=google.com&sid=f3&spx=%2F&flow=xtls-rprx-vision#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1-%D8%AE%D8%B1%DB%8C%D8%AF%20vpn%20%D8%A7%D8%B2%20%40itsiliyaaa%20-10%20GB
 vless://6149f52f-06fd-47e5-bc22-e5507dbaca02@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=nl1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=nl1.loopycloudcfjiasucdn.pp.ua#%E8%8D%B7%E5%85%B0%F0%9F%87%B3%F0%9F%87%B1-%E9%98%BF%E5%A7%86-CDN+%7C+1x
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40flyv2ray%3A%3ANL
 vless://6d22e198-a822-4d56-8a53-fd25221fd332@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=free3.loopycloudcfjiasucdn.us.kg&path=%2F&host=free3.loopycloudcfjiasucdn.us.kg#%E8%8D%B7%E5%85%B0%F0%9F%87%B3%F0%9F%87%B1-%E9%98%BF%E5%A7%86-CDN+%7C+1x
