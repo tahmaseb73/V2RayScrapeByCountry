@@ -3498,12 +3498,6 @@ ss://22187075-9d97-40b3-d679-78639c95e6ef@www.speedtest.net:2082?path=/@spikevpn
 ss://222a1c34-96f5-45fd-bedd-b9ac4b477b98@104.18.20.69:443?security=tls&sni=bp.singbox.ggff.net&allowInsecure=1&fp=chrome&type=ws&path=/r6PSatuYdS9gZH6L/c2pjLm8wMG8ub29v&host=bp.singbox.ggff.net&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://222a1c34-96f5-45fd-bedd-b9ac4b477b98@104.18.20.69:443?security=tls&sni=bp.singbox.ggff.net&type=ws&host=bp.singbox.ggff.net&path=/r6PSatuYdS9gZH6L/c2pjLm8wMG8ub29v&fp=chrome&allowInsecure=1#🔒
 ss://222badf2-8e87-479a-8b77-1a3c952edac2@antipingchannel.antiping.click:2096?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=sourceforge.net&sni=vipping.antiping.click#%E2%9D%94%20XX%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40freev2raym%20%7C%2010
-ss://222e74ee-05d8-43f5-9dbc-9b192cb9b7ba@uuk1v.tok8888.com:8443?security=reality&encryption=none&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&headerType=&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com.cn#Sv1_@iSegaro
-ss://222e74ee-05d8-43f5-9dbc-9b192cb9b7ba@uuk2v.tok8888.com:8443?security=reality&encryption=none&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=businessmadesimple.com#Sv2_@iSegaro
-ss://222e74ee-05d8-43f5-9dbc-9b192cb9b7ba@uuk3v.tok8888.com:8443?security=reality&encryption=none&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.thewilliamvale.com#Sv3_@iSegaro
-ss://222e74ee-05d8-43f5-9dbc-9b192cb9b7ba@uuk4v.tok8888.com:8443?security=reality&encryption=none&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com.cn#Sv4_@iSegaro
-ss://222e74ee-05d8-43f5-9dbc-9b192cb9b7ba@uuk5v.tok8888.com:8443?security=reality&encryption=none&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com.cn#Sv5_@iSegaro
-ss://222e74ee-05d8-43f5-9dbc-9b192cb9b7ba@uuk6v.tok8888.com:45445?security=reality&encryption=none&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&headerType=&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.webilop.com#Sv6_@iSegaro
 ss://22477fe4-249e-4c18-8986-74b0f1f0657e@vip1.proxystore11.news:2052?mode=auto&path=/prx11&security=reality&encryption=none&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&spx=/&type=xhttp&sni=vultr.com&sid=f8fcb589#PRX11
 ss://22499e8c-6480-4f7f-b50b-91e629199327@Join.ShhProxy.Site:443?path=/&security=tls&encryption=none&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&type=ws&sni=shhproxy-free.xn--85-pv2cl2k5x3fipr.org#⚜️Telegram@V2NET_IRAN
 ss://2256470f-0997-4a6e-8f95-4a48a633b9ae@www.speedtest.net:443?mode=auto&path=%2FdhdtghInvqecasdRT&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=gr2.pezesh-kian.com&fp=random&type=xhttp&sni=gr2.pezesh-kian.com#RELAY🚩
@@ -21622,7 +21616,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Fre
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Free%20075%20%40Outline_Vpn🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Free%24%20555%20ID%28%40Outline_Vpn%29🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Free%24%20777%20ID%28%40Outline_Vpn%29🚀
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Free%24%20IRAN%206%20%28%40Outline_Vpn%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+api.namasha.co-443+%7C+166.07ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB-%3E-%3EMTN-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Telegram:@config_proxy
