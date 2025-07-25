@@ -85,7 +85,6 @@ ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20312%20%28%40Outline_Vpn%29%20free
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20333%20%28%40Outline_Vpn%29%20free
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20370%20%28%40Outline_Vpn%29%20free
-ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20%20free
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20343%20%28%40Outline_Vpn%29%20free
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20360%20%28%40Outline_Vpn%29%20free
 ss://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.30%3A2086
@@ -123,7 +122,6 @@ ss://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&path=%
 ss://2d6f2f46-5b1d-4b23-8d13-e91f27137771@193.228.169.140:2081?encryption=none&security=tls&sni=client.imesaagetext.ir&alpn=h2%2Chttp%2F1.1&fp=random&type=tcp&headerType=none&host=Join_Bade_Channel%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.228.169.140%3A2081
 ss://2fb495b4-2d12-450a-9cf6-5f637883a3e5@94.182.129.87:40305?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.129.87%3A40305
 ss://2fb8567e0c8549509975af714241b2dbOg==@ZuLa.ir:8080#RELAY%F0%9F%9A%A9+%7C+ZuLa.ir-8080+%7C+2.66ms
-ss://30d83cea-51a9-4799-84a6-3aec7005ca36@92.114.17.6:44736?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#FREE%20IRAN%20SOON
 ss://30e49f46-8532-4b11-8308-f5f7e56f83f7@185.191.77.4:443?encryption=none&security=tls&sni=fan1001.irfanpage.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&path=%2Fwsloc1003#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.191.77.4%3A443
 ss://30e49f46-8532-4b11-8308-f5f7e56f83f7@185.191.77.4:443?encryption=none&security=tls&sni=fan1001.irfanpage.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&path=%2Fwsloc1003#IR🇮🇷
 ss://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@6f.startrich.site:8441?security=none&encryption=none&type=ws#IR🇮🇷
@@ -434,7 +432,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#IRAN%20237%20%28%40Outline_Vpn%29%20free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYU1JVGZmNG5tWEo2Y3FsdkpCaUVG@vienna.telegavpn.com:61992#⚜️Telegram@V2NET_IRAN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnUmoxdFNrWnhoY2lYTlk3UnV6Zmx3@85.9.104.32:1080#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+85.9.104.32-1080+%7C+310.65ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSkxVTHNxaXM0MjJVNERoNnRRcFEy@93.123.46.84:8443#F35-L1%20-%20irancell
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@43.199.75.50:8313#@V2ray_confing33--IR-2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@43.199.75.50:8313#hibyevpn--IR-2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#@V2rayNG3-Irancell
@@ -849,7 +846,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20312%20%28%40Outline_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20333%20%28%40Outline_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20370%20%28%40Outline_Vpn%29%20free
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20343%20%28%40Outline_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20360%20%28%40Outline_Vpn%29%20free
 vless://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.30%3A2086
@@ -885,7 +881,6 @@ vless://2bd0fb57-e270-4775-bddb-e4fb0648f090@62.60.163.206:19198?encryption=none
 vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&path=%2Fdabadoo&host=dadashi.ir&security=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40iranbfilter%20%7C%206
 vless://2d6f2f46-5b1d-4b23-8d13-e91f27137771@193.228.169.140:2081?encryption=none&security=tls&sni=client.imesaagetext.ir&alpn=h2%2Chttp%2F1.1&fp=random&type=tcp&headerType=none&host=Join_Bade_Channel%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.228.169.140%3A2081
 vless://2fb495b4-2d12-450a-9cf6-5f637883a3e5@94.182.129.87:40305?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.129.87%3A40305
-vless://30d83cea-51a9-4799-84a6-3aec7005ca36@92.114.17.6:44736?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#FREE%20IRAN%20SOON
 vless://30e49f46-8532-4b11-8308-f5f7e56f83f7@185.191.77.4:443?encryption=none&security=tls&sni=fan1001.irfanpage.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&path=%2Fwsloc1003#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.191.77.4%3A443
 vless://30e49f46-8532-4b11-8308-f5f7e56f83f7@185.191.77.4:443?encryption=none&security=tls&sni=fan1001.irfanpage.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&path=%2Fwsloc1003#IR🇮🇷
 vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@6f.startrich.site:8441?security=none&encryption=none&type=ws#IR🇮🇷
