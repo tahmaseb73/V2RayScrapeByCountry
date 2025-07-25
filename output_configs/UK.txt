@@ -124,6 +124,7 @@ ss://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v21.vxlimir.com:1370?security=reality&
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:2087?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#GB🇬🇧
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:8080?type=httpupgrade&encryption=none&flow=&path=%2F#GB🇬🇧
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#GB🇬🇧
+ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2052?path=%2F%3F---Join-TELEGRAM-V2XAY&security=none&encryption=none&type=ws#GB
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.29:2082?type=ws&encryption=none&flow=&path=%2F%3F---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#GB🇬🇧
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:2082?encryption=none&security=none&type=ws&path=%2F#GB🇬🇧
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:2082?encryption=none&security=none&type=ws&path=%2F%3F---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#GB🇬🇧
@@ -722,6 +723,7 @@ vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v21.vxlimir.com:1370?security=reali
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:2087?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#GB🇬🇧
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:8080?type=httpupgrade&encryption=none&flow=&path=%2F#GB🇬🇧
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#GB🇬🇧
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2052?path=%2F%3F---Join-TELEGRAM-V2XAY&security=none&encryption=none&type=ws#GB
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.29:2082?type=ws&encryption=none&flow=&path=%2F%3F---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#GB🇬🇧
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:2082?encryption=none&security=none&type=ws&path=%2F#GB🇬🇧
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:2082?encryption=none&security=none&type=ws&path=%2F%3F---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#GB🇬🇧
