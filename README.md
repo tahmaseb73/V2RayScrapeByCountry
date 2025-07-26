@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2025-07-27 02:25:22 +0330)
+# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2025-07-27 02:48:34 +0330)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -11,11 +11,11 @@
 | پروتکل | تعداد کل | لینک |
 |:-:|:-:|:-:|
 | Hysteria2 | 684 | [`Hysteria2.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Hysteria2.txt) |
-| ShadowSocks | 43126 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
+| ShadowSocks | 43127 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 70 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/ShadowSocksR.txt) |
 | Trojan | 4762 | [`Trojan.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Trojan.txt) |
 | Tuic | 364 | [`Tuic.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Tuic.txt) |
-| Vless | 32420 | [`Vless.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
+| Vless | 32419 | [`Vless.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Vless.txt) |
 | Vmess | 2916 | [`Vmess.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Vmess.txt) |
 | WireGuard | 83 | [`WireGuard.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/WireGuard.txt) |
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
@@ -41,7 +41,7 @@
 | <img src="https://flagcdn.com/w20/ca.png" width="20" alt="Canada flag"> Canada (کانادا) | 470 | [`Canada.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Canada.txt) |
 | <img src="https://flagcdn.com/w20/cf.png" width="20" alt="CentralAfricanRepublic flag"> CentralAfricanRepublic (جمهوری آفریقای مرکزی) | 24 | [`CentralAfricanRepublic.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/CentralAfricanRepublic.txt) |
 | <img src="https://flagcdn.com/w20/cl.png" width="20" alt="Chile flag"> Chile (شیلی) | 2 | [`Chile.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Chile.txt) |
-| <img src="https://flagcdn.com/w20/cn.png" width="20" alt="China flag"> China (چین) | 277 | [`China.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/China.txt) |
+| <img src="https://flagcdn.com/w20/cn.png" width="20" alt="China flag"> China (چین) | 276 | [`China.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/China.txt) |
 | <img src="https://flagcdn.com/w20/co.png" width="20" alt="Colombia flag"> Colombia (کلمبیا) | 49 | [`Colombia.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Colombia.txt) |
 | <img src="https://flagcdn.com/w20/cr.png" width="20" alt="CostaRica flag"> CostaRica (کاستاریکا) | 5 | [`CostaRica.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/CostaRica.txt) |
 | <img src="https://flagcdn.com/w20/hr.png" width="20" alt="Croatia flag"> Croatia (کرواسی) | 8 | [`Croatia.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Croatia.txt) |
@@ -90,7 +90,7 @@
 | <img src="https://flagcdn.com/w20/pl.png" width="20" alt="Poland flag"> Poland (لهستان) | 148 | [`Poland.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Poland.txt) |
 | <img src="https://flagcdn.com/w20/pt.png" width="20" alt="Portugal flag"> Portugal (پرتغال) | 20 | [`Portugal.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Portugal.txt) |
 | <img src="https://flagcdn.com/w20/ro.png" width="20" alt="Romania flag"> Romania (رومانی) | 22 | [`Romania.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Romania.txt) |
-| <img src="https://flagcdn.com/w20/ru.png" width="20" alt="Russia flag"> Russia (روسیه) | 156 | [`Russia.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Russia.txt) |
+| <img src="https://flagcdn.com/w20/ru.png" width="20" alt="Russia flag"> Russia (روسیه) | 157 | [`Russia.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Russia.txt) |
 | <img src="https://flagcdn.com/w20/ws.png" width="20" alt="Samoa flag"> Samoa (ساموآ) | 288 | [`Samoa.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Samoa.txt) |
 | <img src="https://flagcdn.com/w20/rs.png" width="20" alt="Serbia flag"> Serbia (صربستان) | 8 | [`Serbia.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Serbia.txt) |
 | <img src="https://flagcdn.com/w20/sc.png" width="20" alt="Seychelles flag"> Seychelles (سیشل) | 6 | [`Seychelles.txt`](https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/refs/heads/main/output_configs/Seychelles.txt) |
