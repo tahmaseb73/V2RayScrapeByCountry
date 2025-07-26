@@ -65,13 +65,9 @@ ss://21147720fdb84f96ceb6e7f9c0633471Og==@asia2.novahomedesigntips.com:18200#DE%
 ss://22c199ca-c36f-4e4f-8384-bed0ef74a265@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 ss://236b64ca-e4c7-40ad-a49a-d3a8937b9b9b@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#DE🇩🇪
 ss://243418d0-bf94-4710-8311-7507778a4cc2@168.119.184.138:25093?mode=gun&security=reality&encryption=none&pbk=Y6NKkoTdEh7XQpLP0NrLTpwEWyEyL3E7PouAC4ShTXY&fp=firefox&spx=%2F&type=grpc&serviceName=%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn&sni=joinv_2rayngvpn.v2rayvpn2.sbs&sid=48d69fd8#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40v2ray_inter%20%7C%208
-ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
-ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?encryption=none&security=none&type=tcp&headerType=none#DE🇩🇪
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=&encryption=none&headerType=none&type=tcp#DE🇩🇪
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
-ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
-ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@138.199.232.36:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@138.199.232.36:2087?mode=gun&security=tls&encryption=none&type=grpc#DE🇩🇪
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020?security=none&type=tcp&packetEncoding=xudp&encryption=none#DE🇩🇪
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.207.238:2020?security=&encryption=none&headerType=none&type=tcp#DE🇩🇪
@@ -330,7 +326,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4QDQ1LjE1MC4zMi4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpESjdGWWdhQm9TUlFGVDVrTVE1cDFW@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20DE-81.19.141.45%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpET0FEYVliT3h6YlhYQUlERVNkOFpt@45.144.54.33:34803#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1ss%20%7C%2016
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpET0FEYVliT3h6YlhYQUlERVNkOFpt@45.144.54.33:34803#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+45.144.54.33-34803+%7C+106.56ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#DE%203%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40v2xay
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+85.208.139.158-25607+%7C+100.66ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+85.208.139.158-25607+%7C+93.7ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTkY0RTNBU0E3bERMaGpGRXFwOVFr@h110vpnde.outlinekeys.net:21712#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+h110vpnde.outlinekeys.net-21712+%7C+295.71ms
@@ -345,6 +340,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFRQDQ1LjE0NC41NC4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFRQDQ1LjE0NC41NC4zMzozNDgwMw==#%F0%9F%87%A9%F0%9F%87%AADE-45.144.54.33-0271
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFRQDQ1LjE0NC41NC4zMzozNDgwMw==#SS-%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A-NF%E8%A7%A3%E9%94%81%E5%BE%B7%E5%9B%BD%E5%9C%B0%E5%8C%BA%E9%9D%9E%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-45.144.54.33%3A34803
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMd2lHV3BiMVZGYUw4Z1MwcVY5WEpj@de.xray.services:8443#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+de.xray.services-8443+%7C+325.52ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#%F0%9F%87%A9%F0%9F%87%AA%5Bopenproxylist.com%5D%20ss-DE🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#%F0%9F%87%A9%F0%9F%87%AADE-138.124.115.157-5261
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#🇩🇪DE-138.124.115.157-0254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#🇩🇪DE-138.124.115.157-0278
@@ -688,13 +684,9 @@ vless://20fe9385-f429-4dc4-acc8-2e372a3d982b@165.22.69.147:443?type=xhttp&path=%
 vless://22c199ca-c36f-4e4f-8384-bed0ef74a265@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 vless://236b64ca-e4c7-40ad-a49a-d3a8937b9b9b@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#DE🇩🇪
 vless://243418d0-bf94-4710-8311-7507778a4cc2@168.119.184.138:25093?mode=gun&security=reality&encryption=none&pbk=Y6NKkoTdEh7XQpLP0NrLTpwEWyEyL3E7PouAC4ShTXY&fp=firefox&spx=%2F&type=grpc&serviceName=%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn&sni=joinv_2rayngvpn.v2rayvpn2.sbs&sid=48d69fd8#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40v2ray_inter%20%7C%208
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?encryption=none&security=none&type=tcp&headerType=none#DE🇩🇪
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=&encryption=none&headerType=none&type=tcp#DE🇩🇪
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@138.199.232.36:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@138.199.232.36:2087?mode=gun&security=tls&encryption=none&type=grpc#DE🇩🇪
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020?security=none&type=tcp&packetEncoding=xudp&encryption=none#DE🇩🇪
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.207.238:2020?security=&encryption=none&headerType=none&type=tcp#DE🇩🇪
@@ -1130,6 +1122,7 @@ vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJERVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSB8IGthcGVsbGVuZy5jb20tNDQzIHwgMTIxLjU3bXMiLCJzY3kiOiJhdXRvIiwic25pIjoia2FwZWxsZW5nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI2OC4xODMuNjkuMTU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJibXcuY29tIiwiaWQiOiIxOTFiZTliMi00NTFmLTQ5MzktOWM5YS04MzcxOGUxYTA0YzciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ikdlcm1hbnkg8J+HqfCfh6rihKIgQGNvbmZpbmdhbSDwn5OhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5MS45OS4yMDkuMjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk0NDQwOTQ2LTIwZDMtNDhlMy05YWNjLWJjYTUxOWM2NzkxZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzI4MjEiLCJwcyI6IkRFXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIHwgOTEuOTkuMjA5LjIyNC0zMjgyMSB8IDk0Ljc1bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI5MS4xMDcuMjQzLjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMGNjZGViOS03ODRjLTRkNjctYjkwNC0yMGRjYWFjOTkwMmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMyMDE3IiwicHMiOiJERSAzIPCfh6nwn4eqIHwgQHYyeGF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5MS4xMDcuMjQzLjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMGNjZGViOS03ODRjLTRkNjctYjkwNC0yMGRjYWFjOTkwMmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMyMDE3IiwicHMiOiJERVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSB8IDkxLjEwNy4yNDMuMTUwLTMyMDE3IHwgOTIuNjhtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5MS4xMDcuMjQzLjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMGNjZGViOS03ODRjLTRkNjctYjkwNC0yMGRjYWFjOTkwMmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMyMDE3IiwicHMiOiJERVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSB8IDkxLjEwNy4yNDMuMTUwLTMyMDE3IHwgOTMuMTFtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI5MS4xMDcuMjQzLjE1MCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjMGNjZGViOS03ODRjLTRkNjctYjkwNC0yMGRjYWFjOTkwMmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMyMDE3IiwicHMiOiJERVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSB8IDkxLjEwNy4yNDMuMTUwLTMyMDE3IHwgOTIuMjltcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
