@@ -89,6 +89,8 @@ ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.143:2096/?type=ws&encrypti
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.143:8443/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%2Btls%20%284e0%29
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2053/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20grpc%2Btls%20%284e0%29
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2087/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20grpc%2Btls%20%284e0%29
+ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%2Btls%20%284e0%29
+ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:8080/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#DE🇩🇪
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?encryption=none&security=none&type=tcp&headerType=none#DE🇩🇪
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.72.33:2020?encryption=none&security=none&type=tcp&headerType=none#DE🇩🇪
@@ -716,6 +718,8 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.143:2096/?type=ws&encry
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.143:8443/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%2Btls%20%284e0%29
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2053/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20grpc%2Btls%20%284e0%29
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2087/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20grpc%2Btls%20%284e0%29
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%2Btls%20%284e0%29
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:8080/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#DE🇩🇪
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?encryption=none&security=none&type=tcp&headerType=none#DE🇩🇪
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.72.33:2020?encryption=none&security=none&type=tcp&headerType=none#DE🇩🇪
