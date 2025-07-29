@@ -55,7 +55,6 @@ ss://1c624c35-feef-4cb5-c6da-d2e75ca463bb@37.202.224.194:55269?encryption=none&s
 ss://1ca22665-c6c5-455a-ba74-c9d318eea59b@85.9.105.146:8443?encryption=none&security=none&type=tcp&headerType=http&host=onedrive.live.com%2Ccdnjs.cloudflare.com%2Craw.githubusercontent.com%2Cdrive.google.com%2Cdropbox.com%2Cbox.com%2Carchive.org#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.9.105.146%3A8443
 ss://1cef7644-7da6-4652-a407-c1119b53f48e@193.228.91.7:31291?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40mowjproxy%20%7C%204
 ss://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20434%20%28%40Outline_Vpn%29%20free
-ss://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20434%20%28%40proxy_kafee%29%20free
 ss://1d6b55be-75d3-4ea2-bedf-98f3a757c458@185.79.158.150:8051?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.79.158.150%3A8051
 ss://1d6b55be-75d3-4ea2-bedf-98f3a757c458@185.79.158.153:8051?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.79.158.153%3A8051
 ss://1d6b55be-75d3-4ea2-bedf-98f3a757c458@185.79.158.153:8051?encryption=none&security=none&type=tcp&headerType=http#IR🇮🇷
@@ -397,6 +396,7 @@ ss://V2Net_iran@speed.cloudflare.com:8443?path=/V2NET-IRAN-V2NET-IRAN-V2NET-IRAN
 ss://V2net_IRan@discord.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran&sni=v2net-iran-v2ray-nl.morgensport.nl#🆔TELEGRAM⚔️@V2NET_IRAN
 ss://WANCLOUDFA@104.31.16.235:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&type=grpc&serviceName=&sni=wanciopr.wertycvnur.ir#👉🆔+@V2NET_IRAN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#Free%24%20IRAN%207%20%28%40Outline_Vpn%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#Free%24%20IRAN%207%20%28%40Outline_Vpn%29🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDQ5MWFmMy05OWZiLTQ3NDAtOTI0ZS1hODE1NzU3ZGZmYjE=@85.133.238.67:1935#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.238.67%3A1935
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1b25zeitTUWFJYnczYnJUT2FlU01LakM5ZkhYbFZiRlJzQit6R2VXOWlFPQ==@3.71.0.196:2087#⚜️Telegram@V2NET_IRAN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.250.141.14:443#Irancell-@SRCVPN-1
@@ -802,7 +802,6 @@ vless://1c624c35-feef-4cb5-c6da-d2e75ca463bb@37.202.224.194:55269?encryption=non
 vless://1ca22665-c6c5-455a-ba74-c9d318eea59b@85.9.105.146:8443?encryption=none&security=none&type=tcp&headerType=http&host=onedrive.live.com%2Ccdnjs.cloudflare.com%2Craw.githubusercontent.com%2Cdrive.google.com%2Cdropbox.com%2Cbox.com%2Carchive.org#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.9.105.146%3A8443
 vless://1cef7644-7da6-4652-a407-c1119b53f48e@193.228.91.7:31291?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40mowjproxy%20%7C%204
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20434%20%28%40Outline_Vpn%29%20free
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20434%20%28%40proxy_kafee%29%20free
 vless://1d6b55be-75d3-4ea2-bedf-98f3a757c458@185.79.158.150:8051?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.79.158.150%3A8051
 vless://1d6b55be-75d3-4ea2-bedf-98f3a757c458@185.79.158.153:8051?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.79.158.153%3A8051
 vless://1d6b55be-75d3-4ea2-bedf-98f3a757c458@185.79.158.153:8051?encryption=none&security=none&type=tcp&headerType=http#IR🇮🇷
