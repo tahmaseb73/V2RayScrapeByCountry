@@ -1,3 +1,1 @@
-ss://cef22fed-ca08-4e2b-8796-2780cd9a6550@safar65.ucpubg.org:54556?type=tcp&security=none&headerType=http&path=/&host=dash.cloudflare.com#ge-83392
-vless://cef22fed-ca08-4e2b-8796-2780cd9a6550@safar65.ucpubg.org:54556?type=tcp&security=none&headerType=http&path=/&host=dash.cloudflare.com#ge-83392
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDEwNyB8ICAzLjlNQi9zfDU0JXxPcGVuYWl8R2UuLi4iLCAiYWRkIjogImFiYy50aGV5eXN6bW4uc2JzIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIzZDg0YTY2OC0wNTg4LTQ0N2ItZmJlMS0wNThkZWI1YmFmOTMiLCAic25pIjogImFiYy50aGV5eXN6bW4uc2JzIn0=
