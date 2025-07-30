@@ -186,6 +186,7 @@ trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sn
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sni=CVFgTrE4.222560.XyZ&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&fp=chrome&alpn=http%2F1.1#🔒
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.220.140:443?security=tls&sni=xXxcDdFR4ER.000890604.xyz&type=grpc#🔒
 trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls#%F0%9F%87%B8%F0%9F%87%AASE-172.232.139.220-0506
+trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls&type=tcp&headerType=none#🇸🇪[openproxylist.com]
 trojan://1H%254NBDAq%23bQ@104.21.48.6:2083?security=tls&sni=tabnak.farsonline24.ir&type=ws&host=tabnak.farsonline24.ir&path=/sq54iQsL#🔒
 trojan://1SVMx5oYwG@iran.farsonline24.ir:2053?security=tls&type=ws&host=iran.farsonline24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://1UUks8qp3f@46.62.153.8:443?mode=auto&path=%2F&security=reality&pbk=1DT1gbnx43QGMYoBkam0b9fzSd00qghvlrmbdO-WaHc&fp=chrome&spx=%2F&type=xhttp&sni=eset.com&sid=9bbb8aa1afa8e9#REALITY|SK🇸🇰
@@ -383,6 +384,7 @@ trojan://3828095943467868160@194.62.99.56:443?sni=main-bee.dolphin109.quest#🔒
 trojan://3828095943467868160@38.60.217.99:443?sni=winning-doberman.dolphin109.quest#🔒
 trojan://3a792860-34de-11f0-a992-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray
 trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-139.162.179.106-0501
+trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?security=tls&type=tcp&headerType=none#🇩🇪[openproxylist.com]
 trojan://3b1c8870-0a7d-11f0-944c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.149.225:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒
