@@ -294,6 +294,7 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sn
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0350
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#US🇺🇸
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&fp=chrome&type=tcp&headerType=none#Telegram:@config_proxy
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freeguard.org#US
@@ -2641,7 +2642,6 @@ trojan://NISHIKUITAN111@104.18.113.114:443#RELAY🚩
 trojan://NISHIKUITAN111@104.18.113.114:443?allowInsecure=1&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.19.179.218:443#RELAY🚩
 trojan://NISHIKUITAN111@104.19.188.107:443#RELAY🚩
-trojan://NISHIKUITAN111@104.19.188.107:443?#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.95ms
 trojan://NISHIKUITAN111@104.19.44.160:443?#🔒
 trojan://NISHIKUITAN111@104.19.95.55:443?allowInsecure=1&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.20.138.222:443?#🔒
@@ -2665,7 +2665,6 @@ trojan://NISHIKUITAN111@104.25.56.70:443?allowInsecure=1&ws=1&wspath=%2F#@Hope_N
 trojan://NISHIKUITAN111@104.25.99.96:443#RELAY🚩
 trojan://NISHIKUITAN111@104.26.9.255:443?allowInsecure=1&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.27.18.180:443?allowInsecure=1&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@104.27.25.157:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.24ms
 trojan://NISHIKUITAN111@104.27.42.14:443#RELAY🚩
 trojan://NISHIKUITAN111@14.102.228.61:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#US🇺🇸
 trojan://NISHIKUITAN111@141.101.113.229:443?allowInsecure=1&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram
@@ -4457,6 +4456,7 @@ trojan://ttfang@103.106.230.186:81?type=ws&sni=ttfang.fange.me&path=/&host=ttfan
 trojan://ttfang@128.199.237.143:443?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#RELAY🚩
 trojan://tune7jerky7HAYRICK@45.79.19.196:443?security=tls&sni=ap-northeast-1.openssl3.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Richardson%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://tune7jerky7HAYRICK@96.126.123.244:443?security=tls&sni=ap-northeast-1.openssl3.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Richardson%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://tunnel-astrovpn_official_ee@ee-1.stunnel.cc:8441?security=tls&alpn=http%2F1.1&host=ee-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#👉🆔@v2ray_configs_pool📡🇪🇪®️Estonia©️Tallinn🅿️ping:24.9ms
 trojan://tvRqMFmVhZ@45.95.241.101:8443?security=tls&sni=aa.v2jey.fun&type=grpc#🔒
 trojan://tvRqMFmVhZ@45.95.241.101:8443?security=tls&type=grpc&sni=aa.v2jey.fun#%E6%9C%AA%E7%9F%A5151
 trojan://u5v6w7x8-9012-3bcd-4abc-5678abcdef78@104.21.25.520:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker
