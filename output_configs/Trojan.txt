@@ -186,7 +186,7 @@ trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.94.69:443?security=tls&sni=
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sni=CVFgTrE4.222560.XyZ&alpn=http%2F1.1&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID#t.me%2Fpeterjest
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sni=CVFgTrE4.222560.XyZ&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&fp=chrome&alpn=http%2F1.1#🔒
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.220.140:443?security=tls&sni=xXxcDdFR4ER.000890604.xyz&type=grpc#🔒
-trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls#%F0%9F%87%B8%F0%9F%87%AASE-172.232.139.220-0506
+trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls#%F0%9F%87%B8%F0%9F%87%AASE-172.232.139.220-0240
 trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls&type=tcp&headerType=none#🏳[openproxylist.com]
 trojan://1H%254NBDAq%23bQ@104.21.48.6:2083?security=tls&sni=tabnak.farsonline24.ir&type=ws&host=tabnak.farsonline24.ir&path=/sq54iQsL#🔒
 trojan://1SVMx5oYwG@iran.farsonline24.ir:2053?security=tls&type=ws&host=iran.farsonline24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
@@ -385,6 +385,7 @@ trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&heade
 trojan://3828095943467868160@194.62.99.56:443?sni=main-bee.dolphin109.quest#🔒
 trojan://3828095943467868160@38.60.217.99:443?sni=winning-doberman.dolphin109.quest#🔒
 trojan://3a792860-34de-11f0-a992-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray
+trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-139.162.179.106-0239
 trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?security=tls&type=tcp&headerType=none#🇩🇪[openproxylist.com]
 trojan://3b1c8870-0a7d-11f0-944c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.149.225:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒
@@ -962,6 +963,7 @@ trojan://71086710-33eb-11ed-adce-1239d0255272@103.253.24.212:443?security=tls&sn
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=/6b777a91#🔒
 trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?allowInsecure=1&sni=jobsfortheworldtoday.com#t.me/entryNET/config=1837949783780732
 trojan://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?security=tls&sni=vbbb.ylks2024.us.kg&type=ws&host=vbbb.ylks2024.us.kg&path=/youlingkaishi#🔒
+trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@104.21.25.72:443?type=ws&host=gggbnmjk.006660666.xyz&path=%2FctdmgeIg3NII3ibrzzKXJGy3S1&security=tls&sni=GggBnmJk.006660666.xYZ&alpn=http%2F1.1&fp=chrome#🏳[openproxylist.com]
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?allowInsecure=0&sni=xXcdvFgt.191268.XYz#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?sni=xXcdvFgt.191268.XYz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
 trojan://72d42540-b1ef-11ee-bd8f-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -4453,6 +4455,7 @@ trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=azadne
 trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=azadnet-9ya.pages.dev&fp=chrome&type=ws&sni=azadnet-9ya.pages.dev#❤️
 trojan://ttfang@103.106.230.186:81?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#TW_speednode_0079
 trojan://ttfang@103.106.230.186:81?allowInsecure=1&sni=ttfang.fange.me&ws=1&wspath=%2F#TW_speednode_0079
+trojan://ttfang@103.106.230.186:81?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🇦🇺[openproxylist.com]
 trojan://ttfang@103.106.230.186:81?type=ws&sni=ttfang.fange.me&path=/&host=ttfang.fange.me#TW
 trojan://ttfang@128.199.237.143:443?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#RELAY🚩
 trojan://tune7jerky7HAYRICK@45.79.19.196:443?security=tls&sni=ap-northeast-1.openssl3.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Richardson%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
