@@ -187,7 +187,6 @@ trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sn
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sni=CVFgTrE4.222560.XyZ&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&fp=chrome&alpn=http%2F1.1#🔒
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.220.140:443?security=tls&sni=xXxcDdFR4ER.000890604.xyz&type=grpc#🔒
 trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls#%F0%9F%87%B8%F0%9F%87%AASE-172.232.139.220-0240
-trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls&type=tcp&headerType=none#🏳[openproxylist.com]
 trojan://1H%254NBDAq%23bQ@104.21.48.6:2083?security=tls&sni=tabnak.farsonline24.ir&type=ws&host=tabnak.farsonline24.ir&path=/sq54iQsL#🔒
 trojan://1SVMx5oYwG@iran.farsonline24.ir:2053?security=tls&type=ws&host=iran.farsonline24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://1UUks8qp3f@46.62.153.8:443?mode=auto&path=%2F&security=reality&pbk=1DT1gbnx43QGMYoBkam0b9fzSd00qghvlrmbdO-WaHc&fp=chrome&spx=%2F&type=xhttp&sni=eset.com&sid=9bbb8aa1afa8e9#REALITY|SK🇸🇰
